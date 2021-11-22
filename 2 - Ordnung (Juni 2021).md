@@ -35,7 +35,7 @@ Die Verwendung der Corporate Identity und des Corporate Designs ist jedoch nicht
 (1) Es wird ein jährlicher Mitgliedsbeitrag erhoben.
 <ol>
     <li>    Der Mitgliedsbeitrag beträgt 130€ pro Jahr.</li>
-    <li>    Finanzschwache Mitglieder können eine reduzierte Mitgliedsgebühr in Höhe von 65€ beantragen. Der Antrag muss in Textform bis zum 28.02. des betreffenden Jahres beim Vorstand erfolgen. 
+    <li>    Finanzschwache Mitglieder können einen reduzierten Mitgliedsbeitrag in Höhe von 65€ beantragen. Der Antrag muss in Textform bis zum 28.02. des betreffenden Jahres beim Vorstand erfolgen. 
     Als finanzschwach gelten Mitglieder, deren Gesamteinnahmen unter 2000€ liegen. 
     Der Vorstand prüft den Antrag anhand einer durch das betreffende Mitglied vorgelegte Einnahmen-Ausgaben-Rechnung des Vorjahres. 
     Der Vorstand entscheidet über den Antrag.
