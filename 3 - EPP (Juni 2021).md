@@ -87,7 +87,7 @@ Konnten nicht alle Kontingentplätze besetzt werden, kann der Vorstand gemeinsam
 Bei Lokalen Plattformen entscheidet das Organisationskomitee nach Absprache mit dem Vorstand.
 
 ### §8 – Grundsätze der Platzzuteilung und der Teilnahme
-(1) Jedes Mitglied kann mehrere Teilnehmer zu einer Veranstaltung melden. 
+(1) Jedes Mitglied, vertreten durch den Vorsitzenden, kann mehrere Teilnehmer zu einer Veranstaltung an den Vorstand, bei Mitgliederversammlungen an die Versammlungsleitung, melden. 
 Meldet ein Mitglied mehrere Teilnehmer oder haben sich mehrere Teilnehmer eines Mitgliedes registriert, hat das Mitglied spätestens zwei Tage nach Ende der Registrierung eine Prioritätenliste unter Angabe des Delegierten an den Vorstand zu versenden. 
 Reicht das Mitglied die Prioritätenliste ohne Angabe des Delegierten ein, wird dem ersten der Prioritätenliste der Kontingentplatz des Delegierten zugewiesen. 
 Reicht das Mitglied keine Prioritätenliste ein, vergibt der Vorstand die Kontingentplätze in der Reihenfolge der Registrierung.
