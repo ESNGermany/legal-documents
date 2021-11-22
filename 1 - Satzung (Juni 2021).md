@@ -155,7 +155,7 @@ Weitere Regelungen bezüglich der Beschlussfassung bei Online-Mitgliederversamml
 ### § 13 - Beschlussfassung der Mitgliederversammlung
 (1) Das Mitglied wird in der Versammlung durch einen Delegierten vertreten. 
 Ein Delegierter kann nicht mehr als zwei Mitglieder vertreten. 
-Die Vertretung ist dem Vorstand vor Beschlussfassung in Textform bekanntzugeben.
+Delegierter kann jede natürliche Person sein. Die Vertretung ist dem Vorstand und der Versammlungsleitung vor Beginn der Mitgliederversammlung durch das Mitglied, repräsentiert durch dessen Vorsitzenden in Textform mitzuteilen.
 
 (2) Die Versammlung ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder vertreten ist.
 
