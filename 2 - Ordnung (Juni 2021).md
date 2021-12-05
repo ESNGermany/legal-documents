@@ -6,29 +6,29 @@ Diese Vereinsordnung regelt die Angelegenheiten des Vereins.
 ## A. MITGLIEDER
 
 ### §2 – Aufnahme neuer Mitglieder
-(1) Die Aufnahme eines neuen Mitglieds erfolgt in einem zweistufigen Verfahren. Der Antragsteller erhält erst den Kandidatenstatus, bevor er vollwertiges Mitglied werden kann.
+(1) Die Aufnahme neuer Mitglieder erfolgt in einem zweistufigen Verfahren. Zunächst wird der Status der Kandidatur and die Antragstellenden verliehen, bevor eine vollwertige Mitgliedschaft erfolgen kann.
 
-(2) Um den Kandidatenstatus zu erhalten, bedarf es
+(2) Um den Status der Kandidatur zu erhalten, bedarf es
 <ol>
-    <li>der Teilnahme an einer Lokalen Plattform oder den Besuch des Antragstellers durch den Vorstand respektive eines durch den Vorstand beauftragten Vertreters. 
+    <li>der Teilnahme an einer Lokalen Plattform oder des Besuches der Antragstellenden durch den Vorstand respektive einer vertretungsberechtigten Person. 
     Über den Besuch ist ein Bericht anzufertigen. 
     In begründeten Ausnahmefällen kann der Vorstand beschließen, dass von einer Teilnahme an einer Lokalen Plattform oder einem Besuch abgesehen werden kann.</li>
-    <li>Entscheidung des Vorstandes über die Einladung der interessierten Organisation zu einer Mitgliederversammlung</li>
-    <li>der Vorstellung der Bewerbung durch den Antragsteller auf einer Mitgliederversammlung, die über die Aufnahme als Kandidat entscheidet.</li>
+    <li>der Entscheidung des Vorstandes über die Einladung der interessierten Organisation zu einer Mitgliederversammlung</li>
+    <li>der Vorstellung der Bewerbung durch die Antragstellenden auf einer Mitgliederversammlung, die über die den Status der Kandidatur entscheidet.</li>
 </ol>
 
 (3) Zur Aufnahme als Mitglied bedarf es
 <ol>
-    <li>eines Antrags auf Aufnahme in den Verein in Textform beim Vorstand. Der Vorstand hat ein entsprechendes Muster dem Antragsteller zur Verfügung zu stellen.</li>
-    <li> der Vorstellung der Tätigkeit seit der Aufnahme als Kandidat auf der nächsten, spätestens übernächsten Mitgliederversammlung, die über die Aufnahme als vollwertiges Mitglied entscheidet. Die Aufnahme in den Verein erfolgt mit Beendigung der Mitgliederversammlung.</li>
+    <li>eines Antrags auf Aufnahme in den Verein in Textform beim Vorstand. Der Vorstand hat den Antragstellenden ein entsprechendes Muster zur Verfügung zu stellen.</li>
+    <li> der Vorstellung der Tätigkeit seit Verleihung des Status der Kandidatur auf der nächsten, spätestens übernächsten Mitgliederversammlung, die über die Aufnahme als vollwertiges Mitglied entscheidet. Die Aufnahme in den Verein erfolgt mit Beendigung der Mitgliederversammlung.</li>
 </ol>
 
-(4) Der Kandidatenstatus entfällt, sofern die Entscheidung über die Aufnahme als Mitglied zweimal negativ ausgefallen ist; spätestens jedoch nach der dritten Mitgliederversammlung seit Erhalt des Kandidatenstatus.
+(4) Der Status der Kandidatur entfällt, sofern die Entscheidung über die Aufnahme als Mitglied zweimal negativ ausgefallen ist; spätestens jedoch nach der dritten Mitgliederversammlung seit Statuserhalt.
 
-### §3 - Rechte und Pflichten von Kandidaten
-(1) Kandidaten werden in den E-Mail-Verteiler aufgenommen und Vertreter von Kandidaten und interessierten Organisationen werden als Gäste zu den Veranstaltungen des Vereins eingeladen.
+### §3 - Rechte und Pflichten von Kandidierenden
+(1) Kandidierende werden in den E-Mail-Verteiler aufgenommen und Vertretende von Kandidierenden und interessierten Organisationen werden als Gäste zu den Veranstaltungen des Vereins eingeladen.
 
-(2) Der Kandidat hat das Recht “Erasmus Student Network” oder “ESN” in seinem Namen zu führen, sofern “Kandidatensektion” oder “Candidate Section” voran- oder nachgestellt wird.
+(2) Kandidierende haben das Recht “Erasmus Student Network” oder “ESN” in seinem Namen zu führen, sofern “Kandidierende Sektion” oder “Candidate Section” voran- oder nachgestellt wird.
 Die Verwendung der Corporate Identity und des Corporate Designs ist jedoch nicht gestattet.
 
 ### §4 - Rechte und Pflichten von Mitgliedern
@@ -40,7 +40,7 @@ Die Verwendung der Corporate Identity und des Corporate Designs ist jedoch nicht
     Der Vorstand prüft den Antrag anhand einer durch das betreffende Mitglied vorgelegte Einnahmen-Ausgaben-Rechnung des Vorjahres. 
     Der Vorstand entscheidet über den Antrag.
     </li>
-    <li>    Die Höhe des Mitgliedsbeitrages soll regelmäßig, jedoch mit einem maximalen Abstand von 3 Jahren, vom Vorstand geprüft werden. 
+    <li>    Die Höhe des Mitgliedsbeitrages soll regelmäßig, jedoch mit einem maximalen Abstand von drei Jahren, vom Vorstand geprüft werden. 
     Die Prüfung soll erfolgen, um auf einen eventuell geänderten Finanzbedarf reagieren zu können.</li>
     <li>    Neumitglieder zahlen in ihrem ersten Mitgliedsjahr pauschal einen Mitgliedsbeitrag von 50€.</li>
     <li>    Die Rechnungen der Mitgliedsbeiträge für das laufende Kalenderjahr sollen im März des Jahres gesendet werden. 
@@ -50,8 +50,8 @@ Die Verwendung der Corporate Identity und des Corporate Designs ist jedoch nicht
     Hierüber sind die Mitglieder zu informieren. Widerspricht das betroffene Mitglied dem Beschluss, befindet die Mitgliederversammlung über dessen Statthaftigkeit.</li>
 </ol>
 
-(2) Jedes Mitglied muss einen Ansprechpartner (Lokaler Repräsentant) benennen, der auch andere Positionen innerhalb des Mitglieds innehaben kann. 
-Der Wechsel des Ansprechpartners sowie der Vorstände des Mitglieds ist dem Vorstand unverzüglich mitzuteilen.
+(2) Jedes Mitglied muss eine Ansprechperson(Local Representative) benennen, welche auch andere Positionen innerhalb des Mitglieds innehaben kann. 
+Der Wechsel des Ansprechperson sowie der Vorstände des Mitglieds ist dem Vorstand unverzüglich mitzuteilen.
 
 (3) Das Mitglied muss bei der Nutzung eines vom Verein zur Verfügung gestellten
 Content-Management-Systems zur Verwaltung seiner Internetpräsenz die aktuellste, stabile
@@ -78,9 +78,10 @@ Es steht im Ermessen des Mitglieds zu welchem Preis der Verkauf der ESNcards erf
 
 ## B. VEREINSORGANE
 ### §6 - Aufgaben des Vorstands
-(1) Dem Präsidenten obliegt die Organisation der Vorstandsarbeit, die Repräsentation des Vereins nach außen sowie die Kommunikation mit dem ESN Alumni Deutschland e.V.
+Folgende Personen bilden den Vorstand
+(1) President, verantwortlich für die Organisation der Vorstandsarbeit, die Repräsentation des Vereins nach außen sowie die Kommunikation mit dem ESN Alumni Deutschland e.V.
 
-(2) Der Vizepräsident ist für die Kommunikation mit den Mitgliedern verantwortlich, insbesondere führt er die Besuche und Telefonate durch. 
+(2) Vice-President, verantwortlich für die Kommunikation mit den Mitgliedern, insbesondere führt er die Besuche und Telefonate durch. 
 Des Weiteren obliegt dem Vizepräsidenten die Betreuung der Veranstaltungen des Vereins.
 
 (3) Der Finanzvorstand verwaltet die Finanzen des Vereins und trägt die Verantwortung für das Vereinskonto sowie die Beantragung von Fördermitteln.
