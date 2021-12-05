@@ -52,18 +52,20 @@ Der Austritt kann nur mit einer Frist von einem Monat zum Ende des Geschäftsjah
 (3) Ein Mitglied kann durch Beschluss der Mitgliederversammlung aus dem Verein ausgeschlossen werden, wenn es
 <ol>
     <li>    schuldhaft das Ansehen oder die Interessen des Vereins in schwerwiegender Weise schädigt</li>
-    <li>    mehr als 12 Monate mit finanziellen Verpflichtungen, insbesondere der Zahlung seiner Mitgliedsbeiträge, im Rückstand ist,</li>
-    <li>    mehr als 12 Monate mit seiner Rückmeldung und Auskunftserteilung in Verzug ist,</li>
-    <li>    als Mitglied des Erasmus Student Networks AISBL ausgeschlossen wird und dagegen nicht innerhalb von vier Wochen Berufung einlegt.
-    Dem Mitglied ist Gelegenheit zu geben, in der Mitgliederversammlung zu den Gründen des Ausschlusses Stellung zu nehmen. 
-    Diese sind ihm mindestens vier Wochen vorher mitzuteilen.</li>
+
+    <li>    als Mitglied des Erasmus Student Networks AISBL ausgeschlossen wird und dagegen nicht innerhalb von vier Wochen Berufung einlegt, </li>
+    <li>    die Pflichten aus §5 (3)-(6) nicht einhält. Näheres zum Ablauf regelt §6</li>
+
 </ol>
+        
+    Dem Mitglied ist Gelegenheit zu geben, in der Mitgliederversammlung zu den Gründen des Ausschlusses Stellung zu nehmen. 
+    Diese sind ihm mindestens vier Wochen vorher mitzuteilen.
 
 ### § 5 – Rechte und Pflichten der Mitglieder
 (1) Jedes Mitglied hat das Recht einen Delegierten zur Mitgliederversammlung zu entsenden, Anträge zu stellen und sein Stimmrecht auszuüben. 
 Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme eines Rechtsgeschäfts mit ihm oder die Einleitung eines Rechtsstreits zwischen ihm und dem Verein betrifft.
 
-(2) Jedes Mitglied hat das Recht auf Konsultation durch den nationalen vorstand vor jeder Mitgliederversammlung des ESN AISBL.
+(2) Jedes Mitglied hat das Recht auf Konsultation durch den nationalen Vorstand vor jeder Mitgliederversammlung des ESN AISBL.
 
 (3) Von den Mitgliedern werden Aufnahmegebühren und Beiträge erhoben. 
 Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordnung.
@@ -72,9 +74,30 @@ Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordn
 
 (5) Die Mitglieder verpflichten sich, mindestens zweimal im Jahr dem Vorstand Bericht über ihre Tätigkeiten zu erstatten.
 
-(6) Näheres kann in einer Ordnung geregelt werden.
+(6) Die Mitglieder verpflichten sich, die aktuellste ESN Corporate Identity von ESN AISBL zu nutzen und sich eindeutig als ESN-Mitglied zu identifizieren. (Nutzung des Namen: ESN [Mitgliedsname]):
 
-### § 6 – Organe des Vereins
+(7) Näheres kann in einer Ordnung geregelt werden.
+
+### § 6 - Verfahren bei Nichteinhaltung der Pflichten und Ausschluss
+(1) Im Falle eines Verstoßes gegen die Pflichten eines Mitglieds aus §5, benachrichtigt der Vorstand das Mitglied und den Verwaltungsrat über den Verstoß schriftlich
+(2) Sollte 12 Wochen nach Zugang der ersten schriftlichen mitteilungen und nach mehreren Erinnerungen eine Pflicht aus §5 weiterhin nicht eingehalten werden, so kann der Vorstand eine der in Ordnung §5 beschriebenen Sanktionen dem betroffenen Mitglied auferlegen. Die Mitglieder und der Verwaltungsrat werden duch den Vorstand informiert.
+(3) Sollte 16 Wochen nach Zugang der ersten schriftlichen mitteilungen und nach mehreren Erinnerungen eine Pflicht aus §5 weiterhin nicht eingehalten werden, so kann das Stimmrecht des Mitglieds ausgesetzt werden bis der Pflichtverstpß behoben ist. Die Mitglieder und der Verwaltungsrat werden durch den Vorstand informiert. 
+Das Mitglied kann bis zu der nächsten Mitgliederversammlung Berufung einlegen. Die Mitgliederversammlung stimmt über das Wiedererhalten des Stimmrechts des Mitglieds mit einfacher Mehrheit ab.
+(4) Sollte 6 Monate nach Zugang der ersten schriftlichen Mitteilung und nach mehreren Erinnerungen eine Pflicht aus §5 immer noch nicht eingehalten werden, so kann der Vorstand den Ausschluss des Mitglieds bei der nächsten Mitgliederversammlung beantragen.
+  <ol>
+    <li>    Wird der Verstoß ddes Mitglieds bis zur Mitgliederversammlung behoben, wird der Antrag nichtig.</li>
+    <li>    Die Mitgliederversammlung dtimmt über den sofotigen Ausschluss ab. Der Beschluss muss mit einer Zweidritterlmehrheit gefasst werden.</li>
+    <li>    Wird dem Ausschlus zugestimmt, schickt der Vorstand dem ausgeschlossenen Mitglied und dem Verwaltungsrat innerhalb von sieben Tagen nach der        Mitgliederversammlung eine schriftliche Mitteilung, die den Ausschluss und die Gründe für den Ausschluss erhält.</li>
+</ol>
+(5) Das ausgeschlossene Mitglied kann interhalb von 30 Tagen nach Erhalt der Mitteilung Berufung bei der Mitgliederversammlung einlgen.
+  <ol>
+    <li>    Die Berufung ist durch eine schriftliche Mitteilung an den Vorstand, an den Verwaltungsrat und an die Mitglieder zu richten.</li>
+    <li>    Solange die Berufung aussteht, bleibt das Stimmrecht ausgesetzt.</li>
+    <li>    Die Mitgliederversammlung soll innerhalb von 90 Tagen nach Eingang der Berufung darüber entscheiden. Die endgültige Entscheidung ist dem Vorstand und dem Verwaltungsrat zu übermitteln.</li>
+    <li>    Trifft die Mitgliederverssammlung innerhalb der gesetzten Frist keine Entscheidung, tritt der beschlossene Ausschluss nicht in Kraft.</li>
+</ol>
+
+### § 7 – Organe des Vereins
 Organe des Vereins sind
 <ol>
     <li>    der Vorstand</li>
@@ -82,7 +105,7 @@ Organe des Vereins sind
     <li>    der Verwaltungsrat.</li>
 </ol>
 
-### § 7 – Vorstand
+### § 8 – Vorstand
 (1) Der Vorstand besteht aus
 <ol>
     <li>    dem Präsidenten,</li>
@@ -95,7 +118,7 @@ Organe des Vereins sind
 (2) Die Mitgliederversammlung kann beschließen, dass dem Vorstand bis zu drei weitere stimmberechtigte Vorstandsmitglieder angehören sollen.
 
 
-### § 8 - Aufgaben des Vorstands
+### § 9 - Aufgaben des Vorstands
 (1) Dem Vorstand des Vereins obliegt die Führung seiner Geschäfte. Er hat insbesondere
 folgende Aufgaben:
 <ol>
@@ -109,7 +132,7 @@ folgende Aufgaben:
 
 (3) Der Präsident, der Vizepräsident und der Finanzvorstand vertreten den Verein nach § 26 BGB jeweils alleine.
 
-### § 9 - Wahl des Vorstands
+### § 10 - Wahl des Vorstands
 (1) Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen. Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder des Mitglieds.
 
 (2) Kann ein Vorstandsposten bei Wahlen nicht besetzt werden oder scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so sind bis zur Wahl eines Nachfolgers durch die Mitgliederversammlung die verbleibenden Mitglieder des Vorstands berechtigt, ein neues Vorstandsmitglied bis zum Ende ihrer Amtszeit in den Vorstand zu berufen oder die Aufgaben unter sich aufzuteilen.
@@ -117,13 +140,13 @@ folgende Aufgaben:
 (3) Eine einmalige Wiederwahl in den Vorstand ist zulässig, nach Ablauf der zweiten Amtszeit ist die Wiederwahl ausgeschlossen. 
 Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag des Betroffenen auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §13 IV Nr. 6 zustimmt.
 
-### § 10 – Beratung und Beschlussfassung des Vorstands
+### § 11 – Beratung und Beschlussfassung des Vorstands
 (1) Der Vorstand tritt nach Bedarf zusammen und ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist. 
 Bei Stimmengleichheit entscheidet die Stimme des Präsidenten.
 
 (2) Beschlüsse des Vorstandes sind zu protokollieren.
 
-### § 11 – Aufgaben der Mitgliederversammlung
+### § 12 – Aufgaben der Mitgliederversammlung
 Die Mitgliederversammlung entscheidet insbesondere über:
 <ol>
     <li>    Änderungen der Satzung,</li>
@@ -135,7 +158,7 @@ Die Mitgliederversammlung entscheidet insbesondere über:
     <li>    die Auflösung des Vereins.</li>
 </ol>
 
-### § 12 - Einberufung der Mitgliederversammlung
+### § 13 - Einberufung der Mitgliederversammlung
 (1) Mindestens zweimal im Kalenderjahr ist vom Vorstand eine Mitgliederversammlung einzuberufen. 
 Die Einberufung erfolgt in Textform unter Einhaltung einer Frist von zwei Wochen und unter Angabe der vorläufigen Tagesordnung.
 
@@ -149,7 +172,7 @@ Die Mitglieder können in diesem Falle ihre Mitgliederrechte im Wege der elektro
 Für die Online-Mitgliederversammlung sind sichere elektronische Verfahren zu verwenden, die nur den berechtigten Teilnehmern den Zugang ermöglichen. 
 Weitere Regelungen bezüglich der Beschlussfassung bei Online-Mitgliederversammlungen können in einer Ordnung festgelegt werden.
 
-### § 13 - Beschlussfassung der Mitgliederversammlung
+### § 14 - Beschlussfassung der Mitgliederversammlung
 (1) Das Mitglied wird in der Versammlung durch einen Delegierten vertreten. 
 Ein Delegierter kann nicht mehr als zwei Mitglieder vertreten. 
 Delegierter kann jede natürliche Person sein. Die Vertretung ist dem Vorstand und der Versammlungsleitung vor Beginn der Mitgliederversammlung durch das Mitglied, repräsentiert durch dessen Vorsitzenden in Textform mitzuteilen.
@@ -175,7 +198,7 @@ Stimmenthaltungen und ungültige Stimmen gelten als nicht abgegeben.
 
 (7) In Fällen, in denen die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, kann der Vorstand Beschlüsse auch mit Hilfe von sicheren elektronischen Verfahren herbeiführen.
 
-### § 14 – Verwaltungsrat
+### § 15 – Verwaltungsrat
 Dem Verwaltungsrat gehören mindestens drei, jedoch maximal vier Personen an. 
 Er besteht aus
 <ol>
@@ -184,7 +207,7 @@ Er besteht aus
     <li>    einem Finanzauditor.</li>
 </ol>
 
-### § 15 – Aufgaben des Verwaltungsrats
+### § 16 – Aufgaben des Verwaltungsrats
 (1) Der Verwaltungsrat hat die Aufgabe, den Vorstand in Angelegenheiten des Vereins zu auditieren. Dabei obliegen ihm insbesondere folgende Aufgaben:
 <ol>
     <li>    das prozedurale Audit, das Rechtsaudit und das Finanzaudit</li>
@@ -194,7 +217,7 @@ Er besteht aus
 
 (2) Der Verwaltungsrat arbeitet ehrenamtlich.
 
-### § 16 – Wahl des Verwaltungsrats
+### § 17 – Wahl des Verwaltungsrats
 (1) Die Mitglieder des Verwaltungsrats werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. 
 Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen.
 Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder des Mitglieds. 
@@ -205,14 +228,14 @@ Ausgeschiedene Mitglieder des Vorstands oder SUpporters können dem Verwaltungsr
 
 (3) §9 III gilt entsprechend.
 
-### § 17 - Redaktionelle Änderungen
+### § 18 - Redaktionelle Änderungen
 Der Vorstand kann einstimmig redaktionelle Änderungen der Satzung und der Ordnung sowie deren Anhängen beschließen. 
 Vor einem entsprechenden Beschluss durch den Vorstand ist der Verwaltungsrat anzuhören. 
 Der Vorstand muss die Mitglieder innerhalb von sieben Tagen nach einem entsprechenden Beschluss über die vorgenommenen Änderungen informieren.
 
-### § 18 – Auflösung des Vereins, Beendigung aus anderen Gründen, Wegfall steuerbegünstigter Zwecke
+### § 19 – Auflösung des Vereins, Beendigung aus anderen Gründen, Wegfall steuerbegünstigter Zwecke
 Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen an den „ESN Alumni Deutschland e.V.“, sofern dessen Gemeinnützigkeit anerkannt ist und der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat. Andernfalls an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Völkerverständigung.
 
-### § 19 - Schlussbestimmungen
+### § 20 - Schlussbestimmungen
 Sollte eine Bestimmung dieser Satzung nichtig oder aus einem sonstigen Grunde unwirksam sein, so bleibt die übrige Satzung dennoch wirksam. 
 In einem solchen Fall wird statt der nichtigen oder unwirksamen Bestimmung eine solche gesucht, die dem intendierten Zweck des Vereins möglichst nahe kommt.
