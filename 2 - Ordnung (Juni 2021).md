@@ -69,10 +69,15 @@ Der Aufschlag wird im Voraus vom Vorstand festgelegt.
 Die anfallende Mehrwertsteuer ist vom Mitglied zu tragen. 
 Es steht im Ermessen des Mitglieds zu welchem Preis der Verkauf der ESNcards erfolgt.
 
-(6) Der Vorstand soll Supporter, Teams und Working Groups zur Beratung und Unterstützung der Vereinstätigkeit einsetzen
+(6) Der Vorstand soll Supporter, Teams und Working Groups zur Beratung und Unterstützung der Vereinstätigkeit einsetzen.
+
+### §5 - Verfahren bei Nichteinhaltung von Pflichten
+(1) Im Falle eines Verstoßes gegen die Pflichten eines Mitglieds aus Ordnung §4 benachrichtigt der Vorstand das Mitglied und den Verwaltungsrat über den Verstpß schriftlich.
+(2) Sollte 12 Wochen nach Zugang der ersten schriftlichen Mitteilungen und nach mehreren Erinnerungen eine Pflicht aus Ordnung §4 weiterhin nicht eingehalten werden, kann der Vorstand beschließen, dieses Mitglied bei der Zuteilung von Platzkontingenten gemäß §9 der Veranstaltungsordnung für Veranstaltungen gemäß §3 Abs.2 und 3 der Veranstaltungsordnung bis zur Behebung des Pflichtverstoßes nicht zu berücksichtigen. Hierüber sind die Mitglieder und der Verwaltungsrat zu informieren. Widerspricht das bestroffene Mitglied dem Beschluss, befindet die Mitgliederversammlung über dessen Statthaftigkeit. Diese Sanktion entfällt, sobald der Pflichtverstoß behoben worden ist.
+(3) Sollte 16 Wochen nach zugang der ersten schriftlichen Mitteilungen und nach mehreren Erinnerungen die Pflich aus Ordnung $4 weiterhin nicht eingehalten werden, so kann der Vorstand dem Mitglied den Erwerb von ESNcards verweigern. Der Vorstand informiert das betroffene Mitglied und den Verwaltungsrat. Diese Sanktion entfällt, sobald der Pflichtverstoß behoben worden ist.
 
 ## B. VEREINSORGANE
-### §5 - Aufgaben der Vorstände
+### §6 - Aufgaben der Vorstände
 (1) Dem Präsidenten obliegt die Organisation der Vorstandsarbeit, die Repräsentation des Vereins nach außen sowie die Kommunikation mit dem ESN Alumni Deutschland e.V.
 
 (2) Der Vizepräsident ist für die Kommunikation mit den Mitgliedern verantwortlich, insbesondere führt er die Besuche und Telefonate durch. 
@@ -89,7 +94,7 @@ Er arbeitet mit dem Stellvertretenden Nationalen Repräsentanten (Vice NR), dem 
 
 (7) Der Vorstand tritt sein Amt am 1.7 des Jahres an.
 
-### §6 - Board Supporter
+### §7 - Board Supporter
 (1) Folgende Supporter sollen vom Vorstand ernannt werden werden:
 <ol>
     <li>    International Affairs Officer</li>
@@ -103,7 +108,7 @@ Er arbeitet mit dem Stellvertretenden Nationalen Repräsentanten (Vice NR), dem 
 sich nach der Amtszeit des Vorstandes.
 
 
-### §7 - Regionale Koordinatoren
+### §8 - Regionale Koordinatoren
 (1) Jede Region im Sinne des EPP soll mindestens einen Regionalen Koordinator bestimmen.
 Diese sollen auf den entsprechenden LPs im Herbst gewählt werden.
 
@@ -122,7 +127,7 @@ der Region fördern.
 (5) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen
 des Vereins handeln.
 
-### §8 - Aufgaben der Mitglieder des Verwaltungsrates
+### §9 - Aufgaben der Mitglieder des Verwaltungsrates
 (1) Dem Vorsitzenden obliegt die Repräsentation des Verwaltungsrats nach außen und seine
 interne Koordination sowie die Überprüfung der Arbeitsweise des Vorstands und der unterstützenden Personen im Sinne des §7. 
 Zudem obliegt ihm die Mitwirkung an der Strategie des ESN Deutschland e.V.
@@ -143,7 +148,7 @@ Für die Erfüllung seiner Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 (4) Der Verwaltungsrat tritt sein Amt am 1.12. des Jahres an.
 
-### §9 - Kassenprüfer
+### §10 - Kassenprüfer
 (1) Die Versammlung soll zwei oder drei Kassenprüfer wählen, die dem Vorstand nicht angehören oder beisitzen dürfen. 
 Als dritter Kassenprüfer soll ein Mitglied des Finanzaudits hinzugewählt werden.
 Die Wiederwahl ist zulässig, jedoch muss mindestens die Hälfte der Prüfer in zwei aufeinanderfolgenden Jahren wechseln.
@@ -151,7 +156,7 @@ Die Wiederwahl ist zulässig, jedoch muss mindestens die Hälfte der Prüfer in 
 (2) Die Kassenprüfer haben die Kasse und Konten des Vereins einschließlich der Bücher und Belege spätestens nach dem Ende der Amtszeit des Vorstands sachlich und rechnerisch zu prüfen. 
 Der Prüfbericht muss der Mitgliederversammlung vorgelegt werden, die auf das Ende der Amtszeit des Vorstands folgt.
 
-### §10 – Finanzen
+### §11 – Finanzen
 (1) Der Finanzvorstand erarbeitet das nächstfolgende Geschäftsjahr einen Wirtschaftsplan.
 Dieser muss klar strukturiert sein und die wesentlichen Positionen von Einnahmen und Ausgaben wiedergeben. 
 Den Vereinsorganen sind ausreichende Mittel zur Erfüllung ihrer Aufgaben zuzuweisen.
@@ -174,7 +179,7 @@ Reisekosten umfassen eventuelle Teilnahmebeiträge für Veranstaltungen sowie Fa
 Übersteigen die Kosten unter Beachtung von Sparsamkeit und Wirtschaftlichkeit das notwendige Maß, erfolgt nur eine anteilige Erstattung.
 Nebenabsprachen zur Aufteilung der Kostenerstattung sind nicht zulässig.
 
-### §11 – Rechenschaftsberichte
+### §12 – Rechenschaftsberichte
 (1) Die Vorstandsmitglieder und der Verwaltungsrat berichten während ihrer Amtszeit der Mitgliederversammlung über ihre Arbeit und fertigen zum Ende ihrer Amtszeit einen Rechenschaftsbericht an.
 
 (2) Die Rechenschaftsberichte sind den Mitgliedern mindestens eine Woche vor der Versammlung, die auf das Ende der Amtszeit folgt, bekanntzugeben.
@@ -185,10 +190,10 @@ Der Finanzbericht und eine Stellungnahme des Verwaltungsrates müssen der Mitgli
 (4) Die Mitgliederversammlung entscheidet nach dem Ende der Amtszeit des Vorstandes mit über dessen Entlastung. 
 Die Entlastung einzelner Mitglieder kann versagt werden.
 
-### §12– Vertraulichkeit
+### §13– Vertraulichkeit
 Alle Mitglieder des Vorstandes und des Verwaltungsrates unterzeichnen vor Beginn ihrer Amtszeit, die Kassenprüfer vor Beginn ihrer Tätigkeit, eine Vertraulichkeitserklärung gemäß Anhang dieser Ordnung.
 
-### §13 – Mitgliederversammlung
+### §14 – Mitgliederversammlung
 (1) Mitgliederversammlungen sollen drei Mal im Jahr ausgerichtet werden, vorzugsweise im
 <ol>
     <li>    Januar / Februar</li>
@@ -238,7 +243,7 @@ Die Plenarsitzungen der Mitgliederversammlung haben dabei an mindestens zwei auf
     <li>    Das Organisationskomitee hat dem Vorstand einen finalen Finanzbericht spätestens 30 Tage nach Ende der Versammlung vorzulegen.</li>
 </ol>
 
-### §14 - Versammlungsleitung
+### §15 - Versammlungsleitung
 (1) Die Versammlungsleitung besteht mindestens aus dem Versammlungsleiter und dem
 Protokollführer.
 
@@ -259,7 +264,7 @@ Mitglieder dies beantragt. Abstimmungen über Personen und Mitglieder sind grund
 geheim durchzuführen.
 
 ## C. Wahlen
-### §15 - Wahlleitung und Wahlhelfer
+### §16 - Wahlleitung und Wahlhelfer
 (1) Die Leitung der Wahlen und Abstimmungen auf der Versammlung, die nicht im Sinne des §13 (3) durchgeführt werden, obliegt dem Vorsitzenden des Verwaltungsrates und dem Vorsitzenden des Alumnibeirates des ESN Alumni Deutschland e.V. oder den von ihnen in Textform benannten Vertretern.
 Die Vertretung kann jede volljährige, natürliche Person ausüben.
 Ausgenommen hiervon sind Delegierte, Mitglieder des Vorstandes und dessen Supporter sowie Personen, die selbst für ein Vereinsamt kandidieren oder über die ein Beschluss gefasst werden soll.
@@ -271,13 +276,13 @@ Ausgenommen hiervon sind Delegierte, Personen die einem Vereinsorgan angehören,
 
 (4) Zu den Aufgaben der Wahlhelfer gehören insbesondere die Ermittlung der wahlberechtigten Mitglieder, das Zählen der Stimmen bei offenen und namentlichen Abstimmungen und bei geheimen Abstimmungen das Einsammeln und die Auszählung von Stimmzetteln.
 
-### §16 - Ermittlung der Mehrheit
+### §17 - Ermittlung der Mehrheit
 (1) Kann bei einer Wahl mit mehr als zwei Vorschlägen kein Vorschlag im ersten Wahlgang die erforderliche Mehrheit auf sich vereinen, ist eine Stichwahl zwischen den beiden Vorschlägen mit den meisten Stimmen durchzuführen. 
 Haben die zweitplatzierten Vorschläge die gleiche Anzahl an Stimmen auf sich vereint, erfolgt zunächst eine Stichwahl zwischen diesen Vorschlägen.
 
 (2) Endet bei einer Kandidatenwahl die Stichwahl mit der gleichen Anzahl an Stimmen, entscheidet das Los, welches der Versammlungsleiter zieht; bei Online-Wahlen tritt an die Stelle des Versammlungsleiters der Verwaltungsrat.
 
-### §17 - Beschlussfassung mittels sicherer, elektronischer Verfahren
+### §18 - Beschlussfassung mittels sicherer, elektronischer Verfahren
 gemäß §13 Abs. 7 der Satzung (Online-Abstimmungen)
 
 (1) Sollen Beschlüsse durch eine Online-Abstimmung herbeigeführt werden, weil die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, gelten die Anforderungen an Beschlussfähigkeit und Mehrheiten entsprechend der Satzung und der Ordnung.
@@ -288,22 +293,22 @@ Beschlussgegenstände des §13 Abs. 4 der Satzung können nicht in einer Online-
 (3) Die Abstimmungen sind geheim durchzuführen; niemand soll nachvollziehen können, welches Mitglied für welchen Vorschlag gestimmt hat. 
 Das Mitglied muss autark die Möglichkeit haben, die zur Abstimmung zugelassenen Berechtigten und das Ergebnis der Abstimmung einsehen zu können.
 
-### §18 Beschlussfassung bei Online-Mitgliederversammlungen
+### §19 Beschlussfassung bei Online-Mitgliederversammlungen
 (1) Für Beschlüsse im Rahmen einer Online-Mitgliederversammlung gemäß §12 Abs. 4 der Satzung gelten die Anforderungen an Beschlussfähigkeit und Mehrheiten entsprechend der Satzung und der Ordnung.
 
 (2) Beschlussgegenstände des §13 Abs. 4 Nr. 4, 5 der Satzung können nicht auf einer Online-Mitgliederversammlung beschlossen werden.
 
 ## D. Schlußbestimmungen
-### §19 - Versammlungen und Veranstaltungen
+### §20 - Versammlungen und Veranstaltungen
 Näheres zu den Versammlungen und Veranstaltungen kann in einer Veranstaltungsordnung (Event Policy Paper) geregelt werden. 
 Sie ist als Anhang Teil dieser Ordnung.
 
-### §20 - Verhaltenskodex (Code of Conduct)
+### §21 - Verhaltenskodex (Code of Conduct)
 Die Mitgliederversammlung kann einen Verhaltenskodex aufstellen, der für alle Veranstaltungen des Vereins bindend ist. Er ist als Anhang Teil dieser Ordnung.
 
-### §21 – Konsultationsordnung
+### §22 – Konsultationsordnung
 Näheres zur Konsultation der Mitglieder kann in einer Konsultationsordnung geregelt werden. 
 Sie ist als Anhang Teil dieser Ordnung.
 
-### §22 - Inkrafttreten
+### §23 - Inkrafttreten
 Diese Ordnung tritt mit Beschlussfassung durch die Mitgliederversammlung in Kraft.
