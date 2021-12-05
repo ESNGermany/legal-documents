@@ -86,7 +86,7 @@ Er arbeitet mit dem Stellvertretenden Nationalen Repräsentanten (Vice NR), dem 
 
 (6) Die weitere Aufgabenverteilung obliegt dem Vorstand.
 
-(7) Der Vorstand tritt sein Amt am 1.4 des Jahres an.
+(7) Der Vorstand tritt sein Amt am 1.7 des Jahres an.
 
 ### §6 - Beisitzer
 (1) Folgende Beisitzer sollen mit den Wahlen des Vorstandes von der Mitgliederversammlung
@@ -146,7 +146,7 @@ Für die Erfüllung seiner Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 (3) Dem Finanzaudit obliegt die kontinuierliche Beobachtung und Überprüfung der Finanzen des ESN Deutschland e.V. und die Beratung des Finanzvorstands.
 
-(4) Der Verwaltungsrat tritt sein Amt am 1.9. des Jahres an.
+(4) Der Verwaltungsrat tritt sein Amt am 1.12. des Jahres an.
 
 ### §9 - Kassenprüfer
 (1) Die Versammlung soll zwei oder drei Kassenprüfer wählen, die dem Vorstand nicht angehören oder beisitzen dürfen. 
