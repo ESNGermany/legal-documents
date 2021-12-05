@@ -69,6 +69,7 @@ Der Aufschlag wird im Voraus vom Vorstand festgelegt.
 Die anfallende Mehrwertsteuer ist vom Mitglied zu tragen. 
 Es steht im Ermessen des Mitglieds zu welchem Preis der Verkauf der ESNcards erfolgt.
 
+(6) Der Vorstand soll Supporter, Teams und Working Groups zur Beratung und Unterstützung der Vereinstätigkeit einsetzen
 
 ## B. VEREINSORGANE
 ### §5 - Aufgaben der Vorstände
@@ -88,25 +89,19 @@ Er arbeitet mit dem Stellvertretenden Nationalen Repräsentanten (Vice NR), dem 
 
 (7) Der Vorstand tritt sein Amt am 1.7 des Jahres an.
 
-### §6 - Beisitzer
-(1) Folgende Beisitzer sollen mit den Wahlen des Vorstandes von der Mitgliederversammlung
-gewählt werden:
+### §6 - Board Supporter
+(1) Folgende Supporter sollen vom Vorstand ernannt werden werden:
 <ol>
-    <li>    Partnership Manager, der die Kooperationspartner des Vereins betreut und neue akquiriert sowie die Sammelbestellung der ESNcards koordiniert,</li>
-    <li>    Webmaster, der für alle Angelegenheiten der informationstechnischen Infrastruktur verantwortlich ist,</li>
-    <li>    Education Officer, der als Ansprechpartner für den DAAD, die Hochschulen und andere Institutionen des öffentlichen Rechts fungiert.</li>
-    <li>    Stellvertretender Nationaler Repräsentant, der die Vertretung des Nationalen Repräsentanten ist, diesen in seiner Arbeit aktiv unterstützt und Aktivitäten der Mitglieder im Bereich „Causes of ESN“ betreut.</li>
-    <li>    Event Manager, der die Veranstaltungen des Vereins betreut.</li>
+    <li>    International Affairs Officer</li>
+    <li>    Social Media Officer</li>
+    <li>    Education Officer</li>
+    <li>    Social Impact Oficer</li>
 </ol>
 
-(2) Die Beisitzer nehmen an den Treffen und Sitzungen des Vorstands teil.
 
-(3) Beisitzer treten ihr Amt zeitgleich mit dem Vorstand an. Die Amtszeit der Beisitzer richtet
+(3) Supporter treten ihr Amt zeitgleich mit dem Vorstand oder unverzüglich nach ihrer Ernennung an. Die Amtszeit der SUpporter richtet
 sich nach der Amtszeit des Vorstandes.
 
-(4) Eine einmalige Wiederwahl in den Beisitz ist zulässig. 
-Insgesamt darf die Bestellung in den Beisitz und in den Vorstand kumuliert zwei Amtszeiten nicht überschreiten. 
-Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag des Betroffenen auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §13 IV Nr. 6 der Satzung zustimmt.
 
 ### §7 - Regionale Koordinatoren
 (1) Jede Region im Sinne des EPP soll mindestens einen Regionalen Koordinator bestimmen.
@@ -180,7 +175,7 @@ Reisekosten umfassen eventuelle Teilnahmebeiträge für Veranstaltungen sowie Fa
 Nebenabsprachen zur Aufteilung der Kostenerstattung sind nicht zulässig.
 
 ### §11 – Rechenschaftsberichte
-(1) Die Vorstandsmitglieder, die Beisitzer und der Verwaltungsrat berichten während ihrer Amtszeit der Mitgliederversammlung über ihre Arbeit und fertigen zum Ende ihrer Amtszeit einen Rechenschaftsbericht an.
+(1) Die Vorstandsmitglieder und der Verwaltungsrat berichten während ihrer Amtszeit der Mitgliederversammlung über ihre Arbeit und fertigen zum Ende ihrer Amtszeit einen Rechenschaftsbericht an.
 
 (2) Die Rechenschaftsberichte sind den Mitgliedern mindestens eine Woche vor der Versammlung, die auf das Ende der Amtszeit folgt, bekanntzugeben.
 
@@ -267,7 +262,7 @@ geheim durchzuführen.
 ### §15 - Wahlleitung und Wahlhelfer
 (1) Die Leitung der Wahlen und Abstimmungen auf der Versammlung, die nicht im Sinne des §13 (3) durchgeführt werden, obliegt dem Vorsitzenden des Verwaltungsrates und dem Vorsitzenden des Alumnibeirates des ESN Alumni Deutschland e.V. oder den von ihnen in Textform benannten Vertretern.
 Die Vertretung kann jede volljährige, natürliche Person ausüben.
-Ausgenommen hiervon sind Delegierte, Mitglieder und Beisitzer des Vorstandes sowie Personen, die selbst für ein Vereinsamt kandidieren oder über die ein Beschluss gefasst werden soll.
+Ausgenommen hiervon sind Delegierte, Mitglieder des Vorstandes und dessen Supporter sowie Personen, die selbst für ein Vereinsamt kandidieren oder über die ein Beschluss gefasst werden soll.
 
 (2) Zu den Aufgaben der Wahlleitung gehört die neutrale Information der Delegierten über die Abstimmungsgegenstände, die ordnungsgemäße Vorbereitung der Wahlen, die Leitung der Wahlgänge sowie die Feststellung des Wahlergebnisses.
 
