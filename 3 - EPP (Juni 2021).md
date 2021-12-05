@@ -44,7 +44,7 @@ zwei Regionen möglich ist:
 (2) Mit der Aufnahme als neues Mitglied soll ebenfalls eine Zuteilung zu einer oder zwei Regionen erfolgen. 
 Die Mitgliederversammlung kann auf Antrag eines Mitgliedes eine andere Zuteilung beschließen. Der Antrag ist zu begründen.
 
-(3) §6 ist entsprechend mit der Maßgabe anzuwenden, dass nur Mitglieder der jeweiligen Region abstimmungsberechtigt sind und die Koordination durch ein beliebiges Vorstandsmitglied, einen Beisitzer oder durch einen vom Vorstand bestimmten Koordinator übernommen werden kann.
+(3) §6 ist entsprechend mit der Maßgabe anzuwenden, dass nur Mitglieder der jeweiligen Region abstimmungsberechtigt sind und die Koordination durch ein beliebiges Vorstandsmitglied, dessen Supporter oder durch einen Regional Coordinator übernommen werden kann.
 
 (4) Für die Teilnehmer sind Kontingente gemäß §9 (2) Veranstaltungsordnung vorzusehen.
 
@@ -94,7 +94,7 @@ Reicht das Mitglied keine Prioritätenliste ein, vergibt der Vorstand die Kontin
 
 (2) Hat das Mitglied den Delegierten auf der Prioritätenliste angegeben, gilt dies ebenfalls als Stimmrechtsdelegation und es bedarf es keiner separaten Meldung mehr.
 
-(3) Das Stimmrecht darf nicht an Mitglieder der Versammlungsleitung, des Vorstandes, Beisitzer des Vorstandes, oder des Verwaltungsrates delegiert werden.
+(3) Das Stimmrecht darf nicht an Mitglieder der Versammlungsleitung, des Vorstandes oder des Verwaltungsrates delegiert werden.
 
 (4) Bei der Verteilung der zusätzlichen Kontingentplätze ist unter Beachtung der nachfolgenden  Bestimmungen auf ein ausgewogenes Verhältnis der Mitgliederrepräsentation und Teilnehmer zu achten.
 Der Verwaltungsrat beaufsichtigt die Vergabe der Plätze.
@@ -118,11 +118,12 @@ vorzusehen:
     <li>    mindestens zwei Versammlungsleiter,</li>
     <li>    alle Delegierte,</li>
     <li>    mindestens zwei Vertreter von Kandidatensektionen und interessierten Organisationen</li>
-    <li>    die Mitglieder und Beisitzer des Vorstandes,</li>
+    <li>    die Mitglieder des Vorstandes,</li>
     <li>    die Mitglieder des Verwaltungsrats,</li>
     <li>    mindestens zwei Mitglieder des ESN Alumni Deutschland e.V.,</li>
     <li>    mindestens fünf internationale Gäste, davon zwei Plätze bevorzugt für Gäste von ESN Frankreich,</li>
-    <li>    mindestens zwei Mitglieder von Komitees, Arbeitsgruppen und Koordinatoren, wenn sie zur Tagesordnung beitragen.</li>
+    <li>    die SUpporter des Vorstandes, wenn sie zur Tagesordnung beitragen,</li>
+    <li>    mindestens zwei Mitglieder von Teams und Working Groups, wenn sie zur Tagesordnung beitragen,</li>
     <li>    mindestens ein Regional Coordinator pro Region ESN Deutschlands.</li>
 </ol>
 
