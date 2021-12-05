@@ -204,8 +204,9 @@ Alle Mitglieder des Vorstandes und des Verwaltungsrates unterzeichnen vor Beginn
 (2) Eine Mitgliederversammlung darf sich nicht mit einer anderen nationalen Veranstaltung des Vereins überschneiden. 
 Während Veranstaltungen des ESN AISBL zu denen die Mitglieder eingeladen sind, kann lediglich eine außerordentliche Mitgliederversammlung berufen werden.
 
-(3) Das Organisationskomitee wird bei der Koordination durch den Event Manager unterstützt. 
-Der Verein kann bei Bedarf nach Absprache einen Zuschuss gewähren.
+(3) Im Auftrag des Vorstands obliegt die logistische Organisation der Mitgliederversammlung
+einem Organisationskomitee. Insbesondere werden sie dabei durch den Event Manager
+unterstützt.
 
 (4) Die Zusammenstellung der Tagesordnung obliegt dem Vorstand in Abstimmung mit der Versammlungsleitung und dem Verwaltungsrat.
 
