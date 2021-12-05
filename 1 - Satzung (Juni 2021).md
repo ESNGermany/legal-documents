@@ -112,8 +112,7 @@ folgende Aufgaben:
 (3) Der Präsident, der Vizepräsident und der Finanzvorstand vertreten den Verein nach § 26 BGB jeweils alleine.
 
 ### § 9 - Wahl des Vorstands
-(1) Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. 
-Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder des Mitglieds.
+(1) Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen. Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder des Mitglieds.
 
 (2) Kann ein Vorstandsposten bei Wahlen nicht besetzt werden oder scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so sind bis zur Wahl eines Nachfolgers durch die Mitgliederversammlung die verbleibenden Mitglieder des Vorstands berechtigt, ein neues Vorstandsmitglied bis zum Ende ihrer Amtszeit in den Vorstand zu berufen oder die Aufgaben unter sich aufzuteilen.
 
@@ -199,6 +198,7 @@ Er besteht aus
 
 ### § 16 – Wahl des Verwaltungsrats
 (1) Die Mitglieder des Verwaltungsrats werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. 
+Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen.
 Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder des Mitglieds. 
 Es dürfen maximal zwei lokale Mitglieder pro Mitglied in den Verwaltungsrat gewählt werden. 
 Nicht wählbar sind Mitglieder oder Beisitzer des Vorstands.
