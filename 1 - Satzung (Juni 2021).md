@@ -178,12 +178,12 @@ Stimmenthaltungen und ungültige Stimmen gelten als nicht abgegeben.
 (7) In Fällen, in denen die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, kann der Vorstand Beschlüsse auch mit Hilfe von sicheren elektronischen Verfahren herbeiführen.
 
 ### § 14 – Verwaltungsrat
-Dem Verwaltungsrat gehören mindestens drei, jedoch maximal fünf Personen an. 
+Dem Verwaltungsrat gehören mindestens drei, jedoch maximal vier Personen an. 
 Er besteht aus
 <ol>
     <li>    einem Vorsitz</li>
     <li>    ein bis zwei Rechtsauditoren</li>
-    <li>    ein bis zwei Finanzauditoren.</li>
+    <li>    einem Finanzauditor.</li>
 </ol>
 
 ### § 15 – Aufgaben des Verwaltungsrats
