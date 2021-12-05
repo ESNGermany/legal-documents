@@ -28,6 +28,7 @@ Hierzu zählen insbesondere:
 <ol>
     <li>    die Western European Platform (WEP),</li>
     <li>    das French-German Section Meeting (FGSM).</li>
+    <li>    das Erasmus Generation Meeting (EGM),</li>
 </ol>
 
 ### §4 – Lokale Plattformen
@@ -122,7 +123,7 @@ vorzusehen:
     <li>    die Mitglieder des Verwaltungsrats,</li>
     <li>    mindestens zwei Mitglieder des ESN Alumni Deutschland e.V.,</li>
     <li>    mindestens fünf internationale Gäste, davon zwei Plätze bevorzugt für Gäste von ESN Frankreich,</li>
-    <li>    die SUpporter des Vorstandes, wenn sie zur Tagesordnung beitragen,</li>
+    <li>    die Supporter des Vorstandes, wenn sie zur Tagesordnung beitragen,</li>
     <li>    mindestens zwei Mitglieder von Teams und Working Groups, wenn sie zur Tagesordnung beitragen,</li>
     <li>    mindestens ein Regional Coordinator pro Region ESN Deutschlands.</li>
 </ol>
@@ -151,7 +152,25 @@ sie wie folgt vergeben:
     <li>    Die weitere Vergabe der Plätze richtet sich nach den Vorgaben des Veranstalters.</li>
 </ol>
 
-§10 Haus- und Teilnahmerecht
+(5) Für das EGM sind für folgende Personengruppen Platzkontingente vorzusehen:
+<ol>
+<li>  Einen Platz für die Delegationsleitung sowie zwei weitere Personen, die durch
+den Vorstand benannt werden.</li>
+<li> Jeweils einen Platz für jedes Mitglied von ESN Deutschland e. V.</li>
+<li> Sollten dem Verein weitere Plätze zur Verfügung stehen, dann werden sie in
+folgender Reihenfolge vergeben:
+<ol>
+<li> Mitglieder, die in den letzten zwölf Monaten vor der Veranstaltung dem
+Verein beigetreten sind</li>
+<li> Mitglieder, die in den letzten zwölf Monaten vor der Veranstaltung eine
+Mitgliederversammlung ausgerichtet haben</li>
+<li> Vorstandsmitglieder</li>
+<li> Ein Mitglied des ESN Alumni Deutschland e.V.</li>
+<li> Weitere Mitglieder.</li>
+</ul>
+</ol>
+
+### §10 – Haus- und Teilnahmerecht
 (1) Neben den Ausrichtern der Veranstaltungen hat der vertretungsberechtigte Vorstand Hausrecht, bei regionalen Veranstaltungen auch das zuständige Vorstandsmitglied.
 
 (2) Bei schwerwiegenden sowie kontinuierlichen Störungen der Veranstaltungen ist ein Ausschluss der Teilnehmer auch für nachfolgende Vereinsveranstaltungen möglich.
