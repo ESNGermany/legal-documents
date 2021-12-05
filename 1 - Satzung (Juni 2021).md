@@ -62,10 +62,10 @@ Der Austritt kann nur mit einer Frist von einem Monat zum Ende des Geschäftsjah
     Diese sind ihm mindestens vier Wochen vorher mitzuteilen.
 
 ### § 5 – Rechte und Pflichten der Mitglieder
-(1) Jedes Mitglied hat das Recht einen Delegierten zur Mitgliederversammlung zu entsenden, Anträge zu stellen und sein Stimmrecht auszuüben. 
+(1) Jedes Mitglied hat das Recht eine delegierte Person zur Mitgliederversammlung zu entsenden, Anträge zu stellen und sein Stimmrecht auszuüben. 
 Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme eines Rechtsgeschäfts mit ihm oder die Einleitung eines Rechtsstreits zwischen ihm und dem Verein betrifft.
 
-(2) Jedes Mitglied hat das Recht auf Konsultation durch den nationalen Vorstand vor jeder Mitgliederversammlung des ESN AISBL.
+(2) Jedes Mitglied hat das Recht auf Konsultation durch den Vorstand vor jeder Mitgliederversammlung des ESN AISBL.
 
 (3) Von den Mitgliedern werden Aufnahmegebühren und Beiträge erhoben. 
 Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordnung.
@@ -108,18 +108,18 @@ Organe des Vereins sind
 ### § 8 – Vorstand
 (1) Der Vorstand besteht aus
 <ol>
-    <li>    dem Präsidenten,</li>
-    <li>    dem Vizepräsidenten,</li>
-    <li>    dem Finanzvorstand,</li>
-    <li>    dem Nationalen Repräsentanten,</li>
-    <li>    dem PR-Vorstand.</li>
+    <li>    einer Person für den Vorsitz (President),</li>
+    <li>    einer Person für den stellvertretenden Vorsitz (Vice-President),</li>
+    <li>    einer Person für den Finanzvorstand (Treasurer),</li>
+    <li>    einer Person für die nationale Representation (National Representative),</li>
+    <li>    einer Person für den PR-Vorstand (Communication Manager).</li>
 </ol>
 
 (2) Die Mitgliederversammlung kann beschließen, dass dem Vorstand bis zu drei weitere stimmberechtigte Vorstandsmitglieder angehören sollen.
 
 
 ### § 9 - Aufgaben des Vorstands
-(1) Dem Vorstand des Vereins obliegt die Führung seiner Geschäfte. Er hat insbesondere
+(1) Dem Vorstand des Vereins obliegt die Geschäftsführung. Er hat insbesondere
 folgende Aufgaben:
 <ol>
     <li>    die Einberufung und Vorbereitung der Mitgliederversammlungen einschließlich der Aufstellung der Tagesordnung,</li>
@@ -130,19 +130,19 @@ folgende Aufgaben:
 
 (2) Der Vorstand führt die Vereinsgeschäfte ehrenamtlich.
 
-(3) Der Präsident, der Vizepräsident und der Finanzvorstand vertreten den Verein nach § 26 BGB jeweils alleine.
+(3) Die Vorstandsmitglieder, die den Vorsitz, den stellvertretenden Vorsitz oder den Finanzvorstand innehaben, vertreten den Verein nach § 26 BGB jeweils alleine.
 
 ### § 10 - Wahl des Vorstands
 (1) Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen. Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder des Mitglieds.
 
-(2) Kann ein Vorstandsposten bei Wahlen nicht besetzt werden oder scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so sind bis zur Wahl eines Nachfolgers durch die Mitgliederversammlung die verbleibenden Mitglieder des Vorstands berechtigt, ein neues Vorstandsmitglied bis zum Ende ihrer Amtszeit in den Vorstand zu berufen oder die Aufgaben unter sich aufzuteilen.
+(2) Kann ein Vorstandsposten bei Wahlen nicht besetzt werden oder scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Vorstands berechtigt, ein neues Vorstandsmitglied bis zum Ende ihrer Amtszeit in den Vorstand zu berufen oder die Aufgaben unter sich aufzuteilen.
 
 (3) Eine einmalige Wiederwahl in den Vorstand ist zulässig, nach Ablauf der zweiten Amtszeit ist die Wiederwahl ausgeschlossen. 
-Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag des Betroffenen auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §13 IV Nr. 6 zustimmt.
+Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Personauf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §13 IV Nr. 6 zustimmt.
 
 ### § 11 – Beratung und Beschlussfassung des Vorstands
 (1) Der Vorstand tritt nach Bedarf zusammen und ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist. 
-Bei Stimmengleichheit entscheidet die Stimme des Präsidenten.
+Bei Stimmengleichheit entscheidet die Stimme der vorstandsvorsitzenden Person.
 
 (2) Beschlüsse des Vorstandes sind zu protokollieren.
 
@@ -173,8 +173,8 @@ Für die Online-Mitgliederversammlung sind sichere elektronische Verfahren zu ve
 Weitere Regelungen bezüglich der Beschlussfassung bei Online-Mitgliederversammlungen können in einer Ordnung festgelegt werden.
 
 ### § 14 - Beschlussfassung der Mitgliederversammlung
-(1) Das Mitglied wird in der Versammlung durch einen Delegierten vertreten. 
-Ein Delegierter kann nicht mehr als zwei Mitglieder vertreten. 
+(1) Das Mitglied wird in der Versammlung durch eine delegierte Person vertreten. 
+Diese kann nicht mehr als zwei Mitglieder vertreten. 
 Delegierter kann jede natürliche Person sein. Die Vertretung ist dem Vorstand und der Versammlungsleitung vor Beginn der Mitgliederversammlung durch das Mitglied, repräsentiert durch dessen Vorsitzenden in Textform mitzuteilen.
 
 (2) Die Versammlung ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder vertreten ist.
@@ -194,7 +194,7 @@ Stimmenthaltungen und ungültige Stimmen gelten als nicht abgegeben.
 
 (5) Näheres zum Wahlverfahren kann in einer Ordnung geregelt werden.
 
-(6) Über den Ablauf der Mitgliederversammlung und die gefassten Beschlüsse ist ein Protokoll zu fertigen, das vom Protokollführer und einem Vorstandsmitglied zu unterzeichnen ist.
+(6) Über den Ablauf der Mitgliederversammlung und die gefassten Beschlüsse ist ein Protokoll zu fertigen, das von der Protokollführung und einem Vorstandsmitglied zu unterzeichnen ist.
 
 (7) In Fällen, in denen die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, kann der Vorstand Beschlüsse auch mit Hilfe von sicheren elektronischen Verfahren herbeiführen.
 
@@ -202,16 +202,16 @@ Stimmenthaltungen und ungültige Stimmen gelten als nicht abgegeben.
 Dem Verwaltungsrat gehören mindestens drei, jedoch maximal vier Personen an. 
 Er besteht aus
 <ol>
-    <li>    einem Vorsitz</li>
-    <li>    ein bis zwei Rechtsauditoren</li>
-    <li>    einem Finanzauditor.</li>
+    <li>    einer Person für den Vorsitz</li>
+    <li>    ein bis zwei Personen für das Rechtsaudit</li>
+    <li>    einer Person für das Finanzaudit.</li>
 </ol>
 
 ### § 16 – Aufgaben des Verwaltungsrats
 (1) Der Verwaltungsrat hat die Aufgabe, den Vorstand in Angelegenheiten des Vereins zu auditieren. Dabei obliegen ihm insbesondere folgende Aufgaben:
 <ol>
     <li>    das prozedurale Audit, das Rechtsaudit und das Finanzaudit</li>
-    <li>    das Aussprechen einer Empfehlung an die Mitglieder über die Entlassung eines Vorstandsmitglieds oder eines Beisitzers bei besonders schweren Verstößen dieser </li>
+    <li>    das Aussprechen einer Empfehlung an die Mitglieder über die Entlassung eines Vorstandsmitglieds oder eines Beisitzenden bei besonders schweren Verstößen dieser </li>
     <li>    die Veranlassung einer Abstimmung der Mitglieder über eine außergewöhnliche Mitgliederversammlung unter Angabe eines Grundes.</li>
 </ol>
 
@@ -221,10 +221,10 @@ Er besteht aus
 (1) Die Mitglieder des Verwaltungsrats werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. 
 Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen.
 Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder des Mitglieds. 
-Es dürfen maximal zwei lokale Mitglieder pro Mitglied in den Verwaltungsrat gewählt werden. NIcht wählbar sind Mitglieder des Vorstands oder dessen Supporter.
-Ausgeschiedene Mitglieder des Vorstands oder SUpporters können dem Verwaltungsrat, der ihrem Mandat folgt, nicht angehören.
+Es dürfen maximal zwei lokale Mitglieder pro Mitglied in den Verwaltungsrat gewählt werden. Nicht wählbar sind Mitglieder des Vorstands oder dessen Supporter.
+Ausgeschiedene Mitglieder des Vorstands oder Supporters können dem Verwaltungsrat, der ihrem Mandat folgt, nicht angehören.
 
-(2) Kann ein Posten des Verwaltungsrats bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Verwaltungsrats vorzeitig aus dem Amt aus, so sind bis zur Wahl eines Nachfolgers durch die Mitgliederversammlung die verbleibenden Mitglieder des Verwaltungsrats berechtigt, ein neues Verwaltungsratsmitglied bis zum Ende ihrer Amtszeit in den Verwaltungsrat zu berufen oder die Aufgaben unter sich aufzuteilen.
+(2) Kann ein Posten des Verwaltungsrats bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Verwaltungsrats vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Verwaltungsrats berechtigt, ein neues Verwaltungsratsmitglied bis zum Ende ihrer Amtszeit in den Verwaltungsrat zu berufen oder die Aufgaben unter sich aufzuteilen.
 
 (3) §9 III gilt entsprechend.
 
