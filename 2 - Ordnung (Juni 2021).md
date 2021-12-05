@@ -77,7 +77,7 @@ Es steht im Ermessen des Mitglieds zu welchem Preis der Verkauf der ESNcards erf
 (3) Sollte 16 Wochen nach zugang der ersten schriftlichen Mitteilungen und nach mehreren Erinnerungen die Pflich aus Ordnung $4 weiterhin nicht eingehalten werden, so kann der Vorstand dem Mitglied den Erwerb von ESNcards verweigern. Der Vorstand informiert das betroffene Mitglied und den Verwaltungsrat. Diese Sanktion entfällt, sobald der Pflichtverstoß behoben worden ist.
 
 ## B. VEREINSORGANE
-### §6 - Aufgaben der Vorstände
+### §6 - Aufgaben des Vorstands
 (1) Dem Präsidenten obliegt die Organisation der Vorstandsarbeit, die Repräsentation des Vereins nach außen sowie die Kommunikation mit dem ESN Alumni Deutschland e.V.
 
 (2) Der Vizepräsident ist für die Kommunikation mit den Mitgliedern verantwortlich, insbesondere führt er die Besuche und Telefonate durch. 
@@ -94,40 +94,9 @@ Er arbeitet mit dem Stellvertretenden Nationalen Repräsentanten (Vice NR), dem 
 
 (7) Der Vorstand tritt sein Amt am 1.7 des Jahres an.
 
-### §7 - Board Supporter
-(1) Folgende Supporter sollen vom Vorstand ernannt werden werden:
-<ol>
-    <li>    International Affairs Officer</li>
-    <li>    Social Media Officer</li>
-    <li>    Education Officer</li>
-    <li>    Social Impact Oficer</li>
-</ol>
 
 
-(3) Supporter treten ihr Amt zeitgleich mit dem Vorstand oder unverzüglich nach ihrer Ernennung an. Die Amtszeit der SUpporter richtet
-sich nach der Amtszeit des Vorstandes.
-
-
-### §8 - Regionale Koordinatoren
-(1) Jede Region im Sinne des EPP soll mindestens einen Regionalen Koordinator bestimmen.
-Diese sollen auf den entsprechenden LPs im Herbst gewählt werden.
-
-(2) Gewählt werden dürfen nur lokale Mitglieder der Mitglieder der jeweiligen Region.
-Wahlberechtigt sind nur die Mitglieder der entsprechenden Region. 
-Jedes Mitglied hat eine Stimme, wobei Stimmen delegiert werden können. 
-Eine Bestätigung durch den Nationalen Vorstand ist nicht notwendig.
-
-(3) Die Koordinatoren beginnen ihre Amtszeit mit ihrer Wahl, sie dauert bis zur Wahl des Nachfolgers. 
-Im Einzelfall kann von diesem Grundsatz durch eine einstimmige Entscheidung der Mitglieder der entsprechenden Region abgewichen werden.
-
-(4) Diese sollen die Zusammenarbeit in ihrer Region koordinieren, als Ansprechpartner für den
-Vize-Präsidenten in Bezug auf regionale Angelegenheiten dienen und den Wissenstransfer in
-der Region fördern.
-
-(5) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen
-des Vereins handeln.
-
-### §9 - Aufgaben der Mitglieder des Verwaltungsrates
+### §7 - Aufgaben des Verwaltungsrates
 (1) Dem Vorsitzenden obliegt die Repräsentation des Verwaltungsrats nach außen und seine
 interne Koordination sowie die Überprüfung der Arbeitsweise des Vorstands und der unterstützenden Personen im Sinne des §7. 
 Zudem obliegt ihm die Mitwirkung an der Strategie des ESN Deutschland e.V.
@@ -148,7 +117,7 @@ Für die Erfüllung seiner Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 (4) Der Verwaltungsrat tritt sein Amt am 1.12. des Jahres an.
 
-### §10 - Kassenprüfer
+### §8 - Kassenprüfer
 (1) Die Versammlung soll zwei oder drei Kassenprüfer wählen, die dem Vorstand nicht angehören oder beisitzen dürfen. 
 Als dritter Kassenprüfer soll ein Mitglied des Finanzaudits hinzugewählt werden.
 Die Wiederwahl ist zulässig, jedoch muss mindestens die Hälfte der Prüfer in zwei aufeinanderfolgenden Jahren wechseln.
@@ -156,7 +125,7 @@ Die Wiederwahl ist zulässig, jedoch muss mindestens die Hälfte der Prüfer in 
 (2) Die Kassenprüfer haben die Kasse und Konten des Vereins einschließlich der Bücher und Belege spätestens nach dem Ende der Amtszeit des Vorstands sachlich und rechnerisch zu prüfen. 
 Der Prüfbericht muss der Mitgliederversammlung vorgelegt werden, die auf das Ende der Amtszeit des Vorstands folgt.
 
-### §11 – Finanzen
+### §9 – Finanzen
 (1) Der Finanzvorstand erarbeitet das nächstfolgende Geschäftsjahr einen Wirtschaftsplan.
 Dieser muss klar strukturiert sein und die wesentlichen Positionen von Einnahmen und Ausgaben wiedergeben. 
 Den Vereinsorganen sind ausreichende Mittel zur Erfüllung ihrer Aufgaben zuzuweisen.
@@ -179,7 +148,7 @@ Reisekosten umfassen eventuelle Teilnahmebeiträge für Veranstaltungen sowie Fa
 Übersteigen die Kosten unter Beachtung von Sparsamkeit und Wirtschaftlichkeit das notwendige Maß, erfolgt nur eine anteilige Erstattung.
 Nebenabsprachen zur Aufteilung der Kostenerstattung sind nicht zulässig.
 
-### §12 – Rechenschaftsberichte
+### §10 – Rechenschaftsberichte
 (1) Die Vorstandsmitglieder und der Verwaltungsrat berichten während ihrer Amtszeit der Mitgliederversammlung über ihre Arbeit und fertigen zum Ende ihrer Amtszeit einen Rechenschaftsbericht an.
 
 (2) Die Rechenschaftsberichte sind den Mitgliedern mindestens eine Woche vor der Versammlung, die auf das Ende der Amtszeit folgt, bekanntzugeben.
@@ -190,10 +159,8 @@ Der Finanzbericht und eine Stellungnahme des Verwaltungsrates müssen der Mitgli
 (4) Die Mitgliederversammlung entscheidet nach dem Ende der Amtszeit des Vorstandes mit über dessen Entlastung. 
 Die Entlastung einzelner Mitglieder kann versagt werden.
 
-### §13– Vertraulichkeit
-Alle Mitglieder des Vorstandes und des Verwaltungsrates unterzeichnen vor Beginn ihrer Amtszeit, die Kassenprüfer vor Beginn ihrer Tätigkeit, eine Vertraulichkeitserklärung gemäß Anhang dieser Ordnung.
 
-### §14 – Mitgliederversammlung
+### §11 – Mitgliederversammlung
 (1) Mitgliederversammlungen sollen drei Mal im Jahr ausgerichtet werden, vorzugsweise im
 <ol>
     <li>    Januar / Februar</li>
@@ -244,7 +211,7 @@ Die Plenarsitzungen der Mitgliederversammlung haben dabei an mindestens zwei auf
     <li>    Das Organisationskomitee hat dem Vorstand einen finalen Finanzbericht spätestens 30 Tage nach Ende der Versammlung vorzulegen.</li>
 </ol>
 
-### §15 - Versammlungsleitung
+### §12 - Versammlungsleitung
 (1) Die Versammlungsleitung besteht mindestens aus dem Versammlungsleiter und dem
 Protokollführer.
 
@@ -263,6 +230,44 @@ Auf Antrag der Versammlungsleitung kann die Versammlung beschließen, dass keine
 geheime Abstimmung ist erforderlich, wenn ein Drittel der vertretenen stimmberechtigten
 Mitglieder dies beantragt. Abstimmungen über Personen und Mitglieder sind grundsätzlich
 geheim durchzuführen.
+
+### §13– Vertraulichkeit
+Alle Mitglieder des Vorstandes und des Verwaltungsrates unterzeichnen vor Beginn ihrer Amtszeit, die Kassenprüfer vor Beginn ihrer Tätigkeit, eine Vertraulichkeitserklärung gemäß Anhang dieser Ordnung.
+
+
+## B. Support Structures
+### §14 - Board Supporter
+(1) Folgende Supporter sollen vom Vorstand ernannt werden werden:
+<ol>
+    <li>    International Affairs Officer</li>
+    <li>    Social Media Officer</li>
+    <li>    Education Officer</li>
+    <li>    Social Impact Oficer</li>
+</ol>
+
+
+(3) Supporter treten ihr Amt zeitgleich mit dem Vorstand oder unverzüglich nach ihrer Ernennung an. Die Amtszeit der SUpporter richtet
+sich nach der Amtszeit des Vorstandes.
+
+
+### §15 - Regionale Koordinatoren
+(1) Jede Region im Sinne des EPP soll mindestens einen Regionalen Koordinator bestimmen.
+Diese sollen auf den entsprechenden LPs im Herbst gewählt werden.
+
+(2) Gewählt werden dürfen nur lokale Mitglieder der Mitglieder der jeweiligen Region.
+Wahlberechtigt sind nur die Mitglieder der entsprechenden Region. 
+Jedes Mitglied hat eine Stimme, wobei Stimmen delegiert werden können. 
+Eine Bestätigung durch den Nationalen Vorstand ist nicht notwendig.
+
+(3) Die Koordinatoren beginnen ihre Amtszeit mit ihrer Wahl, sie dauert bis zur Wahl des Nachfolgers. 
+Im Einzelfall kann von diesem Grundsatz durch eine einstimmige Entscheidung der Mitglieder der entsprechenden Region abgewichen werden.
+
+(4) Diese sollen die Zusammenarbeit in ihrer Region koordinieren, als Ansprechpartner für den
+Vize-Präsidenten in Bezug auf regionale Angelegenheiten dienen und den Wissenstransfer in
+der Region fördern.
+
+(5) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen
+des Vereins handeln.
 
 ## C. Wahlen
 ### §16 - Wahlleitung und Wahlhelfer
