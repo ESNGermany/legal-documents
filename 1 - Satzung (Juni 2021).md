@@ -51,13 +51,10 @@ Der Austritt kann nur mit einer Frist von einem Monat zum Ende des Geschäftsjah
 
 (3) Ein Mitglied kann durch Beschluss der Mitgliederversammlung aus dem Verein ausgeschlossen werden, wenn es
 <ol>
-    <li>    schuldhaft das Ansehen oder die Interessen des Vereins in schwerwiegender Weise schädigt</li>
-
+    <li>    schuldhaft das Ansehen oder die Interessen des Vereins in schwerwiegender Weise schädigt, </li>
     <li>    als Mitglied des Erasmus Student Networks AISBL ausgeschlossen wird und dagegen nicht innerhalb von vier Wochen Berufung einlegt, </li>
     <li>    die Pflichten aus §5 (3)-(6) nicht einhält. Näheres zum Ablauf regelt §6</li>
-
 </ol>
-        
     Dem Mitglied ist Gelegenheit zu geben, in der Mitgliederversammlung zu den Gründen des Ausschlusses Stellung zu nehmen. 
     Diese sind ihm mindestens vier Wochen vorher mitzuteilen.
 
@@ -85,7 +82,7 @@ Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordn
 Das Mitglied kann bis zu der nächsten Mitgliederversammlung Berufung einlegen. Die Mitgliederversammlung stimmt über das Wiedererhalten des Stimmrechts des Mitglieds mit einfacher Mehrheit ab.
 (4) Sollte 6 Monate nach Zugang der ersten schriftlichen Mitteilung und nach mehreren Erinnerungen eine Pflicht aus §5 immer noch nicht eingehalten werden, so kann der Vorstand den Ausschluss des Mitglieds bei der nächsten Mitgliederversammlung beantragen.
   <ol>
-    <li>    Wird der Verstoß ddes Mitglieds bis zur Mitgliederversammlung behoben, wird der Antrag nichtig.</li>
+    <li>    Wird der Verstoß des Mitglieds bis zur Mitgliederversammlung behoben, wird der Antrag nichtig.</li>
     <li>    Die Mitgliederversammlung dtimmt über den sofotigen Ausschluss ab. Der Beschluss muss mit einer Zweidritterlmehrheit gefasst werden.</li>
     <li>    Wird dem Ausschlus zugestimmt, schickt der Vorstand dem ausgeschlossenen Mitglied und dem Verwaltungsrat innerhalb von sieben Tagen nach der        Mitgliederversammlung eine schriftliche Mitteilung, die den Ausschluss und die Gründe für den Ausschluss erhält.</li>
 </ol>
