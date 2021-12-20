@@ -7,16 +7,17 @@
     width: 210mm;
     height: 297mm;
     margin-left: 19mm;
-    margin-right: 13.2mm;
+    margin-right: 13mm;
     margin-top: 19mm;
-    margin-bottom: 36.7mm;
+    margin-bottom: 37mm;
+    font-family: Helvetica, Arial, sans-serif;
   }
   
   h1, h2, h3 {
-    font: 'Kelson Sans BG, Regular';
+    font-family: Kelson Sans BG, Regular;
   }
   
   p, ol li, ul li {
-    font: 'Lato, Regular';
+    font-family: Lato, Regular;
   }
 }
