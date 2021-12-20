@@ -177,7 +177,7 @@ Mitgliederversammlung ausgerichtet haben</li>
 
 (3) Im Zweifel über die Verhältnismäßigkeit des Ausschlusses ist dieser auf Antrag von mindestens 1⁄3 der Mitglieder, bei regionalen Veranstaltungen 1⁄3 der Teilnehmer, von den anwesenden Teilnehmern mit einfacher Mehrheit zu bestätigen.
 
-(4) Bei internationalen Veranstaltungen beschränkt sich das Recht zum Ausschluss auf die Teilnahme an der deutschen Delegation.
+(4) Bei internationalen Veranstaltungen beschränkt sich das Recht zum Ausschluss auf die Teilnahme an der deutschen Delegation. 
 
 ### §11 – Inkrafttreten
 Diese Ordnung tritt mit Beschlussfassung durch die Mitgliederversammlung in Kraft.
