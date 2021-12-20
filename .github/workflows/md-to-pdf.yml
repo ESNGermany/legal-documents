@@ -21,10 +21,11 @@ jobs:
           input_dir: .
           output_dir: pdf
           build_html: false
+          theme: esn.css
           
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
           default_author: github_actions
           add: 'pdf'
-          pull_strategy: NO-PULL
+          pull: NO-PULL
