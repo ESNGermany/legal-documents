@@ -4,8 +4,6 @@
 
 @media print {
   html, body {
-    width: 210mm;
-    height: 297mm;
     margin-left: 19mm;
     margin-right: 13mm;
     margin-top: 19mm;
@@ -17,7 +15,7 @@
     font-family: Kelson Sans BG, Regular;
   }
   
-  p, ol li, ul li {
-    font-family: Lato, Regular;
+  p {
+      font-family: Helvetica, Arial, sans-serif;
   }
 }
