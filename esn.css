@@ -4,9 +4,9 @@
 
 @media print {
   html, body {
-    margin-left: 19mm;
-    margin-right: 13mm;
-    margin-top: 19mm;
+    margin-left: 5mm;
+    margin-right: 5mm;
+    margin-top: 10mm;
     margin-bottom: 37mm;
     font-family: Helvetica, Arial, sans-serif;
   }
