@@ -1,0 +1,23 @@
+name: Markdown to PDF automation
+
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - '**.md'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: .
+          output_dir: .
+          build_html: false
+      - uses: actions/upload-artifact@v1
+        with:
+          name: docs
+          path: .
