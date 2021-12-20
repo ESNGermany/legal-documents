@@ -5,6 +5,7 @@ on:
     branches: [ master ]
     paths:
       - '**.md'
+  workflow_dispatch:      
 
 jobs:
   md-to-pdf:
@@ -15,7 +16,7 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: .
-      - uses: actions/upload-artifact@v1
+      - uses: actions/upload-artifact@v2
         with:
           name: docs
-          path: ${{ github.workspace }}
+          path: ./**.pdf
