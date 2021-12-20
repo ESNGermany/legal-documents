@@ -1,20 +1,22 @@
 @page {
   size: A4;
-  margin: 0;
 }
 
 @media print {
   html, body {
     width: 210mm;
     height: 297mm;
-    margin: 0 auto;
+    margin-left: 19mm;
+    margin-right: 13.2mm;
+    margin-top: 19mm;
+    margin-bottom: 36.7mm;
   }
   
   h1, h2, h3 {
-    font-family: 'Kelson Sans Normal';
+    font: 'Kelson Sans BG, Regular';
   }
   
   p, ol li, ul li {
-    font-family: 'Lato';
+    font: 'Lato, Regular';
   }
 }
