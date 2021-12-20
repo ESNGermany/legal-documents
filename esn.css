@@ -4,4 +4,12 @@
     max-width: 100%;
     margin: 0 auto;
   }
+  
+  h1, h2, h3 {
+    font-family: 'Kelson Sans';
+  }
+  
+  p, ol li, ul li {
+    font-family: 'Lato';
+  }
 }
