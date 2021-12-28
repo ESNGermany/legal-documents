@@ -135,7 +135,7 @@ folgende Aufgaben:
 (2) Kann ein Vorstandsposten bei Wahlen nicht besetzt werden oder scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Vorstands berechtigt, ein neues Vorstandsmitglied bis zum Ende ihrer Amtszeit in den Vorstand zu berufen oder die Aufgaben unter sich aufzuteilen.
 
 (3) Eine einmalige Wiederwahl in den Vorstand ist zulässig, nach Ablauf der zweiten Amtszeit ist die Wiederwahl ausgeschlossen. 
-Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Personauf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §13 IV Nr. 6 zustimmt.
+Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Person auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §13 IV Nr. 6 zustimmt.
 
 ### § 11 – Beratung und Beschlussfassung des Vorstands
 (1) Der Vorstand tritt nach Bedarf zusammen und ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist. 
@@ -219,7 +219,7 @@ Er besteht aus
 Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen.
 Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder des Mitglieds. 
 Es dürfen maximal zwei lokale Mitglieder pro Mitglied in den Verwaltungsrat gewählt werden. Nicht wählbar sind Mitglieder des Vorstands oder dessen Supporter.
-Ausgeschiedene Mitglieder des Vorstands oder Supporters können dem Verwaltungsrat, der ihrem Mandat folgt, nicht angehören.
+Ausgeschiedene Mitglieder des Vorstands oder Supporter können dem Verwaltungsrat, der ihrem Mandat folgt, nicht angehören.
 
 (2) Kann ein Posten des Verwaltungsrats bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Verwaltungsrats vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Verwaltungsrats berechtigt, ein neues Verwaltungsratsmitglied bis zum Ende ihrer Amtszeit in den Verwaltungsrat zu berufen oder die Aufgaben unter sich aufzuteilen.
 
