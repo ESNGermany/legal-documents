@@ -1,6 +1,6 @@
 # Veranstaltungsordnung
 Event Policy Paper
-##### Juni 2021
+##### Dezember 2021
 
 ### §1 – Geltungs- und Anwendungsbereich
 (1) Diese Veranstaltungsordnung regelt die Veranstaltungen des Vereins, das Zulassungs- und Vergabeverfahren zu Veranstaltungen des Dachverbandes ESN AISBL und gibt einen Rahmen für die Veranstaltung seiner Mitglieder vor.
