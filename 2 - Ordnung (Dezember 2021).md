@@ -1,5 +1,5 @@
 # Ordnung
-##### Juni 2021
+##### Dezember 2021
 
 ### §1 – Geltungsbereich
 Diese Vereinsordnung regelt die Angelegenheiten des Vereins.
@@ -78,56 +78,44 @@ Es steht im Ermessen des Mitglieds zu welchem Preis der Verkauf der ESNcards erf
 
 ## B. VEREINSORGANE
 ### §6 - Aufgaben des Vorstands
-Folgende Personen bilden den Vorstand
-(1) President, verantwortlich für die Organisation der Vorstandsarbeit, die Repräsentation des Vereins nach außen sowie die Kommunikation mit dem ESN Alumni Deutschland e.V.
 
-(2) Vice-President, verantwortlich für die Kommunikation mit den Mitgliedern, insbesondere führt er die Besuche und Telefonate durch. 
-Des Weiteren obliegt dem Vizepräsidenten die Betreuung der Veranstaltungen des Vereins.
+(1) Die Aufgaben des Vorastands gelten wie in §8 der Satzung beschrieben. Die detaillierte Aufgabenverteilung obliegt dem Vorstand.
 
-(3) Der Finanzvorstand verwaltet die Finanzen des Vereins und trägt die Verantwortung für das Vereinskonto sowie die Beantragung von Fördermitteln.
-
-(4) Der Nationale Repräsentant vertritt die Mitglieder im Erasmus Student Network. 
-Er arbeitet mit dem Stellvertretenden Nationalen Repräsentanten (Vice NR), dem Nationalen Delegierten und dessen Stellvertreter zusammen.
-
-(5) Der PR-Vorstand ist für die Öffentlichkeitsarbeit des Vereins verantwortlich.
-
-(6) Die weitere Aufgabenverteilung obliegt dem Vorstand.
-
-(7) Der Vorstand tritt sein Amt am 1.7 des Jahres an.
+(2) Der Vorstand tritt sein Amt am 1.7 des Jahres an.
 
 
 
 ### §7 - Aufgaben des Verwaltungsrates
-(1) Dem Vorsitzenden obliegt die Repräsentation des Verwaltungsrats nach außen und seine
-interne Koordination sowie die Überprüfung der Arbeitsweise des Vorstands und der unterstützenden Personen im Sinne des §7. 
-Zudem obliegt ihm die Mitwirkung an der Strategie des ESN Deutschland e.V.
+(1) Der vorsitzenden Person des Verwaltungsrates obliegt dessen Repräsentation nach außen sowie seine
+interne Koordination und die Überprüfung der Arbeitsweise des Vorstands und der unterstützenden Personen im Sinne des §7. 
+Zudem obliegt der Person die Mitwirkung an der Strategie des ESN Deutschland e.V.
 
 (2) Dem Rechtsaudit obliegt die Prüfung der Arbeit des Vorstands und der unterstützenden
 Personen im Sinne des §6 auf Satzungs- und Ordnungskonformität. 
 Zudem berät das Rechtsaudit den Vorstand und die Mitglieder in rechtlichen Fragen sowie bei geplanten
 Satzungs- und Ordnungsänderungen.
-Folgende Dokumente hat der Vorstand vorzulegen, zu denen der Rechtsaudit innerhalb von 14 Tagen Stellung nehmen soll:
+Folgende Dokumente hat der Vorstand vorzulegen, zu denen das Rechtsaudit innerhalb von 14 Tagen Stellung nehmen soll:
 <ol>
     <li>    Anträge auf Satzungs- und Ordnungsänderungen des Vorstandes und der Mitglieder,</li>
     <li>    eigene Entscheidungen, die Satzungs- und Ordnungskonflikte betreffen,</li>
     <li>    Protokolle, die einem Notar vorgelegt werden sollen.</li>
 </ol>
-Für die Erfüllung seiner Aufgaben kann das Rechtsaudit ein Beratungsgremium berufen.
+Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium berufen.
 
 (3) Dem Finanzaudit obliegt die kontinuierliche Beobachtung und Überprüfung der Finanzen des ESN Deutschland e.V. und die Beratung des Finanzvorstands.
 
 (4) Der Verwaltungsrat tritt sein Amt am 1.12. des Jahres an.
 
-### §8 - Kassenprüfer
-(1) Die Versammlung soll zwei oder drei Kassenprüfer wählen, die dem Vorstand nicht angehören oder beisitzen dürfen. 
-Als dritter Kassenprüfer soll ein Mitglied des Finanzaudits hinzugewählt werden.
-Die Wiederwahl ist zulässig, jedoch muss mindestens die Hälfte der Prüfer in zwei aufeinanderfolgenden Jahren wechseln.
+### §8 - Kassenprüfung
+(1) Die Mitgliederersammlung soll zwei oder drei Kassenprüfende wählen, die dem Vorstand nicht angehören oder beisitzen dürfen. 
+Einer der Personen soll ein Mitglied des Finanzaudits sein.
+Die Wiederwahl ist zulässig, jedoch muss mindestens die Hälfte der Prüfenden in zwei aufeinanderfolgenden Jahren wechseln.
 
-(2) Die Kassenprüfer haben die Kasse und Konten des Vereins einschließlich der Bücher und Belege spätestens nach dem Ende der Amtszeit des Vorstands sachlich und rechnerisch zu prüfen. 
+(2) Die Kassenprüfenden haben die Kasse und Konten des Vereins einschließlich der Bücher und Belege spätestens nach dem Ende der Amtszeit des Vorstands sachlich und rechnerisch zu prüfen. 
 Der Prüfbericht muss der Mitgliederversammlung vorgelegt werden, die auf das Ende der Amtszeit des Vorstands folgt.
 
 ### §9 – Finanzen
-(1) Der Finanzvorstand erarbeitet das nächstfolgende Geschäftsjahr einen Wirtschaftsplan.
+(1) Der Vorstand erarbeitet unter Verantwortung des Finanzvorstands für das nächstfolgende Geschäftsjahr einen Wirtschaftsplan.
 Dieser muss klar strukturiert sein und die wesentlichen Positionen von Einnahmen und Ausgaben wiedergeben. 
 Den Vereinsorganen sind ausreichende Mittel zur Erfüllung ihrer Aufgaben zuzuweisen.
 
@@ -139,7 +127,7 @@ Versagt der Verwaltungsrat nach erneuter Vorlage innerhalb von 14 Tagen die Gene
 (3) Der Wirtschaftsplan ist mit Stellungnahme des Finanzvorstandes und des Verwaltungsrates den Mitgliedern spätestens mit der Einladung zu der nächstfolgenden regulären Mitgliederversammlung vorzulegen. 
 Diese können ihn mit einfacher Mehrheit im Sinne der Verbesserungsvorschläge des Verwaltungsrates oder auch ihrer eigenen abändern.
 
-(4) Entsprechendes gilt für die Anpassungen des Wirtschaftsplanes im Verlauf des Geschäftsjahres, wobei die Erstvorlage an den Verwaltungsrat mindestens 5 Wochen vor dem Anfang der nächsten Mitgliederversammlung erfolgen soll.
+(4) Entsprechendes gilt für die Anpassungen des Wirtschaftsplanes im Verlauf des Geschäftsjahres, wobei die Erstvorlage an den Verwaltungsrat mindestens fünf Wochen vor dem Anfang der nächsten Mitgliederversammlung erfolgen soll.
 
 (5) Beabsichtigte Ausgaben des Vorstandes, die eine Gesamtsumme von 500 Euro überschreiten, sind dem Verwaltungsrat so früh wie möglich anzuzeigen. 
 Der Verwaltungsrat kann die Mitglieder über die beabsichtigte Ausgabe informieren.
@@ -162,7 +150,7 @@ Die Entlastung einzelner Mitglieder kann versagt werden.
 
 
 ### §11 – Mitgliederversammlung
-(1) Mitgliederversammlungen sollen drei Mal im Jahr ausgerichtet werden, vorzugsweise im
+(1) Mitgliederversammlungen sollen dreimal im Jahr ausgerichtet werden, vorzugsweise im
 <ol>
     <li>    Januar / Februar</li>
     <li>    Mai / Juni</li>
@@ -188,33 +176,32 @@ Die Plenarsitzungen der Mitgliederversammlung haben dabei an mindestens zwei auf
 
 (8) Dokumente sollen den Mitgliedern unter Wahrung folgender Fristen zur Verfügung gestellt werden, um eine angemessene Vorbereitung zu ermöglichen:
 <ol>
-    <li>    Die Bewerbungsunterlagen aller Kandidaten für Personenwahlen sind spätestens zwei Tage nach Ende des Open Calls zu veröffentlichen. 
-    Für Kandidaten soll ein Kandidatenblog geöffnet werden.</li>
-    <li>    Die Bewerbungsunterlagen aller Bewerber für die Versammlungsleitung sind mit der Einberufung der Mitgliederversammlung offenzulegen.</li>
+    <li>    Die Bewerbungsunterlagen aller Kandidierenden für Personenwahlen sind spätestens zwei Tage nach Ende des Open Calls zu veröffentlichen. 
+    Für Kandidierende soll ein Kandidierendenblog geöffnet werden.</li>
+    <li>    Die Bewerbungsunterlagen aller Bewerbenden für die Versammlungsleitung sind mit der Einberufung der Mitgliederversammlung offenzulegen.</li>
     <li>    Anträge bezüglich Änderungen an Satzung oder Ordnung des Vereins einschließlich deren Begründung sind den Mitgliedern zwei Wochen vor der Mitgliederversammlung zur Verfügung zu stellen.</li>
     <li>    Alle weiteren Dokumente, wie Survival Guide und weitere Anträge einschließlich deren Begründung sind den Mitgliedern spätestens sechs Tage vor dem Beginn der Mitgliederversammlung zur Verfügung zu stellen.</li>
 </ol>
 
 (9) Anträge können geändert werden:
 <ol> <-- a,b,c
-    <li>    Eine Änderung kann durch den Antragsteller bis zum Abschluss der erstmaligen Behandlung erfolgen. Auf Antrag eines Mitglieds muss über diese Änderung abgestimmt werden.</li>
+    <li>    Eine Änderung kann durch den Antragstellenden bis zum Abschluss der erstmaligen Behandlung erfolgen. Auf Antrag eines Mitglieds muss über diese Änderung abgestimmt werden.</li>
     <li>    In allen anderen Fällen wird über eine Änderung abgestimmt, wobei bei mehreren Änderungen zunächst über diejenige abgestimmt wird, die vom Antrag am weitesten abweicht. 
     Alle Änderungen sind unverzüglich der Versammlungsleitung, dem Vorstand und dem Verwaltungsrat in Textform zu übersenden.</li>
 </ol>
 
 (10) Nach der Versammlung bestehen folgende Pflichten:
 <ol>
-    <li>    Der Vizepräsident hat spätestens sieben Tage nach Ende der Mitgliederversammlung eine kurze Zusammenfassung an die Mitglieder und an die Teilnehmer der Veranstaltung zu versenden.</li>
-    <li>    Der Nationale Repräsentant hat einen Bericht an einen Mail-Verteiler gemäß den Vorgaben des ESN AISBL zu versenden.</li>
+    <li>    Der Vorstand hat spätestens sieben Tage nach Ende der Mitgliederversammlung einen Bericht an die Mitglieder, an die Teilnehmenden der Veranstaltung und ESN AISBL, gemäß den entsprechendden Vorgaben, zu versenden.</li>
     <li>    Die Versammlungsleitung hat das Protokoll der Versammlung den Mitgliedern spätestens 30 Tage vor dem Beginn der darauffolgenden regulären Mitgliederversammlung zur Verfügung zu stellen.
     Dieser ist das Protokoll zur Zustimmung vorzulegen. 
-    Kommt die Versammlungsleitung ihrer Pflicht fristgemäß nach, Genehmigt die Mitgliederversammlung das Protokoll, erstattet der Verein der Versammlungsleitung die Teilnahmegebühr.</li>
+    Kommt die Versammlungsleitung ihrer Pflicht fristgemäß nach, genehmigt die Mitgliederversammlung das Protokoll, erstattet der Verein der Versammlungsleitung die Teilnahmegebühr.</li>
     <li>    Das Organisationskomitee hat dem Vorstand einen finalen Finanzbericht spätestens 30 Tage nach Ende der Versammlung vorzulegen.</li>
 </ol>
 
 ### §12 - Versammlungsleitung
-(1) Die Versammlungsleitung besteht mindestens aus dem Versammlungsleiter und dem
-Protokollführer.
+(1) Die Versammlungsleitung besteht mindestens aus einer versammlungsleitenden und einer
+protokollführenden Person.
 
 (2) Der Vorstand hat rechtzeitig vor einer Versammlung eine Ausschreibung mit einer Frist von zwei Wochen für die Versammlungsleitung zu veröffentlichen, auf die sich jede volljährige, natürliche Person bewerben kann. 
 Die Versammlungsleitung wird vom Vorstand ernannt und von der Versammlung bestätigt.
@@ -223,7 +210,7 @@ Das Recht jedes Mitglieds jederzeit einen Antrag zur Tagesordnung auf Wahl einer
 (3) Die Versammlungsleitung übt das Amt in eigener Verantwortung aus. 
 Ihr obliegt insbesondere eine einwandfreie Willensbildung und Willensfeststellung zu gewährleisten, das Wort zu erteilen, Debatten zu strukturieren, Wahlen ordnungsgemäß vorzubereiten, durchzuführen sowie das Wahlergebnis festzustellen.
 
-(4) Bei mehreren Wortmeldungen ist eine Rednerliste aufzustellen. Die Worterteilung erfolgt in der Reihenfolge der Meldung bzw. Rednerliste. 
+(4) Bei mehreren Wortmeldungen erfolgt die Worterteilung in der Reihenfolge der Meldungen. Über diese Reihenfolge ist eine Liste anzufertigen. 
 Die Versammlungsleitung kann Redebeiträge zeitlich begrenzen. 
 Auf Antrag der Versammlungsleitung kann die Versammlung beschließen, dass keine neuen Wortmeldungen mehr zur Rednerliste zugelassen werden und die Aussprache zu einem Tagesordnungspunkt beendet wird.
 
@@ -247,47 +234,43 @@ Alle Mitglieder des Vorstandes und des Verwaltungsrates unterzeichnen vor Beginn
 </ol>
 
 
-(3) Supporter treten ihr Amt zeitgleich mit dem Vorstand oder unverzüglich nach ihrer Ernennung an. Die Amtszeit der SUpporter richtet
+(3) Supporter treten ihr Amt zeitgleich mit dem Vorstand oder unverzüglich nach ihrer Ernennung an. Die Amtszeit der Supporter richtet
 sich nach der Amtszeit des Vorstandes.
 
 
-### §15 - Regionale Koordinatoren
-(1) Jede Region im Sinne des EPP soll mindestens einen Regionalen Koordinator bestimmen.
-Diese sollen auf den entsprechenden LPs im Herbst gewählt werden.
+### §15 - Regionale Koordination
+(1) Jede Region im Sinne des EPP soll mindestens eine Person für die regionale Koordination (Regional Coordinator) auf den entsprechenden LPs im Herbst wählen.
 
 (2) Gewählt werden dürfen nur lokale Mitglieder der Mitglieder der jeweiligen Region.
 Wahlberechtigt sind nur die Mitglieder der entsprechenden Region. 
 Jedes Mitglied hat eine Stimme, wobei Stimmen delegiert werden können. 
 Eine Bestätigung durch den Nationalen Vorstand ist nicht notwendig.
 
-(3) Die Koordinatoren beginnen ihre Amtszeit mit ihrer Wahl, sie dauert bis zur Wahl des Nachfolgers. 
+(3) Mit ihrer Wahl beginnen die Regional Coordinator ihre Amtszeit, welche bis zur Wahl einer nachfolgenden Person andauert. 
 Im Einzelfall kann von diesem Grundsatz durch eine einstimmige Entscheidung der Mitglieder der entsprechenden Region abgewichen werden.
 
-(4) Diese sollen die Zusammenarbeit in ihrer Region koordinieren, als Ansprechpartner für den
-Vize-Präsidenten in Bezug auf regionale Angelegenheiten dienen und den Wissenstransfer in
-der Region fördern.
+(4) Diese sollen die Zusammenarbeit in ihrer Region koordinieren, als Ansprechpersonen für die Position Vice President in Bezug auf regionale Angelegenheiten dienen und den Wissenstransfer in der Region fördern.
 
-(5) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen
-des Vereins handeln.
+(5) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen des Vereins handeln.
 
 ## C. Wahlen
-### §16 - Wahlleitung und Wahlhelfer
-(1) Die Leitung der Wahlen und Abstimmungen auf der Versammlung, die nicht im Sinne des §13 (3) durchgeführt werden, obliegt dem Vorsitzenden des Verwaltungsrates und dem Vorsitzenden des Alumnibeirates des ESN Alumni Deutschland e.V. oder den von ihnen in Textform benannten Vertretern.
+### §16 - Wahlleitung und Wahlhelfende
+(1) Die Leitung der Wahlen und Abstimmungen auf der Versammlung, die nicht im Sinne des §13 (3) durchgeführt werden, obliegt der vorsitzenden Person des Verwaltungsrates und des Alumnibeirates des ESN Alumni Deutschland e.V. oder den von ihnen in Textform benannten Vertretenden.
 Die Vertretung kann jede volljährige, natürliche Person ausüben.
 Ausgenommen hiervon sind Delegierte, Mitglieder des Vorstandes und dessen Supporter sowie Personen, die selbst für ein Vereinsamt kandidieren oder über die ein Beschluss gefasst werden soll.
 
 (2) Zu den Aufgaben der Wahlleitung gehört die neutrale Information der Delegierten über die Abstimmungsgegenstände, die ordnungsgemäße Vorbereitung der Wahlen, die Leitung der Wahlgänge sowie die Feststellung des Wahlergebnisses.
 
-(3) Die Wahlleitung wird von mindestens zwei Wahlhelfern unterstützt, die von der Versammlung ernannt werden. Wahlhelfer kann jede volljährige, natürliche Person werden.
+(3) Die Wahlleitung wird von mindestens zwei Wahlhelfenden unterstützt, die von der Versammlung ernannt werden. Wahlhilfe kann jede volljährige, natürliche Person übernehmen.
 Ausgenommen hiervon sind Delegierte, Personen die einem Vereinsorgan angehören, selbst für ein Vereinsamt kandidieren oder über die ein Beschluss gefasst werden soll.
 
-(4) Zu den Aufgaben der Wahlhelfer gehören insbesondere die Ermittlung der wahlberechtigten Mitglieder, das Zählen der Stimmen bei offenen und namentlichen Abstimmungen und bei geheimen Abstimmungen das Einsammeln und die Auszählung von Stimmzetteln.
+(4) Zu den Aufgaben der Wahlhelfenden gehören insbesondere die Ermittlung der wahlberechtigten Mitglieder, das Zählen der Stimmen bei offenen und namentlichen Abstimmungen und bei geheimen Abstimmungen das Einsammeln und die Auszählung von Stimmzetteln.
 
 ### §17 - Ermittlung der Mehrheit
 (1) Kann bei einer Wahl mit mehr als zwei Vorschlägen kein Vorschlag im ersten Wahlgang die erforderliche Mehrheit auf sich vereinen, ist eine Stichwahl zwischen den beiden Vorschlägen mit den meisten Stimmen durchzuführen. 
 Haben die zweitplatzierten Vorschläge die gleiche Anzahl an Stimmen auf sich vereint, erfolgt zunächst eine Stichwahl zwischen diesen Vorschlägen.
 
-(2) Endet bei einer Kandidatenwahl die Stichwahl mit der gleichen Anzahl an Stimmen, entscheidet das Los, welches der Versammlungsleiter zieht; bei Online-Wahlen tritt an die Stelle des Versammlungsleiters der Verwaltungsrat.
+(2) Endet bei einer Kandidierendenwahl die Stichwahl mit der gleichen Anzahl an Stimmen, entscheidet das Los, welches die versammlungsleitende Person zieht; bei Online-Wahlen tritt an deren Stelle der Verwaltungsrat.
 
 ### §18 - Beschlussfassung mittels sicherer, elektronischer Verfahren
 gemäß §13 Abs. 7 der Satzung (Online-Abstimmungen)
