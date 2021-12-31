@@ -1,5 +1,5 @@
 # Satzung
-Juni 2021
+Oktober 2021
 
 ### § 1 – Name, Sitz und Geschäftsjahr
 (1) Der Verein führt den Namen Erasmus Student Network Deutschland e.V. (Kurzform: ESN Deutschland e.V.)
