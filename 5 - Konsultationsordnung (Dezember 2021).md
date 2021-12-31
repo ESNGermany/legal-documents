@@ -1,5 +1,5 @@
 # Konsultationsordnung
-##### Juni 2021
+##### Dezember 2021
 
 ### § 1 – Geltungs- und Anwendungsbereich
 (1) Diese Ordnung regelt die Konsultation der Mitglieder durch den Vorstand vor einer Mitgliederversammlung des Dachverbandes ESN AISBL.
