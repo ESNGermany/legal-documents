@@ -1,5 +1,5 @@
 # Verhaltenskodex / Code of Conduct
-##### Februar 2021
+##### Dezember 2021
 
 ### 1. Präambel
 Als Mitwirkende des Erasmus Student Network Deutschland e.V. (im Folgenden: ESN Deutschland) verpflichten sich alle Mitglieder der Mitglieder einen Beitrag zur Bereicherung der Gesellschaft durch interkulturellen Austausch und durch Verständigung aller Völker und Kulturen zu leisten.
