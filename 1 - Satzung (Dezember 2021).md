@@ -1,5 +1,5 @@
 # Satzung
-Oktober 2021
+Dezember 2021
 
 ### § 1 – Name, Sitz und Geschäftsjahr
 (1) Der Verein führt den Namen Erasmus Student Network Deutschland e.V. (Kurzform: ESN Deutschland e.V.)
@@ -108,8 +108,11 @@ Organe des Vereins sind
     <li>    einer Person für den Vorsitz (President),</li>
     <li>    einer Person für den stellvertretenden Vorsitz (Vice-President),</li>
     <li>    einer Person für den Finanzvorstand (Treasurer),</li>
-    <li>    einer Person für die nationale Representation (National Representative),</li>
-    <li>    einer Person für den PR-Vorstand (Communication Manager).</li>
+    <li>    einer Person für die nationale Representation (Partnership Manager),</li>
+    <li>    einer Person für den Kommunikationsvorstand (Communication Manager).</li>
+    <li>    einer Person für das Veranstaltungsmanagement (Event Manager),</li>
+    <li>    einer Person für das Projektmanagement (Project Manager),</li>
+    <li>    einer Person für IT Angelegenheiten (IT Manager),</li>
 </ol>
 
 (2) Die Mitgliederversammlung kann beschließen, dass dem Vorstand bis zu drei weitere stimmberechtigte Vorstandsmitglieder angehören sollen.
