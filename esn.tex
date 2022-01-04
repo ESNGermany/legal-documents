@@ -1,0 +1,120 @@
+
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode$for(hyperrefoptions)$,$hyperrefoptions$$endfor$}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*,table}{xcolor}
+%
+\documentclass[
+  fontsize=11pt,
+$if(lang)$
+  $babel-lang$,
+$endif$
+  paper=a4
+]{article}
+
+\usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{setspace}
+
+\setmainfont{Lato}
+\setsansfont{Lato}
+
+\newfontfamily\sectionfont{Kelson Sans}
+\setcounter{secnumdepth}{-\maxdimen}
+% Set formats for each heading level
+\titleformat*{\section}{\LARGE\sffamily\sectionfont}
+\titleformat*{\subsection}{\Large\sffamily\sectionfont}
+\titleformat*{\subsubsection}{\large\sffamily\sectionfont}
+
+
+\usepackage{hyperref}
+\hypersetup{
+  pdftitle={$title-meta$},
+  pdfauthor={$author-meta$},
+  pdflang={$lang$},
+  pdfsubject={$subject$},
+  hidelinks,
+  breaklinks=true,
+  pdfcreator={LaTeX via pandoc with the Eisvogel template}}
+\urlstyle{same} % disable monospaced font for URLs
+
+
+\usepackage{graphicx}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+% Make use of float-package and set default placement for figures to H.
+% The option H means 'PUT IT HERE' (as  opposed to the standard h option which means 'You may put it here if you like').
+\usepackage{float}
+\floatplacement{figure}{H}
+
+\usepackage[shorthands=off,$for(babel-otherlangs)$$babel-otherlangs$,$endfor$main=english]{babel}
+
+%
+% for the background color of the title page
+%
+\usepackage{tikz}
+\usepackage[margin=2.5cm, top=3.5cm]{geometry}
+\usepackage{csquotes}
+\usepackage{tikz}
+\usetikzlibrary{positioning,shapes}
+
+%
+% header and footer
+%
+\usepackage{fancyhdr}
+
+\fancypagestyle{esn-header-footer}{
+  \fancyhead{}
+  \fancyfoot{}
+  \lhead[]{}
+  \chead[]{}
+  \rhead[]{\vspace{-0.8cm}\includegraphics[width=3.5cm]{DE_colour.png}}
+  \lfoot[]{}
+  \cfoot[]{\vspace{-0.5cm}
+    \begin{tikzpicture}
+    \filldraw[gray] [line width=0.05cm,line cap=round] (0,0) -- (2.7,0);
+    \filldraw[esnorange] [line width=0.1cm,line cap=round] (3.05,0) -- (4.75,0);
+    \filldraw[esngreen] [line width=0.1cm,line cap=round] (5.1,0) -- (6.8,0);
+    \filldraw[esncyan] [line width=0.1cm,line cap=round] (7.15,0) -- (8.85,0);
+    \filldraw[esnmagenta] [line width=0.1cm,line cap=round] (9.2,0) -- (10.9,0);
+    \filldraw[esndarkblue] [line width=0.1cm,line cap=round] (11.25,0) -- (12.95,0);
+    \filldraw[gray] [line width=0.05cm,line cap=round] (13.3,0) -- (16,0);
+  \end{tikzpicture}\\ \vspace{0.4cm}
+  \thepage}
+  \rfoot[]{}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+\pagestyle{esn-header-footer}
+
+\definecolor{esncyan}{RGB}{0,174,239}
+\definecolor{esnmagenta}{RGB}{236,0,140}
+\definecolor{esngreen}{RGB}{122,193,67}
+\definecolor{esnorange}{RGB}{244,123,32}
+\definecolor{esndarkblue}{RGB}{46,49,146}
+\definecolor{gray}{RGB}{217,217,217}
+
+%% BEGIN DOCUMENT
+\begin{document}
+$if(title)$
+\begin{center}
+  { \centering\Huge\bfseries\sffamily\sectionfont $title$ }
+\end{center}
+$endif$
+$if(date)$
+\begin{center}
+  { \centering $date$ }
+\end{center}
+$endif$
+
+
+\setstretch{1.2}
+
+$body$
+
+\end{document}
