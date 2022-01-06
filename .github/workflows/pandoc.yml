@@ -24,10 +24,9 @@ jobs:
           IFS=$'\n'
           for mdfile in ${MDFILELIST}
           do
-            echo "${mdfile}"
             mdfilebase=$(basename ${mdfile})
-            echo "docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc \"${mdfilebase}\" -o \"pdfs/${mdfilebase%.*}.pdf\" --pdf-engine=xelatex --template=esn.tex "
             docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "${mdfilebase}" -o "pdf/${mdfilebase%.*}.pdf" --pdf-engine=xelatex --template=esn.latex  
+            docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "${mdfilebase}" -o "html/${mdfilebase%.*}.html"  
           done
           
       - name: Commit changes
