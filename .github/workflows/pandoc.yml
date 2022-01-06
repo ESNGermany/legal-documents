@@ -25,8 +25,8 @@ jobs:
           for mdfile in ${MDFILELIST}
           do
             echo "${mdfile}"
-            echo "docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc \"${mdfile}\" -o \"pdfs/${mdfile%.*}.pdf\" --pdf-engine=xelatex --template=esn.tex "
-            docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "${mdfile}" -o "pdfs/${mdfile%.*}.pdf" --pdf-engine=xelatex --template=esn.tex  
+            echo "docker run --rm -u `id -u`:`id -g` -v `${{ github.workspace }}/pdfs`:/pandoc esndoc \"${mdfile}\" -o \"pdfs/${mdfile%.*}.pdf\" --pdf-engine=xelatex --template=esn.tex "
+            docker run --rm -u `id -u`:`id -g` -v `pwd`:/pdf esndoc "${mdfile}" -o "pdfs/${mdfile%.*}.pdf" --pdf-engine=xelatex --template=esn.tex  
           done
           
       - name: Commit changes
