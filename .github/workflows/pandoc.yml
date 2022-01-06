@@ -35,7 +35,7 @@ jobs:
           for mdfile in ${MDFILELIST}
           do
             mdfilebase=$(basename ${mdfile})
-            docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "${mdfilebase}" -o "html/${mdfilebase%.*}.html"  
+            docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "${mdfilebase}" -o "pdf/${mdfilebase%.*}.html"  
           done
           
       - name: Commit changes
