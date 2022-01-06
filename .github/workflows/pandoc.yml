@@ -27,13 +27,6 @@ jobs:
             mdfilebase=$(basename ${mdfile})
             docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "${mdfilebase}" -o "pdf/${mdfilebase%.*}.pdf" --pdf-engine=xelatex --template=esn.latex  
           done
-        
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v7
-        with:
-          default_author: github_actions
-          add: 'pdf'
-          pull: NO-PULL
 
       - name: Build the html files
         run: |
@@ -49,5 +42,4 @@ jobs:
         uses: EndBug/add-and-commit@v7
         with:
           default_author: github_actions
-          add: 'html'
           pull: NO-PULL
