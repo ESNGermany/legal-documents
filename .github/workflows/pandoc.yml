@@ -1,4 +1,4 @@
-name: Markdon to PDF with pandoc
+name: Markdowwn to PDF with pandoc
 
 on:
   push:
@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
       - name: List files in the repository
         run: |
-          MDFILELIST´$=ls ${{ github.workspace }}/*.md)
+          MDFILELIST=$(ls ${{ github.workspace }}/*.md)
           echo ${MDFILELIST}
         
       - uses: actions/checkout@v2
