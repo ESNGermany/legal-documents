@@ -1,7 +1,6 @@
 ---
 title: "Satzung"
 date: "Dezember 2021"
-lang: "DE"
 output: 
   pdf_document:
     latex_engine: xelatex

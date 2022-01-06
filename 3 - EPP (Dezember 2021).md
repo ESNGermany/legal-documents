@@ -1,22 +1,26 @@
-# Veranstaltungsordnung
-Event Policy Paper
-##### Dezember 2021
+---
+title: "Veranstaltungsordnung / Event Policy Paper"
+date: "Dezember 2021"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+---
 
-### §1 – Geltungs- und Anwendungsbereich
+# §1 – Geltungs- und Anwendungsbereich
 (1) Diese Veranstaltungsordnung regelt die Veranstaltungen des Vereins, das Zulassungs- und Vergabeverfahren zu Veranstaltungen des Dachverbandes ESN AISBL und gibt einen Rahmen für die Veranstaltung seiner Mitglieder vor.
 
 (2) Sofern keine spezielle Regelung für die einzelne Veranstaltung getroffen wurde, gelten die allgemeinen Regelungen.
 
 (3) Fristen enden, wenn nichts Abweichendes bestimmt ist, um Mitternacht.
 
-### §2 – Rechte und Pflichten von Teilnehmern
+# §2 – Rechte und Pflichten von Teilnehmern
 (1) Delegierte, der Vorstand, der Verwaltungsrat und die Versammlungsleitung besitzen ein Antrags- und Rederecht. 
 Alle anderen Teilnehmende besitzen ein Rederecht. 
 Gäste besitzen kein Rederecht; ihnen kann jedoch durch die Versammlungsleitung das Wort erteilt werden.
 
 (2) Alle Teilnehmenden sind an den Verhaltenskodex gemäß §18 Ordnung gebunden.
 
-### §3 – Arten von Veranstaltungen
+# §3 – Arten von Veranstaltungen
 (1) Mitgliederversammlungen sind Veranstaltungen des Vereins. 
 Der Begriff National Assembly (NA) wird vorliegend und insbesondere im internationalen Kontext synonym verwendet und richtet sich nach der Satzung und Ordnung von ESN AISBL.
 
@@ -25,22 +29,22 @@ Der Begriff National Assembly (NA) wird vorliegend und insbesondere im internati
  
 (3) Internationale Veranstaltungen sind solche des Dachverbandes ESN AISBL oder solche, die in Kooperation mit Verbänden aus anderen Ländern ausgerichtet werden. 
 Hierzu zählen insbesondere:
-<ol>
-    <li>    die Western European Platform (WEP),</li>
-    <li>    das French-German Section Meeting (FGSM).</li>
-    <li>    das Erasmus Generation Meeting (EGM),</li>
-</ol>
 
-### §4 – Lokale Plattformen
+    1. die Western European Platform (WEP),
+    2. das French-German Section Meeting (FGSM).
+    3. das Erasmus Generation Meeting (EGM),
+
+
+# §4 – Lokale Plattformen
 (1) Die Mitglieder sind folgenden Regionen zugeteilt, wobei eine Zuteilung maximal zu
 zwei Regionen möglich ist:
-<ol>
-    <li>    LP Nord: ESN Braunschweig, ESN LEI Greifswald, ESN Göttingen, ESN Hamburg, ESN Hannover, ESN Hildesheim, ESN LEI Rostock,</li>
-    <li>    LP Ost: ESN Erasmix Medizin Berlin, ESN HTW Dresden, ESN TU Dresden, ESN Frankfurt/Oder, ESN LEI Greifswald, ESN Jena, ESN Halle (Saale), ESN LEI Potsdam,</li>
-    <li>    LP West: ESN Bochum, ESN Bonn, ESN Dortmund, ESN Düsseldorf, ESN Koblenz, ESN Köln, ESN Siegen, ESN Witten/Herdecke</li>
-    <li>    LP Süd-Ost: ESN Augsburg, ESN MESA München, ESN TUMi München, ESN Deggendorf, ESN Ingolstadt, ESN Bayreuth</li>
-    <li>    LP Süd-West: ESN Darmstadt, ESN Frankfurt am Main, ESN Freiburg, ESN Heidelberg, ESN IPAS Landau, ESN STEP Kaiserslautern, ESN Karlsruhe, ESN Konstanz, ESN VISUM Mannheim, ESN Pforzheim, ESN Saarbrücken, ESN Stuttgart</li>
-</ol>
+
+    1. LP Nord: ESN Braunschweig, ESN LEI Greifswald, ESN Göttingen, ESN Hamburg, ESN Hannover, ESN Hildesheim, ESN LEI Rostock,
+    2. LP Ost: ESN Erasmix Medizin Berlin, ESN HTW Dresden, ESN TU Dresden, ESN Frankfurt/Oder, ESN LEI Greifswald, ESN Jena, ESN Halle (Saale), ESN LEI Potsdam,
+    3. LP West: ESN Bochum, ESN Bonn, ESN Dortmund, ESN Düsseldorf, ESN Koblenz, ESN Köln, ESN Siegen, ESN Witten/Herdecke
+    4. LP Süd-Ost: ESN Augsburg, ESN MESA München, ESN TUMi München, ESN Deggendorf, ESN Ingolstadt, ESN Bayreuth
+    5. LP Süd-West: ESN Darmstadt, ESN Frankfurt am Main, ESN Freiburg, ESN Heidelberg, ESN IPAS Landau, ESN STEP Kaiserslautern, ESN Karlsruhe, ESN Konstanz, ESN VISUM Mannheim, ESN Pforzheim, ESN Saarbrücken, ESN Stuttgart
+
 
 (2) Mit der Aufnahme als neues Mitglied soll ebenfalls eine Zuteilung zu einer oder zwei Regionen erfolgen. 
 Die Mitgliederversammlung kann auf Antrag eines Mitgliedes eine andere Zuteilung beschließen. Der Antrag ist zu begründen.
@@ -49,13 +53,13 @@ Die Mitgliederversammlung kann auf Antrag eines Mitgliedes eine andere Zuteilung
 
 (4) Für die Teilnehmenden sind Kontingente gemäß §9 (2) Veranstaltungsordnung vorzusehen.
 
-### §5 – Internationale Veranstaltungen
+# §5 – Internationale Veranstaltungen
 (1) Für internationale Veranstaltungen gelten die Vorgaben des jeweiligen Veranstaltenden.
 
 (2) Sollte das Mitglied keinen Teilnehmenden melden, so erfolgt die Vergabe dieser und zusätzlicher Plätze durch den Vorstand anhand der Bestimmungen in §9 Veranstaltungsordnung.
 Der Vorstand gibt die Verteilung der Plätze mit Begründung bekannt.
 
-### §6 – Ausrichtung und Ausschreibungsverfahren von Veranstaltungen
+# §6 – Ausrichtung und Ausschreibungsverfahren von Veranstaltungen
 (1) Eine Veranstaltung wird durch ein Organisationskomitee (OC) ausgerichtet.
 
 (2) Der Vorstand hat für jede Veranstaltung ein Ausschreibungsverfahren durchzuführen (Open Call), auf das sich jedes Mitglied alleine oder im Verbund bewerben kann. 
@@ -71,7 +75,7 @@ In der Bewerbung ist die maximale Teilnahmegebühr verbindlich zu benennen.
 Ein Open Call ist spätestens 120 Tage vor Beginn der Veranstaltung zu veröffentlichen. 
 Für Lokale Plattformen beträgt die Frist 90 Tage.
 
-### §7 – Registrierungsverfahren und -fristen
+# §7 – Registrierungsverfahren und -fristen
 (1) Der Vorstand erstellt in Absprache mit dem Organisationskomitee die Registrierungsunterlagen und gibt sie unter den Mitgliedern über den offiziellen Mailverteiler bekannt.
 Für Mitgliederversammlungen erfolgt die Bekanntgabe ebenfalls auf einem Mail-Verteiler gemäß den Vorgaben des ESN AISBL und kann auch über weitere Kanäle erfolgen.
 Bei Lokalen Plattformen erstellt das Organisationskomitee die Registrierungsunterlagen und erteilt dem Vorstand Leserechte.
@@ -87,7 +91,7 @@ Für Lokale Plattformen verkürzt sich die Frist auf 28 Tage bzw. 14 Tage.
 Konnten nicht alle Kontingentplätze besetzt werden, kann der Vorstand gemeinsam mit dem Organisationskomitee die Registrierung geöffnet lassen oder wiedereröffnen. 
 Bei Lokalen Plattformen entscheidet das Organisationskomitee nach Absprache mit dem Vorstand.
 
-### §8 – Grundsätze der Platzzuteilung und der Teilnahme
+# §8 – Grundsätze der Platzzuteilung und der Teilnahme
 (1) Jedes Mitglied, vertreten durch den Vorsitzenden, kann mehrere Teilnehmende zu einer Veranstaltung an den Vorstand, bei Mitgliederversammlungen an die Versammlungsleitung, melden. 
 Meldet ein Mitglied mehrere Teilnehmende oder haben sich mehrere Teilnehmende eines Mitgliedes registriert, hat das Mitglied spätestens zwei Tage nach Ende der Registrierung eine Prioritätenliste unter Angabe der delegierten Person an den Vorstand zu versenden. 
 Reicht das Mitglied die Prioritätenliste ohne diese Angabe des Delegierten ein, wird der ersten Person auf der Prioritätenliste dieser Kontingentplatz zugewiesen. 
@@ -112,65 +116,62 @@ Angemeldete Tagesgäste sollen vom Vorstand oder dem Organisationskomitee und im
 Begründete Ausnahmen, insbesondere eine kurzfristigere Anmeldung, sind nur in Absprache mit dem Vorstand und dem Organisationskomitee möglich.
 Von den Tagesgästen kann ein Unkostenbeitrag erhoben werden.
 
-### §9 – Platzkontingente
+# §9 – Platzkontingente
 (1) Für Mitgliederversammlungen sind für folgende Personengruppen Platzkontingente
 vorzusehen:
-<ol>
-    <li>    mindestens zwei Versammlungsleitende,</li>
-    <li>    alle Delegierte,</li>
-    <li>    mindestens zwei Vertretende von Kandidierendensektionen und interessierten Organisationen</li>
-    <li>    die Mitglieder des Vorstandes,</li>
-    <li>    die Mitglieder des Verwaltungsrats,</li>
-    <li>    mindestens zwei Vertretende des ESN Alumni Deutschland e.V.,</li>
-    <li>    mindestens fünf internationale Gäste, davon zwei Plätze bevorzugt für Gäste von ESN Frankreich,</li>
-    <li>    die Supporter des Vorstandes, wenn sie zur Tagesordnung beitragen,</li>
-    <li>    mindestens zwei Mitglieder von Teams und Working Groups, wenn sie zur Tagesordnung beitragen,</li>
-    <li>    mindestens ein Regional Coordinator pro Region ESN Deutschlands.</li>
-</ol>
+
+    1. mindestens zwei Versammlungsleitende,
+    2. alle Delegierte,
+    3. mindestens zwei Vertretende von Kandidierendensektionen und interessierten Organisationen
+    4. die Mitglieder des Vorstandes,
+    5. die Mitglieder des Verwaltungsrats,
+    6. mindestens zwei Vertretende des ESN Alumni Deutschland e.V.,
+    7. mindestens fünf internationale Gäste, davon zwei Plätze bevorzugt für Gäste von ESN Frankreich,
+    8. die Supporter des Vorstandes, wenn sie zur Tagesordnung beitragen,
+    9. mindestens zwei Mitglieder von Teams und Working Groups, wenn sie zur Tagesordnung beitragen,
+    10. mindestens ein Regional Coordinator pro Region ESN Deutschlands.
+
 
 (2) Bei Lokalen Plattformen sind mindestens folgende Kontingente vorzusehen:
-<ol>
-    <li>    eine Person für die Sitzungsleitung, die das Organisationskomitee vorschlagen kann und der vom Vorstand ernannt wird,</li>
-    <li>    mindestens zwei Vertretende der Mitglieder aus der entsprechenden Region.</li>
-    <li>    die Regional Coordinator der jeweiligen Region.</li>
-</ol>
+
+    1. eine Person für die Sitzungsleitung, die das Organisationskomitee vorschlagen kann und der vom Vorstand ernannt wird,
+    2. mindestens zwei Vertretende der Mitglieder aus der entsprechenden Region.
+    3. die Regional Coordinator der jeweiligen Region.
+
 
 (3) Für die WEP gilt: sollten dem Verein weitere Plätze zur Verfügung stehen, dann werden
 sie wie folgt vergeben:
-<ol>
-    <li>    Neue Mitglieder, die nach der letzten WEP dem Verein beigetreten sind</li>
-    <li>    Mitglieder, die seit der letzten WEP eine Mitgliederversammlung ausgerichtet haben</li>
-    <li>    Zwei Vertretende von ESN Frankreich</li>
-    <li>    Neu- oder wiedergewählte Vorstandsmitglieder</li>
-    <li>    Ein Mitglied des ESN Alumni Deutschland e.V.</li>
-    <li>    Weitere Mitglieder</li>
-</ol>
+
+    1. Neue Mitglieder, die nach der letzten WEP dem Verein beigetreten sind
+    2. Mitglieder, die seit der letzten WEP eine Mitgliederversammlung ausgerichtet haben
+    3. Zwei Vertretende von ESN Frankreich
+    4. Neu- oder wiedergewählte Vorstandsmitglieder
+    5. Ein Mitglied des ESN Alumni Deutschland e.V.
+    6. Weitere Mitglieder
+
 
 (4) Für das FGSM gilt:
-<ol>
-    <li>    Jedes Mitglied hat Anspruch auf einen Platz.</li>
-    <li>    Die weitere Vergabe der Plätze richtet sich nach den Vorgaben des Veranstalters.</li>
-</ol>
+
+    1. Jedes Mitglied hat Anspruch auf einen Platz.
+    2. Die weitere Vergabe der Plätze richtet sich nach den Vorgaben des Veranstalters.
+
 
 (5) Für das EGM sind für folgende Personengruppen Platzkontingente vorzusehen:
-<ol>
-<li>  Einen Platz für die Delegationsleitung sowie zwei weitere Personen, die durch
-den Vorstand benannt werden.</li>
-<li> Jeweils einen Platz für jedes Mitglied von ESN Deutschland e. V.</li>
-<li> Sollten dem Verein weitere Plätze zur Verfügung stehen, dann werden sie in
-folgender Reihenfolge vergeben:
-<ol>
-<li> Mitglieder, die in den letzten zwölf Monaten vor der Veranstaltung dem
-Verein beigetreten sind</li>
-<li> Mitglieder, die in den letzten zwölf Monaten vor der Veranstaltung eine
-Mitgliederversammlung ausgerichtet haben</li>
-<li> Vorstandsmitglieder</li>
-<li> Ein Mitglied des ESN Alumni Deutschland e.V.</li>
-<li> Weitere Mitglieder.</li>
-</ul>
-</ol>
 
-### §10 – Haus- und Teilnahmerecht
+1. Einen Platz für die Delegationsleitung sowie zwei weitere Personen, die durch
+2. orstand benannt werden.
+3. Jeweils einen Platz für jedes Mitglied von ESN Deutschland e. V.
+4. Sollten dem Verein weitere Plätze zur Verfügung stehen, dann werden sie in
+folgender Reihenfolge vergeben:
+
+    1. Mitglieder, die in den letzten zwölf Monaten vor der Veranstaltung dem Verein beigetreten sind
+    2. Mitglieder, die in den letzten zwölf Monaten vor der Veranstaltung eine Mitgliederversammlung ausgerichtet haben
+    3. Vorstandsmitglieder
+    4. Ein Mitglied des ESN Alumni Deutschland e.V.
+    5. Weitere Mitglieder.
+
+
+# §10 – Haus- und Teilnahmerecht
 (1) Neben den Ausrichtenden der Veranstaltungen hat der vertretungsberechtigte Vorstand Hausrecht, bei regionalen Veranstaltungen auch das zuständige Vorstandsmitglied.
 
 (2) Bei schwerwiegenden sowie kontinuierlichen Störungen der Veranstaltungen ist ein Ausschluss der Teilnehmenden auch für nachfolgende Vereinsveranstaltungen möglich.
@@ -179,5 +180,5 @@ Mitgliederversammlung ausgerichtet haben</li>
 
 (4) Bei internationalen Veranstaltungen beschränkt sich das Recht zum Ausschluss auf die Teilnahme an der deutschen Delegation. 
 
-### §11 – Inkrafttreten
+# §11 – Inkrafttreten
 Diese Ordnung tritt mit Beschlussfassung durch die Mitgliederversammlung in Kraft.

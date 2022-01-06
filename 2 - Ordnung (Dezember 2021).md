@@ -1,54 +1,56 @@
-# Ordnung
-##### Dezember 2021
+---
+title: "Ordnung"
+date: "Dezember 2021"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+---
 
-### §1 – Geltungsbereich
+## §1 – Geltungsbereich
 Diese Vereinsordnung regelt die Angelegenheiten des Vereins.
-## A. MITGLIEDER
 
-### §2 – Aufnahme neuer Mitglieder
+# A. MITGLIEDER
+
+## §2 – Aufnahme neuer Mitglieder
 (1) Die Aufnahme neuer Mitglieder erfolgt in einem zweistufigen Verfahren. Zunächst wird der Status der Kandidatur and die Antragstellenden verliehen, bevor eine vollwertige Mitgliedschaft erfolgen kann.
 
 (2) Um den Status der Kandidatur zu erhalten, bedarf es
-<ol>
-    <li>der Teilnahme an einer Lokalen Plattform oder des Besuches der Antragstellenden durch den Vorstand respektive einer vertretungsberechtigten Person. 
-    Über den Besuch ist ein Bericht anzufertigen. 
-    In begründeten Ausnahmefällen kann der Vorstand beschließen, dass von einer Teilnahme an einer Lokalen Plattform oder einem Besuch abgesehen werden kann.</li>
-    <li>der Entscheidung des Vorstandes über die Einladung der interessierten Organisation zu einer Mitgliederversammlung</li>
-    <li>der Vorstellung der Bewerbung durch die Antragstellenden auf einer Mitgliederversammlung, die über die den Status der Kandidatur entscheidet.</li>
-</ol>
+
+    1. der Teilnahme an einer Lokalen Plattform oder des Besuches der Antragstellenden durch den Vorstand respektive einer vertretungsberechtigten Person. Über den Besuch ist ein Bericht anzufertigen. 
+    2. egründeten Ausnahmefällen kann der Vorstand beschließen, dass von einer Teilnahme an einer Lokalen Plattform oder einem Besuch abgesehen werden kann.
+    3. der Entscheidung des Vorstandes über die Einladung der interessierten Organisation zu einer Mitgliederversammlung
+    4. der Vorstellung der Bewerbung durch die Antragstellenden auf einer Mitgliederversammlung, die über die den Status der Kandidatur entscheidet.
+
 
 (3) Zur Aufnahme als Mitglied bedarf es
-<ol>
-    <li>eines Antrags auf Aufnahme in den Verein in Textform beim Vorstand. Der Vorstand hat den Antragstellenden ein entsprechendes Muster zur Verfügung zu stellen.</li>
-    <li> der Vorstellung der Tätigkeit seit Verleihung des Status der Kandidatur auf der nächsten, spätestens übernächsten Mitgliederversammlung, die über die Aufnahme als vollwertiges Mitglied entscheidet. Die Aufnahme in den Verein erfolgt mit Beendigung der Mitgliederversammlung.</li>
-</ol>
+
+    1. eines Antrags auf Aufnahme in den Verein in Textform beim Vorstand. Der Vorstand hat den Antragstellenden ein entsprechendes Muster zur Verfügung zu stellen.
+    2.  der Vorstellung der Tätigkeit seit Verleihung des Status der Kandidatur auf der nächsten, spätestens übernächsten Mitgliederversammlung, die über die Aufnahme als vollwertiges Mitglied entscheidet. Die Aufnahme in den Verein erfolgt mit Beendigung der Mitgliederversammlung.
 
 (4) Der Status der Kandidatur entfällt, sofern die Entscheidung über die Aufnahme als Mitglied zweimal negativ ausgefallen ist; spätestens jedoch nach der dritten Mitgliederversammlung seit Statuserhalt.
 
-### §3 - Rechte und Pflichten von Kandidierenden
+## §3 - Rechte und Pflichten von Kandidierenden
 (1) Kandidierende werden in den E-Mail-Verteiler aufgenommen und Vertretende von Kandidierenden und interessierten Organisationen werden als Gäste zu den Veranstaltungen des Vereins eingeladen.
 
 (2) Kandidierende haben das Recht “Erasmus Student Network” oder “ESN” in seinem Namen zu führen, sofern “Kandidierende Sektion” oder “Candidate Section” voran- oder nachgestellt wird.
 Die Verwendung der Corporate Identity und des Corporate Designs ist jedoch nicht gestattet.
 
-### §4 - Rechte und Pflichten von Mitgliedern
+## §4 - Rechte und Pflichten von Mitgliedern
 (1) Es wird ein jährlicher Mitgliedsbeitrag erhoben.
-<ol>
-    <li>    Der Mitgliedsbeitrag beträgt 130€ pro Jahr.</li>
-    <li>    Finanzschwache Mitglieder können einen reduzierten Mitgliedsbeitrag in Höhe von 65€ beantragen. Der Antrag muss in Textform bis zum 28.02. des betreffenden Jahres beim Vorstand erfolgen. 
+
+    1. Der Mitgliedsbeitrag beträgt 130€ pro Jahr.
+    2. Finanzschwache Mitglieder können einen reduzierten Mitgliedsbeitrag in Höhe von 65€ beantragen. Der Antrag muss in Textform bis zum 28.02. des betreffenden Jahres beim Vorstand erfolgen. 
     Als finanzschwach gelten Mitglieder, deren Gesamteinnahmen unter 2000€ liegen. 
     Der Vorstand prüft den Antrag anhand einer durch das betreffende Mitglied vorgelegte Einnahmen-Ausgaben-Rechnung des Vorjahres. 
     Der Vorstand entscheidet über den Antrag.
-    </li>
-    <li>    Die Höhe des Mitgliedsbeitrages soll regelmäßig, jedoch mit einem maximalen Abstand von drei Jahren, vom Vorstand geprüft werden. 
-    Die Prüfung soll erfolgen, um auf einen eventuell geänderten Finanzbedarf reagieren zu können.</li>
-    <li>    Neumitglieder zahlen in ihrem ersten Mitgliedsjahr pauschal einen Mitgliedsbeitrag von 50€.</li>
-    <li>    Die Rechnungen der Mitgliedsbeiträge für das laufende Kalenderjahr sollen im März des Jahres gesendet werden. 
-    Sofern Mitglieder nach diesem Stichtag aufgenommen werden, so ist die Rechnung innerhalb eines Monats nach der Aufnahme zu verschicken.</li>
-    <li>    Die Entrichtung des Mitgliedsbeitrags hat innerhalb von vier Wochen nach Zugang der entsprechenden Rechnung zu erfolgen. 
+    3. Die Höhe des Mitgliedsbeitrages soll regelmäßig, jedoch mit einem maximalen Abstand von drei Jahren, vom Vorstand geprüft werden. 
+    Die Prüfung soll erfolgen, um auf einen eventuell geänderten Finanzbedarf reagieren zu können.
+    4. Neumitglieder zahlen in ihrem ersten Mitgliedsjahr pauschal einen Mitgliedsbeitrag von 50€.
+    5. Die Rechnungen der Mitgliedsbeiträge für das laufende Kalenderjahr sollen im März des Jahres gesendet werden. 
+    Sofern Mitglieder nach diesem Stichtag aufgenommen werden, so ist die Rechnung innerhalb eines Monats nach der Aufnahme zu verschicken.
+    6. Die Entrichtung des Mitgliedsbeitrags hat innerhalb von vier Wochen nach Zugang der entsprechenden Rechnung zu erfolgen. 
     Sollte zwölf Wochen nach Zugang der Rechnung ein Mitglied seinen Mitgliedsbeitrag trotz mehrerer Erinnerungen nicht entrichtet haben, kann der Vorstand beschließen, dieses Mitglied bei der Zuteilung von Platzkontingenten gemäß §9 der Veranstaltungsordnung für Veranstaltungen gemäß §3 Abs. 2 und 3 der Veranstaltungsordnung bis zur Entrichtung des Mitgliedsbeitrags nicht zu berücksichtigen. 
-    Hierüber sind die Mitglieder zu informieren. Widerspricht das betroffene Mitglied dem Beschluss, befindet die Mitgliederversammlung über dessen Statthaftigkeit.</li>
-</ol>
+    Hierüber sind die Mitglieder zu informieren. Widerspricht das betroffene Mitglied dem Beschluss, befindet die Mitgliederversammlung über dessen Statthaftigkeit.
 
 (2) Jedes Mitglied muss eine Ansprechperson(Local Representative) benennen, welche auch andere Positionen innerhalb des Mitglieds innehaben kann. 
 Der Wechsel des Ansprechperson sowie der Vorstände des Mitglieds ist dem Vorstand unverzüglich mitzuteilen.
@@ -71,13 +73,14 @@ Es steht im Ermessen des Mitglieds zu welchem Preis der Verkauf der ESNcards erf
 
 (6) Der Vorstand soll Supporter, Teams und Working Groups zur Beratung und Unterstützung der Vereinstätigkeit einsetzen.
 
-### §5 - Verfahren bei Nichteinhaltung von Pflichten
+## §5 - Verfahren bei Nichteinhaltung von Pflichten
 (1) Im Falle eines Verstoßes gegen die Pflichten eines Mitglieds aus Ordnung §4 benachrichtigt der Vorstand das Mitglied und den Verwaltungsrat über den Verstpß schriftlich.
 (2) Sollte 12 Wochen nach Zugang der ersten schriftlichen Mitteilungen und nach mehreren Erinnerungen eine Pflicht aus Ordnung §4 weiterhin nicht eingehalten werden, kann der Vorstand beschließen, dieses Mitglied bei der Zuteilung von Platzkontingenten gemäß §9 der Veranstaltungsordnung für Veranstaltungen gemäß §3 Abs.2 und 3 der Veranstaltungsordnung bis zur Behebung des Pflichtverstoßes nicht zu berücksichtigen. Hierüber sind die Mitglieder und der Verwaltungsrat zu informieren. Widerspricht das bestroffene Mitglied dem Beschluss, befindet die Mitgliederversammlung über dessen Statthaftigkeit. Diese Sanktion entfällt, sobald der Pflichtverstoß behoben worden ist.
 (3) Sollte 16 Wochen nach zugang der ersten schriftlichen Mitteilungen und nach mehreren Erinnerungen die Pflich aus Ordnung $4 weiterhin nicht eingehalten werden, so kann der Vorstand dem Mitglied den Erwerb von ESNcards verweigern. Der Vorstand informiert das betroffene Mitglied und den Verwaltungsrat. Diese Sanktion entfällt, sobald der Pflichtverstoß behoben worden ist.
 
-## B. VEREINSORGANE
-### §6 - Aufgaben des Vorstands
+# B. VEREINSORGANE
+
+## §6 - Aufgaben des Vorstands
 
 (1) Die Aufgaben des Vorastands gelten wie in §8 der Satzung beschrieben. Die detaillierte Aufgabenverteilung obliegt dem Vorstand.
 
@@ -85,7 +88,7 @@ Es steht im Ermessen des Mitglieds zu welchem Preis der Verkauf der ESNcards erf
 
 
 
-### §7 - Aufgaben des Verwaltungsrates
+## §7 - Aufgaben des Verwaltungsrates
 (1) Der vorsitzenden Person des Verwaltungsrates obliegt dessen Repräsentation nach außen sowie seine
 interne Koordination und die Überprüfung der Arbeitsweise des Vorstands und der unterstützenden Personen im Sinne des §7. 
 Zudem obliegt der Person die Mitwirkung an der Strategie des ESN Deutschland e.V.
@@ -95,18 +98,18 @@ Personen im Sinne des §6 auf Satzungs- und Ordnungskonformität.
 Zudem berät das Rechtsaudit den Vorstand und die Mitglieder in rechtlichen Fragen sowie bei geplanten
 Satzungs- und Ordnungsänderungen.
 Folgende Dokumente hat der Vorstand vorzulegen, zu denen das Rechtsaudit innerhalb von 14 Tagen Stellung nehmen soll:
-<ol>
-    <li>    Anträge auf Satzungs- und Ordnungsänderungen des Vorstandes und der Mitglieder,</li>
-    <li>    eigene Entscheidungen, die Satzungs- und Ordnungskonflikte betreffen,</li>
-    <li>    Protokolle, die einem Notar vorgelegt werden sollen.</li>
-</ol>
+
+    1. Anträge auf Satzungs- und Ordnungsänderungen des Vorstandes und der Mitglieder,
+    2. eigene Entscheidungen, die Satzungs- und Ordnungskonflikte betreffen,
+    3. Protokolle, die einem Notar vorgelegt werden sollen.
+
 Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium berufen.
 
 (3) Dem Finanzaudit obliegt die kontinuierliche Beobachtung und Überprüfung der Finanzen des ESN Deutschland e.V. und die Beratung des Finanzvorstands.
 
 (4) Der Verwaltungsrat tritt sein Amt am 1.12. des Jahres an.
 
-### §8 - Kassenprüfung
+## §8 - Kassenprüfung
 (1) Die Mitgliederersammlung soll zwei oder drei Kassenprüfende wählen, die dem Vorstand nicht angehören oder beisitzen dürfen. 
 Einer der Personen soll ein Mitglied des Finanzaudits sein.
 Die Wiederwahl ist zulässig, jedoch muss mindestens die Hälfte der Prüfenden in zwei aufeinanderfolgenden Jahren wechseln.
@@ -114,7 +117,7 @@ Die Wiederwahl ist zulässig, jedoch muss mindestens die Hälfte der Prüfenden 
 (2) Die Kassenprüfenden haben die Kasse und Konten des Vereins einschließlich der Bücher und Belege spätestens nach dem Ende der Amtszeit des Vorstands sachlich und rechnerisch zu prüfen. 
 Der Prüfbericht muss der Mitgliederversammlung vorgelegt werden, die auf das Ende der Amtszeit des Vorstands folgt.
 
-### §9 – Finanzen
+## §9 – Finanzen
 (1) Der Vorstand erarbeitet unter Verantwortung des Finanzvorstands für das nächstfolgende Geschäftsjahr einen Wirtschaftsplan.
 Dieser muss klar strukturiert sein und die wesentlichen Positionen von Einnahmen und Ausgaben wiedergeben. 
 Den Vereinsorganen sind ausreichende Mittel zur Erfüllung ihrer Aufgaben zuzuweisen.
@@ -137,7 +140,7 @@ Reisekosten umfassen eventuelle Teilnahmebeiträge für Veranstaltungen sowie Fa
 Übersteigen die Kosten unter Beachtung von Sparsamkeit und Wirtschaftlichkeit das notwendige Maß, erfolgt nur eine anteilige Erstattung.
 Nebenabsprachen zur Aufteilung der Kostenerstattung sind nicht zulässig.
 
-### §10 – Rechenschaftsberichte
+## §10 – Rechenschaftsberichte
 (1) Die Vorstandsmitglieder und der Verwaltungsrat berichten während ihrer Amtszeit der Mitgliederversammlung über ihre Arbeit und fertigen zum Ende ihrer Amtszeit einen Rechenschaftsbericht an.
 
 (2) Die Rechenschaftsberichte sind den Mitgliedern mindestens eine Woche vor der Versammlung, die auf das Ende der Amtszeit folgt, bekanntzugeben.
@@ -149,13 +152,13 @@ Der Finanzbericht und eine Stellungnahme des Verwaltungsrates müssen der Mitgli
 Die Entlastung einzelner Mitglieder kann versagt werden.
 
 
-### §11 – Mitgliederversammlung
+## §11 – Mitgliederversammlung
 (1) Mitgliederversammlungen sollen dreimal im Jahr ausgerichtet werden, vorzugsweise im
-<ol>
-    <li>    Januar / Februar</li>
-    <li>    Mai / Juni</li>
-    <li>    Oktober / November.</li>
-</ol>
+
+    1. Januar / Februar
+    2. Mai / Juni
+    3. Oktober / November.
+
 
 (2) Eine Mitgliederversammlung darf sich nicht mit einer anderen nationalen Veranstaltung des Vereins überschneiden. 
 Während Veranstaltungen des ESN AISBL zu denen die Mitglieder eingeladen sind, kann lediglich eine außerordentliche Mitgliederversammlung berufen werden.
@@ -175,31 +178,30 @@ Die Plenarsitzungen der Mitgliederversammlung haben dabei an mindestens zwei auf
 (7) Die Mitgliederversammlung soll gestreamt werden, vorzugsweise über ESNlive.
 
 (8) Dokumente sollen den Mitgliedern unter Wahrung folgender Fristen zur Verfügung gestellt werden, um eine angemessene Vorbereitung zu ermöglichen:
-<ol>
-    <li>    Die Bewerbungsunterlagen aller Kandidierenden für Personenwahlen sind spätestens zwei Tage nach Ende des Open Calls zu veröffentlichen. 
-    Für Kandidierende soll ein Kandidierendenblog geöffnet werden.</li>
-    <li>    Die Bewerbungsunterlagen aller Bewerbenden für die Versammlungsleitung sind mit der Einberufung der Mitgliederversammlung offenzulegen.</li>
-    <li>    Anträge bezüglich Änderungen an Satzung oder Ordnung des Vereins einschließlich deren Begründung sind den Mitgliedern zwei Wochen vor der Mitgliederversammlung zur Verfügung zu stellen.</li>
-    <li>    Alle weiteren Dokumente, wie Survival Guide und weitere Anträge einschließlich deren Begründung sind den Mitgliedern spätestens sechs Tage vor dem Beginn der Mitgliederversammlung zur Verfügung zu stellen.</li>
-</ol>
+
+    1. Die Bewerbungsunterlagen aller Kandidierenden für Personenwahlen sind spätestens zwei Tage nach Ende des Open Calls zu veröffentlichen. 
+    Für Kandidierende soll ein Kandidierendenblog geöffnet werden.
+    2. Die Bewerbungsunterlagen aller Bewerbenden für die Versammlungsleitung sind mit der Einberufung der Mitgliederversammlung offenzulegen.
+    3. Anträge bezüglich Änderungen an Satzung oder Ordnung des Vereins einschließlich deren Begründung sind den Mitgliedern zwei Wochen vor der Mitgliederversammlung zur Verfügung zu stellen.
+    4. Alle weiteren Dokumente, wie Survival Guide und weitere Anträge einschließlich deren Begründung sind den Mitgliedern spätestens sechs Tage vor dem Beginn der Mitgliederversammlung zur Verfügung zu stellen.
+
 
 (9) Anträge können geändert werden:
-<ol> <-- a,b,c
-    <li>    Eine Änderung kann durch den Antragstellenden bis zum Abschluss der erstmaligen Behandlung erfolgen. Auf Antrag eines Mitglieds muss über diese Änderung abgestimmt werden.</li>
-    <li>    In allen anderen Fällen wird über eine Änderung abgestimmt, wobei bei mehreren Änderungen zunächst über diejenige abgestimmt wird, die vom Antrag am weitesten abweicht. 
-    Alle Änderungen sind unverzüglich der Versammlungsleitung, dem Vorstand und dem Verwaltungsrat in Textform zu übersenden.</li>
-</ol>
+
+    1. Eine Änderung kann durch den Antragstellenden bis zum Abschluss der erstmaligen Behandlung erfolgen. Auf Antrag eines Mitglieds muss über diese Änderung abgestimmt werden.
+    2. In allen anderen Fällen wird über eine Änderung abgestimmt, wobei bei mehreren Änderungen zunächst über diejenige abgestimmt wird, die vom Antrag am weitesten abweicht. 
+    Alle Änderungen sind unverzüglich der Versammlungsleitung, dem Vorstand und dem Verwaltungsrat in Textform zu übersenden.
+
 
 (10) Nach der Versammlung bestehen folgende Pflichten:
-<ol>
-    <li>    Der Vorstand hat spätestens sieben Tage nach Ende der Mitgliederversammlung einen Bericht an die Mitglieder, an die Teilnehmenden der Veranstaltung und ESN AISBL, gemäß den entsprechendden Vorgaben, zu versenden.</li>
-    <li>    Die Versammlungsleitung hat das Protokoll der Versammlung den Mitgliedern spätestens 30 Tage vor dem Beginn der darauffolgenden regulären Mitgliederversammlung zur Verfügung zu stellen.
-    Dieser ist das Protokoll zur Zustimmung vorzulegen. 
-    Kommt die Versammlungsleitung ihrer Pflicht fristgemäß nach, genehmigt die Mitgliederversammlung das Protokoll, erstattet der Verein der Versammlungsleitung die Teilnahmegebühr.</li>
-    <li>    Das Organisationskomitee hat dem Vorstand einen finalen Finanzbericht spätestens 30 Tage nach Ende der Versammlung vorzulegen.</li>
-</ol>
 
-### §12 - Versammlungsleitung
+1. Der Vorstand hat spätestens sieben Tage nach Ende der Mitgliederversammlung einen Bericht an die Mitglieder, an die Teilnehmenden der Veranstaltung und ESN AISBL, gemäß den entsprechendden Vorgaben, zu versenden.
+2. Die Versammlungsleitung hat das Protokoll der Versammlung den Mitgliedern spätestens 30 Tage vor dem Beginn der darauffolgenden regulären Mitgliederversammlung zur Verfügung zu stellen.
+    Dieser ist das Protokoll zur Zustimmung vorzulegen. 
+    Kommt die Versammlungsleitung ihrer Pflicht fristgemäß nach, genehmigt die Mitgliederversammlung das Protokoll, erstattet der Verein der Versammlungsleitung die Teilnahmegebühr.
+3. Das Organisationskomitee hat dem Vorstand einen finalen Finanzbericht spätestens 30 Tage nach Ende der Versammlung vorzulegen.
+
+## §12 - Versammlungsleitung
 (1) Die Versammlungsleitung besteht mindestens aus einer versammlungsleitenden und einer
 protokollführenden Person.
 
@@ -219,26 +221,25 @@ geheime Abstimmung ist erforderlich, wenn ein Drittel der vertretenen stimmberec
 Mitglieder dies beantragt. Abstimmungen über Personen und Mitglieder sind grundsätzlich
 geheim durchzuführen.
 
-### §13– Vertraulichkeit
+## §13– Vertraulichkeit
 Alle Mitglieder des Vorstandes und des Verwaltungsrates unterzeichnen vor Beginn ihrer Amtszeit, die Kassenprüfer vor Beginn ihrer Tätigkeit, eine Vertraulichkeitserklärung gemäß Anhang dieser Ordnung.
 
 
-## B. Support Structures
-### §14 - Board Supporter
-(1) Folgende Supporter sollen vom Vorstand ernannt werden werden:
-<ol>
-    <li>    International Affairs Officer</li>
-    <li>    Social Media Officer</li>
-    <li>    Education Officer</li>
-    <li>    Social Impact Oficer</li>
-</ol>
+# B. Support Structures
 
+## §14 - Board Supporter
+(1) Folgende Supporter sollen vom Vorstand ernannt werden werden:
+
+    1. International Affairs Officer
+    2. Social Media Officer
+    3. Education Officer
+    4. Social Impact Oficer
 
 (3) Supporter treten ihr Amt zeitgleich mit dem Vorstand oder unverzüglich nach ihrer Ernennung an. Die Amtszeit der Supporter richtet
 sich nach der Amtszeit des Vorstandes.
 
 
-### §15 - Regionale Koordination
+## §15 - Regionale Koordination
 (1) Jede Region im Sinne des EPP soll mindestens eine Person für die regionale Koordination (Regional Coordinator) auf den entsprechenden LPs im Herbst wählen.
 
 (2) Gewählt werden dürfen nur lokale Mitglieder der Mitglieder der jeweiligen Region.
@@ -253,8 +254,9 @@ Im Einzelfall kann von diesem Grundsatz durch eine einstimmige Entscheidung der 
 
 (5) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen des Vereins handeln.
 
-## C. Wahlen
-### §16 - Wahlleitung und Wahlhelfende
+# C. Wahlen
+
+## §16 - Wahlleitung und Wahlhelfende
 (1) Die Leitung der Wahlen und Abstimmungen auf der Versammlung, die nicht im Sinne des §13 (3) durchgeführt werden, obliegt der vorsitzenden Person des Verwaltungsrates und des Alumnibeirates des ESN Alumni Deutschland e.V. oder den von ihnen in Textform benannten Vertretenden.
 Die Vertretung kann jede volljährige, natürliche Person ausüben.
 Ausgenommen hiervon sind Delegierte, Mitglieder des Vorstandes und dessen Supporter sowie Personen, die selbst für ein Vereinsamt kandidieren oder über die ein Beschluss gefasst werden soll.
@@ -266,14 +268,13 @@ Ausgenommen hiervon sind Delegierte, Personen die einem Vereinsorgan angehören,
 
 (4) Zu den Aufgaben der Wahlhelfenden gehören insbesondere die Ermittlung der wahlberechtigten Mitglieder, das Zählen der Stimmen bei offenen und namentlichen Abstimmungen und bei geheimen Abstimmungen das Einsammeln und die Auszählung von Stimmzetteln.
 
-### §17 - Ermittlung der Mehrheit
+## §17 - Ermittlung der Mehrheit
 (1) Kann bei einer Wahl mit mehr als zwei Vorschlägen kein Vorschlag im ersten Wahlgang die erforderliche Mehrheit auf sich vereinen, ist eine Stichwahl zwischen den beiden Vorschlägen mit den meisten Stimmen durchzuführen. 
 Haben die zweitplatzierten Vorschläge die gleiche Anzahl an Stimmen auf sich vereint, erfolgt zunächst eine Stichwahl zwischen diesen Vorschlägen.
 
 (2) Endet bei einer Kandidierendenwahl die Stichwahl mit der gleichen Anzahl an Stimmen, entscheidet das Los, welches die versammlungsleitende Person zieht; bei Online-Wahlen tritt an deren Stelle der Verwaltungsrat.
 
-### §18 - Beschlussfassung mittels sicherer, elektronischer Verfahren
-gemäß §13 Abs. 7 der Satzung (Online-Abstimmungen)
+## §18 - Beschlussfassung mittels sicherer, elektronischer Verfahren gemäß §13 Abs. 7 der Satzung (Online-Abstimmungen)
 
 (1) Sollen Beschlüsse durch eine Online-Abstimmung herbeigeführt werden, weil die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, gelten die Anforderungen an Beschlussfähigkeit und Mehrheiten entsprechend der Satzung und der Ordnung.
 Beschlussgegenstände des §13 Abs. 4 der Satzung können nicht in einer Online-Abstimmung beschlossen werden.
@@ -283,22 +284,23 @@ Beschlussgegenstände des §13 Abs. 4 der Satzung können nicht in einer Online-
 (3) Die Abstimmungen sind geheim durchzuführen; niemand soll nachvollziehen können, welches Mitglied für welchen Vorschlag gestimmt hat. 
 Das Mitglied muss autark die Möglichkeit haben, die zur Abstimmung zugelassenen Berechtigten und das Ergebnis der Abstimmung einsehen zu können.
 
-### §19 Beschlussfassung bei Online-Mitgliederversammlungen
+## §19 Beschlussfassung bei Online-Mitgliederversammlungen
 (1) Für Beschlüsse im Rahmen einer Online-Mitgliederversammlung gemäß §12 Abs. 4 der Satzung gelten die Anforderungen an Beschlussfähigkeit und Mehrheiten entsprechend der Satzung und der Ordnung.
 
 (2) Beschlussgegenstände des §13 Abs. 4 Nr. 4, 5 der Satzung können nicht auf einer Online-Mitgliederversammlung beschlossen werden.
 
-## D. Schlußbestimmungen
-### §20 - Versammlungen und Veranstaltungen
+# D. Schlußbestimmungen
+
+## §20 - Versammlungen und Veranstaltungen
 Näheres zu den Versammlungen und Veranstaltungen kann in einer Veranstaltungsordnung (Event Policy Paper) geregelt werden. 
 Sie ist als Anhang Teil dieser Ordnung.
 
-### §21 - Verhaltenskodex (Code of Conduct)
+## §21 - Verhaltenskodex (Code of Conduct)
 Die Mitgliederversammlung kann einen Verhaltenskodex aufstellen, der für alle Veranstaltungen des Vereins bindend ist. Er ist als Anhang Teil dieser Ordnung.
 
-### §22 – Konsultationsordnung
+## §22 – Konsultationsordnung
 Näheres zur Konsultation der Mitglieder kann in einer Konsultationsordnung geregelt werden. 
 Sie ist als Anhang Teil dieser Ordnung.
 
-### §23 - Inkrafttreten
+## §23 - Inkrafttreten
 Diese Ordnung tritt mit Beschlussfassung durch die Mitgliederversammlung in Kraft.
