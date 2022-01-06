@@ -25,6 +25,7 @@ jobs:
           for mdfile in ${MDFILELIST}
           do
             echo "${mdfile}"
+            mdfilebase=$(basename ${mdfile})
             echo "docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc \"${mdfilebase}\" -o \"pdfs/${mdfilebase%.*}.pdf\" --pdf-engine=xelatex --template=esn.tex "
             docker run --rm -u `id -u`:`id -g` -v `pwd`:/pdf esndoc "${mdfilebase}" -o "pdfs/${mdfilebase%.*}.pdf" --pdf-engine=xelatex --template=esn.tex  
           done
