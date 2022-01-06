@@ -1,4 +1,4 @@
-name: Markdowwn to PDF with pandoc
+name: Markdown to PDF with pandoc
 
 on:
   push:
