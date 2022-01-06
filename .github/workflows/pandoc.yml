@@ -21,7 +21,8 @@ jobs:
       - name: Build the pdf
         run: |
           MDFILELIST=$(ls ${{ github.workspace }}/*.md)
-          for mdfile in "${MDFILELIST}"
+          IFS=$'\n'
+          for mdfile in ${MDFILELIST}
           do
             echo "${mdfile}"
             echo "docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc \"${mdfile}\" -o \"pdfs/${mdfile%.*}.pdf\" --pdf-engine=xelatex --template=esn.tex "
