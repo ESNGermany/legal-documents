@@ -13,19 +13,18 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
-      - name: List files in the repository
-        run: |
-          MDFILELIST=$(ls ${{ github.workspace }}/*.md)
-          echo ${MDFILELIST}
-        
       - uses: actions/checkout@v2
+        
       - name: Build the Docker image
         run: docker build -t esndoc . < Dockerfile 
       
-      - uses: actions/checkout@v2
       - name: Build the pdf
-        run: docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "$GITHUB_WORKSPACE/1 - Satzung (Dezember 2021).md" -o "$GITHUB_WORKSPACE/pdfs/1 - Satzung (Dezember 2021).pdf" --pdf-engine=xelatex --template=esn.tex  
+        run: |
+          MDFILELIST=$(ls ${{ github.workspace }}/*.md)
+          for mdfile in ${MDFILELIST}
+          do
+            docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "${mdfile}" -o "pdfs/${mdfile%.*}.pdf" --pdf-engine=xelatex --template=esn.tex  
+          done
           
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
