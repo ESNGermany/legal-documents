@@ -26,6 +26,15 @@ jobs:
           do
             mdfilebase=$(basename ${mdfile})
             docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "${mdfilebase}" -o "pdf/${mdfilebase%.*}.pdf" --pdf-engine=xelatex --template=esn.latex  
+          done
+
+      - name: Build the html files
+        run: |
+          MDFILELIST=$(ls ${{ github.workspace }}/*.md)
+          IFS=$'\n'
+          for mdfile in ${MDFILELIST}
+          do
+            mdfilebase=$(basename ${mdfile})
             docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "${mdfilebase}" -o "html/${mdfilebase%.*}.html"  
           done
           
