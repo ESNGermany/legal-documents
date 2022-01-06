@@ -16,7 +16,8 @@ jobs:
         uses: actions/checkout@v2
       - name: List files in the repository
         run: |
-          ls ${{ github.workspace }}
+          MDFILELIST´$=ls ${{ github.workspace }}/*.md)
+          echo ${MDFILELIST}
         
       - uses: actions/checkout@v2
       - name: Build the Docker image
