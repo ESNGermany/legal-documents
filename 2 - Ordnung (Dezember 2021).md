@@ -277,7 +277,7 @@ Haben die zweitplatzierten Vorschläge die gleiche Anzahl an Stimmen auf sich ve
 ## §18 - Beschlussfassung mittels sicherer, elektronischer Verfahren gemäß §13 Abs. 7 der Satzung (Online-Abstimmungen)
 
 (1) Sollen Beschlüsse durch eine Online-Abstimmung herbeigeführt werden, weil die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, gelten die Anforderungen an Beschlussfähigkeit und Mehrheiten entsprechend der Satzung und der Ordnung.
-Beschlussgegenstände des §13 Abs. 4 der Satzung können nicht in einer Online-Abstimmung beschlossen werden.
+Beschlussgegenstände des §13 Abs. 4 und 5 der Satzung können nicht in einer Online-Abstimmung beschlossen werden.
 
 (2) Die Aufforderung zur Abstimmung ist mit einer Frist von mindestens 10 Tagen an den Ansprechpartner des Mitglieds zu versenden.
 
@@ -287,7 +287,7 @@ Das Mitglied muss autark die Möglichkeit haben, die zur Abstimmung zugelassenen
 ## §19 Beschlussfassung bei Online-Mitgliederversammlungen
 (1) Für Beschlüsse im Rahmen einer Online-Mitgliederversammlung gemäß §12 Abs. 4 der Satzung gelten die Anforderungen an Beschlussfähigkeit und Mehrheiten entsprechend der Satzung und der Ordnung.
 
-(2) Beschlussgegenstände des §13 Abs. 4 Nr. 4, 5 der Satzung können nicht auf einer Online-Mitgliederversammlung beschlossen werden.
+(2) Beschlussgegenstände des §13 Abs. 5 Nr. 2, 3 der Satzung können nicht auf einer Online-Mitgliederversammlung beschlossen werden.
 
 # D. Schlußbestimmungen
 
