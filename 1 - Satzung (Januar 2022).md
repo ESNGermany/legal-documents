@@ -141,7 +141,7 @@ folgende Aufgaben:
 (2) Kann ein Vorstandsposten bei Wahlen nicht besetzt werden oder scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Vorstands berechtigt, ein neues Vorstandsmitglied bis zum Ende ihrer Amtszeit in den Vorstand zu berufen oder die Aufgaben unter sich aufzuteilen.
 
 (3) Eine einmalige Wiederwahl in den Vorstand ist zulässig, nach Ablauf der zweiten Amtszeit ist die Wiederwahl ausgeschlossen. 
-Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Person auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §13 IV Nr. 6 zustimmt.
+Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Person auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §13 IV Nr. 4 zustimmt.
 
 # § 11 – Beratung und Beschlussfassung des Vorstands
 (1) Der Vorstand tritt nach Bedarf zusammen und ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist. 
@@ -185,21 +185,29 @@ Delegierter kann jede natürliche Person sein. Die Vertretung ist dem Vorstand u
 (3) Die Mitgliederversammlung beschließt mit mehr als der Hälfte der abgegebenen Stimmen.
 Stimmenthaltungen und ungültige Stimmen gelten als nicht abgegeben.
 
-(4) Davon abweichend bedürfen Beschlüsse über
+(4) Abweichend von §13(3) bedürfen Beschlüsse über
 
     1. die Aufnahme von Anträgen zur Tagesordnung, die nicht vom Vorstand aufgenommen wurden oder die erst in der Mitgliederversammlung gestellt werden mindestens 1/3,
-    2. die Aufnahme und den Ausschluss von Mitglieder mindestens 2/3,
+    2. die Aufnahme von Mitglieder mindestens 2/3,
     3. Änderungen der Satzung mindestens 3/4,
-    4. die Auflösung des Vereins mindestens 3⁄4
-    5. der Änderung des Zwecks mindestens 3⁄4
-    6. Über die Möglichkeit der Bestellung auf mehr als zwei Amtszeiten mindestens 3⁄4 der Stimmen der vertretenen Mitglieder
+    4. Über die Möglichkeit der Bestellung auf mehr als zwei Amtszeiten mindestens 3⁄4
+    
+     der abgegebenen Stimmen.
+ 
+(5) Abweichend von §13(3) bedürfen Beschlüsse über
+
+    1. den Auschluss von Mitgliedern mindestens 2/3
+    2. die Änderung des Zwecks mindestens 3/4,
+    3. die Auflösung des Vereins mindestens 3/4
+    
+     der Stimmen der vertretenen Mitglieder.   
 
 
-(5) Näheres zum Wahlverfahren kann in einer Ordnung geregelt werden.
+(6) Näheres zum Wahlverfahren kann in einer Ordnung geregelt werden.
 
-(6) Über den Ablauf der Mitgliederversammlung und die gefassten Beschlüsse ist ein Protokoll zu fertigen, das von der Protokollführung und einem Vorstandsmitglied zu unterzeichnen ist.
+(7) Über den Ablauf der Mitgliederversammlung und die gefassten Beschlüsse ist ein Protokoll zu fertigen, das von der Protokollführung und einem Vorstandsmitglied zu unterzeichnen ist.
 
-(7) In Fällen, in denen die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, kann der Vorstand Beschlüsse auch mit Hilfe von sicheren elektronischen Verfahren herbeiführen.
+(8) In Fällen, in denen die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, kann der Vorstand Beschlüsse auch mit Hilfe von sicheren elektronischen Verfahren herbeiführen.
 
 # § 15 – Verwaltungsrat
 Dem Verwaltungsrat gehören mindestens drei, jedoch maximal vier Personen an. 
