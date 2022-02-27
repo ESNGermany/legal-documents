@@ -158,10 +158,9 @@ sie wie folgt vergeben:
 
 (5) Für das EGM sind für folgende Personengruppen Platzkontingente vorzusehen:
 
-1. Einen Platz für die Delegationsleitung sowie zwei weitere Personen, die durch
-2. orstand benannt werden.
-3. Jeweils einen Platz für jedes Mitglied von ESN Deutschland e. V.
-4. Sollten dem Verein weitere Plätze zur Verfügung stehen, dann werden sie in
+1. Einen Platz für die Delegationsleitung sowie zwei weitere Personen, die durch den Vorstand benannt werden.
+2. Jeweils einen Platz für jedes Mitglied von ESN Deutschland e. V.
+3. Sollten dem Verein weitere Plätze zur Verfügung stehen, dann werden sie in
 folgender Reihenfolge vergeben:
 
     1. Mitglieder, die in den letzten zwölf Monaten vor der Veranstaltung dem Verein beigetreten sind
