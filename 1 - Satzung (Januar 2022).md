@@ -81,21 +81,21 @@ Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordn
 
 # § 6 - Verfahren bei Nichteinhaltung der Pflichten und Ausschluss
 (1) Im Falle eines Verstoßes gegen die Pflichten eines Mitglieds aus §5, benachrichtigt der Vorstand das Mitglied und den Verwaltungsrat über den Verstoß schriftlich
-(2) Sollte 12 Wochen nach Zugang der ersten schriftlichen mitteilungen und nach mehreren Erinnerungen eine Pflicht aus §5 weiterhin nicht eingehalten werden, so kann der Vorstand eine der in Ordnung §5 beschriebenen Sanktionen dem betroffenen Mitglied auferlegen. Die Mitglieder und der Verwaltungsrat werden duch den Vorstand informiert.
-(3) Sollte 16 Wochen nach Zugang der ersten schriftlichen mitteilungen und nach mehreren Erinnerungen eine Pflicht aus §5 weiterhin nicht eingehalten werden, so kann das Stimmrecht des Mitglieds ausgesetzt werden bis der Pflichtverstpß behoben ist. Die Mitglieder und der Verwaltungsrat werden durch den Vorstand informiert. 
+(2) Sollte 12 Wochen nach Zugang der ersten schriftlichen Mitteilung und nach mehreren Erinnerungen eine Pflicht aus §5 weiterhin nicht eingehalten werden, so kann der Vorstand eine der in Ordnung §5 beschriebenen Sanktionen dem betroffenen Mitglied auferlegen. Die Mitglieder und der Verwaltungsrat werden durch den Vorstand informiert.
+(3) Sollte 16 Wochen nach Zugang der ersten schriftlichen Mitteilung und nach mehreren Erinnerungen eine Pflicht aus §5 weiterhin nicht eingehalten werden, so kann das Stimmrecht des Mitglieds ausgesetzt werden bis der Pflichtverstpß behoben ist. Die Mitglieder und der Verwaltungsrat werden durch den Vorstand informiert. 
 Das Mitglied kann bis zu der nächsten Mitgliederversammlung Berufung einlegen. Die Mitgliederversammlung stimmt über das Wiedererhalten des Stimmrechts des Mitglieds mit einfacher Mehrheit ab.
 (4) Sollte 6 Monate nach Zugang der ersten schriftlichen Mitteilung und nach mehreren Erinnerungen eine Pflicht aus §5 immer noch nicht eingehalten werden, so kann der Vorstand den Ausschluss des Mitglieds bei der nächsten Mitgliederversammlung beantragen.
   
     1. Wird der Verstoß des Mitglieds bis zur Mitgliederversammlung behoben, wird der Antrag nichtig.
-    2. Die Mitgliederversammlung dtimmt über den sofotigen Ausschluss ab. Der Beschluss muss mit einer Zweidritterlmehrheit gefasst werden.
-    3. Wird dem Ausschlus zugestimmt, schickt der Vorstand dem ausgeschlossenen Mitglied und dem Verwaltungsrat innerhalb von sieben Tagen nach der        Mitgliederversammlung eine schriftliche Mitteilung, die den Ausschluss und die Gründe für den Ausschluss erhält.
+    2. Die Mitgliederversammlung stimmt über den sofortigen Ausschluss ab. Der Beschluss muss mit einer Zweidrittelmehrheit gefasst werden.
+    3. Wird dem Ausschluss zugestimmt, schickt der Vorstand dem ausgeschlossenen Mitglied und dem Verwaltungsrat innerhalb von sieben Tagen nach der  Mitgliederversammlung eine schriftliche Mitteilung, die den Ausschluss und die Gründe für den Ausschluss erhält.
 
-(5) Das ausgeschlossene Mitglied kann interhalb von 30 Tagen nach Erhalt der Mitteilung Berufung bei der Mitgliederversammlung einlgen.
+(5) Das ausgeschlossene Mitglied kann innerhalb von 30 Tagen nach Erhalt der Mitteilung Berufung bei der Mitgliederversammlung einlegen.
   
     1. Die Berufung ist durch eine schriftliche Mitteilung an den Vorstand, an den Verwaltungsrat und an die Mitglieder zu richten.
     2. Solange die Berufung aussteht, bleibt das Stimmrecht ausgesetzt.
     3. Die Mitgliederversammlung soll innerhalb von 90 Tagen nach Eingang der Berufung darüber entscheiden. Die endgültige Entscheidung ist dem Vorstand und dem Verwaltungsrat zu übermitteln.
-    4. Trifft die Mitgliederverssammlung innerhalb der gesetzten Frist keine Entscheidung, tritt der beschlossene Ausschluss nicht in Kraft.
+    4. Trifft die Mitgliederversammlung innerhalb der gesetzten Frist keine Entscheidung, tritt der beschlossene Ausschluss nicht in Kraft.
 
 
 # § 7 – Organe des Vereins
@@ -136,12 +136,12 @@ folgende Aufgaben:
 (3) Die Vorstandsmitglieder, die den Vorsitz, den stellvertretenden Vorsitz oder den Finanzvorstand innehaben, vertreten den Verein nach § 26 BGB jeweils alleine.
 
 # § 10 - Wahl des Vorstands
-(1) Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen. Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder des Mitglieds.
+(1) Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen. Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder der Mitglieder.
 
 (2) Kann ein Vorstandsposten bei Wahlen nicht besetzt werden oder scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Vorstands berechtigt, ein neues Vorstandsmitglied bis zum Ende ihrer Amtszeit in den Vorstand zu berufen oder die Aufgaben unter sich aufzuteilen.
 
 (3) Eine einmalige Wiederwahl in den Vorstand ist zulässig, nach Ablauf der zweiten Amtszeit ist die Wiederwahl ausgeschlossen. 
-Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Person auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §13 IV Nr. 4 zustimmt.
+Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Person auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §14 Abs.4 Nr. 4 zustimmt.
 
 # § 11 – Beratung und Beschlussfassung des Vorstands
 (1) Der Vorstand tritt nach Bedarf zusammen und ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist. 
@@ -168,7 +168,7 @@ Die Einberufung erfolgt in Textform unter Einhaltung einer Frist von zwei Wochen
 (2) Jedes Mitglied kann bis spätestens eine Woche vor der Mitgliederversammlung beim Vorstand in Textform eine Ergänzung der Tagesordnung beantragen. 
 Der Antrag ist zu begründen. Abweichend von Satz 1 müssen Anträge auf Ergänzung der Tagesordnung einschließlich deren Begründung, die Änderungen der Satzung oder Ordnung des Vereins beinhalten, spätestens 15 Tage vor der Mitgliederversammlung dem Vorstand in Textform zugehen.
 
-(3) Der Vorstand hat eine außerordentliche Mitgliederversammlung einzuberufen, wenn mindestens ein Drittel der Mitglieder dies in Textform unter Angabe des Grundes beantragt, dafür stimmt oder der Vorstand dies beschließt.
+(3) Der Vorstand hat eine außerordentliche Mitgliederversammlung einzuberufen, wenn mindestens ein Drittel der Mitglieder dies in Textform unter Angabe des Grundes beantragt, bzw. in einer Abstimmung dafür stimmt oder der Vorstand dies beschließt.
 
 (4) Abweichend von §32 Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs (BGB) kann der Vorstand nach eigenem Ermessen beschließen und in der Einladung mitteilen, dass die Mitgliederversammlung ohne die Anwesenheit der Mitglieder an einem Versammlungsort durchgeführt wird (Online-Mitgliederversammlung).
 Die Mitglieder können in diesem Falle ihre Mitgliederrechte im Wege der elektronischen Kommunikation ausüben.
@@ -185,29 +185,23 @@ Delegierter kann jede natürliche Person sein. Die Vertretung ist dem Vorstand u
 (3) Die Mitgliederversammlung beschließt mit mehr als der Hälfte der abgegebenen Stimmen.
 Stimmenthaltungen und ungültige Stimmen gelten als nicht abgegeben.
 
-(4) Abweichend von §13(3) bedürfen Beschlüsse über
+(4) Abweichend von §14(3) bedürfen folgende Beschlüsse andere Mehrheiten:
 
-    1. die Aufnahme von Anträgen zur Tagesordnung, die nicht vom Vorstand aufgenommen wurden oder die erst in der Mitgliederversammlung gestellt werden mindestens 1/3,
-    2. die Aufnahme von Mitglieder mindestens 2/3,
-    3. Änderungen der Satzung mindestens 3/4,
-    4. Über die Möglichkeit der Bestellung auf mehr als zwei Amtszeiten mindestens 3⁄4
-    
-     der abgegebenen Stimmen.
+  1. die Aufnahme von Anträgen zur Tagesordnung, die nicht vom Vorstand aufgenommen wurden oder die erst in der Mitgliederversammlung gestellt werden mindestens 1/3,
+  2. die Aufnahme und der Ausschluss von Mitglieder mindestens 2/3,
+  3. Änderungen der Satzung mindestens 3/4,
+  4. die Auflösung des Vereins mindestens 3/4
+  5. der Änderung des Zwecks mindestens 3/4
+  6. die Möglichkeit der Bestellung auf mehr als zwei Amtszeiten mindestens 3/4 
+
+der abgegebenen Stimmen. 
  
-(5) Abweichend von §13(3) bedürfen Beschlüsse über
 
-    1. den Auschluss von Mitgliedern mindestens 2/3
-    2. die Änderung des Zwecks mindestens 3/4,
-    3. die Auflösung des Vereins mindestens 3/4
-    
-     der Stimmen der vertretenen Mitglieder.   
+(5) Näheres zum Wahlverfahren kann in einer Ordnung geregelt werden.
 
+(6) Über den Ablauf der Mitgliederversammlung und die gefassten Beschlüsse ist ein Protokoll zu fertigen, das von der Protokollführung und einem Vorstandsmitglied zu unterzeichnen ist.
 
-(6) Näheres zum Wahlverfahren kann in einer Ordnung geregelt werden.
-
-(7) Über den Ablauf der Mitgliederversammlung und die gefassten Beschlüsse ist ein Protokoll zu fertigen, das von der Protokollführung und einem Vorstandsmitglied zu unterzeichnen ist.
-
-(8) In Fällen, in denen die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, kann der Vorstand Beschlüsse auch mit Hilfe von sicheren elektronischen Verfahren herbeiführen.
+(7) In Fällen, in denen die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, kann der Vorstand Beschlüsse auch mit Hilfe von sicheren elektronischen Verfahren herbeiführen.
 
 # § 15 – Verwaltungsrat
 Dem Verwaltungsrat gehören mindestens drei, jedoch maximal vier Personen an. 
@@ -231,13 +225,13 @@ Er besteht aus
 # § 17 – Wahl des Verwaltungsrats
 (1) Die Mitglieder des Verwaltungsrats werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. 
 Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen.
-Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder des Mitglieds. 
+Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder der Mitglieder. 
 Es dürfen maximal zwei lokale Mitglieder pro Mitglied in den Verwaltungsrat gewählt werden. Nicht wählbar sind Mitglieder des Vorstands oder dessen Supporter.
 Ausgeschiedene Mitglieder des Vorstands oder Supporter können dem Verwaltungsrat, der ihrem Mandat folgt, nicht angehören.
 
 (2) Kann ein Posten des Verwaltungsrats bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Verwaltungsrats vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Verwaltungsrats berechtigt, ein neues Verwaltungsratsmitglied bis zum Ende ihrer Amtszeit in den Verwaltungsrat zu berufen oder die Aufgaben unter sich aufzuteilen.
 
-(3) §9 III gilt entsprechend.
+(3) §10 Abs.3 gilt entsprechend.
 
 # § 18 - Redaktionelle Änderungen
 Der Vorstand kann einstimmig redaktionelle Änderungen der Satzung und der Ordnung sowie deren Anhängen beschließen. 
