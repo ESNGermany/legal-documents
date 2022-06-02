@@ -80,7 +80,7 @@ Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordn
 (7) Näheres kann in einer Ordnung geregelt werden.
 
 # § 6 - Verfahren bei Nichteinhaltung der Pflichten und Ausschluss
-(1) Im Falle eines Verstoßes gegen die Pflichten eines Mitglieds aus §5, benachrichtigt der Vorstand das Mitglied und den Verwaltungsrat über den Verstoß schriftlich
+(1) Im Falle eines Verstoßes gegen die Pflichten eines Mitglieds aus §5, benachrichtigt der Vorstand das Mitglied und den Verwaltungsrat über den Verstoß schriftlich.
 
 (2) Sollte 12 Wochen nach Zugang der ersten schriftlichen Mitteilung und nach mehreren Erinnerungen eine Pflicht aus §5 weiterhin nicht eingehalten werden, so kann der Vorstand eine der in Ordnung §5 beschriebenen Sanktionen dem betroffenen Mitglied auferlegen. Die Mitglieder und der Verwaltungsrat werden durch den Vorstand informiert.
 
@@ -143,7 +143,7 @@ folgende Aufgaben:
 (2) Kann ein Vorstandsposten bei Wahlen nicht besetzt werden oder scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Vorstands berechtigt, ein neues Vorstandsmitglied bis zum Ende ihrer Amtszeit in den Vorstand zu berufen oder die Aufgaben unter sich aufzuteilen.
 
 (3) Eine einmalige Wiederwahl in den Vorstand ist zulässig, nach Ablauf der zweiten Amtszeit ist die Wiederwahl ausgeschlossen. 
-Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Person auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §14 Abs.4 Nr. 4 zustimmt.
+Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Person auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §14 Abs. 4 Nr. 4 zustimmt.
 
 # § 11 – Beratung und Beschlussfassung des Vorstands
 (1) Der Vorstand tritt nach Bedarf zusammen und ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist. 
@@ -192,12 +192,11 @@ Stimmenthaltungen und ungültige Stimmen gelten als nicht abgegeben.
   1. die Aufnahme von Anträgen zur Tagesordnung, die nicht vom Vorstand aufgenommen wurden oder die erst in der Mitgliederversammlung gestellt werden mindestens 1/3,
   2. die Aufnahme und der Ausschluss von Mitglieder mindestens 2/3,
   3. Änderungen der Satzung mindestens 3/4,
-  4. die Auflösung des Vereins mindestens 3/4
-  5. der Änderung des Zwecks mindestens 3/4
+  4. die Auflösung des Vereins mindestens 3/4,
+  5. der Änderung des Zwecks mindestens 3/4,
   6. die Möglichkeit der Bestellung auf mehr als zwei Amtszeiten mindestens 3/4 
 
 der abgegebenen Stimmen. 
- 
 
 (5) Näheres zum Wahlverfahren kann in einer Ordnung geregelt werden.
 
@@ -233,7 +232,7 @@ Ausgeschiedene Mitglieder des Vorstands oder Supporter können dem Verwaltungsra
 
 (2) Kann ein Posten des Verwaltungsrats bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Verwaltungsrats vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Verwaltungsrats berechtigt, ein neues Verwaltungsratsmitglied bis zum Ende ihrer Amtszeit in den Verwaltungsrat zu berufen oder die Aufgaben unter sich aufzuteilen.
 
-(3) §10 Abs.3 gilt entsprechend.
+(3) §10 Abs. 3 gilt entsprechend.
 
 # § 18 - Redaktionelle Änderungen
 Der Vorstand kann einstimmig redaktionelle Änderungen der Satzung und der Ordnung sowie deren Anhängen beschließen. 
