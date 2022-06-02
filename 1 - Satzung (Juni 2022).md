@@ -90,7 +90,7 @@ Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordn
   
     1. Wird der Verstoß des Mitglieds bis zur Mitgliederversammlung behoben, wird der Antrag nichtig.
     2. Die Mitgliederversammlung stimmt über den sofortigen Ausschluss ab. Der Beschluss muss mit einer Zweidrittelmehrheit gefasst werden.
-    3. Wird dem Ausschluss zugestimmt, schickt der Vorstand dem ausgeschlossenen Mitglied und dem Verwaltungsrat innerhalb von sieben Tagen nach der  Mitgliederversammlung eine schriftliche Mitteilung, die den Ausschluss und die Gründe für den Ausschluss erhält.
+    3. Wird dem Ausschluss zugestimmt, schickt der Vorstand dem ausgeschlossenen Mitglied und dem Verwaltungsrat innerhalb von sieben Tagen nach der Mitgliederversammlung eine schriftliche Mitteilung, die den Ausschluss und die Gründe für den Ausschluss erhält.
 
 (5) Das ausgeschlossene Mitglied kann innerhalb von 30 Tagen nach Erhalt der Mitteilung Berufung bei der Mitgliederversammlung einlegen.
   
