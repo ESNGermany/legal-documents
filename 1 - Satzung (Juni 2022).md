@@ -1,6 +1,6 @@
 ---
 title: "Satzung"
-date: "Dezember 2021"
+date: "Juni 2022"
 output: 
   pdf_document:
     latex_engine: xelatex
