@@ -1,4 +1,4 @@
-FROM pandoc/latex:2.14.1
+FROM pandoc/latex:latest
 
 RUN apk --no-cache add \
         bash \
