@@ -170,7 +170,7 @@ Die Einberufung erfolgt in Textform unter Einhaltung einer Frist von zwei Wochen
 (2) Jedes Mitglied kann bis spätestens eine Woche vor der Mitgliederversammlung beim Vorstand in Textform eine Ergänzung der Tagesordnung beantragen. 
 Der Antrag ist zu begründen. Abweichend von Satz 1 müssen Anträge auf Ergänzung der Tagesordnung einschließlich deren Begründung, die Änderungen der Satzung oder Ordnung des Vereins beinhalten, spätestens 15 Tage vor der Mitgliederversammlung dem Vorstand in Textform zugehen.
 
-(3) Der Vorstand hat eine außerordentliche Mitgliederversammlung einzuberufen, wenn mindestens ein Drittel der Mitglieder dies in Textform unter Angabe des Grundes beantragt, bzw. in einer Abstimmung dafür stimmt oder der Vorstand dies beschließt.
+(3) Der Vorstand hat eine außerordentliche Mitgliederversammlung einzuberufen, wenn mindestens ein Drittel der Mitglieder dies in Textform unter Angabe des Grundes beantragt, in einer Abstimmung dafür stimmt oder der Vorstand dies beschließt.
 
 (4) Abweichend von §32 Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs (BGB) kann der Vorstand nach eigenem Ermessen beschließen und in der Einladung mitteilen, dass die Mitgliederversammlung ohne die Anwesenheit der Mitglieder an einem Versammlungsort durchgeführt wird (Online-Mitgliederversammlung).
 Die Mitglieder können in diesem Falle ihre Mitgliederrechte im Wege der elektronischen Kommunikation ausüben.
@@ -187,10 +187,10 @@ Delegierter kann jede natürliche Person sein. Die Vertretung ist dem Vorstand u
 (3) Die Mitgliederversammlung beschließt mit mehr als der Hälfte der abgegebenen Stimmen.
 Stimmenthaltungen und ungültige Stimmen gelten als nicht abgegeben.
 
-(4) Abweichend von §14(3) bedürfen folgende Beschlüsse andere Mehrheiten:
+(4) Abweichend von §14 Abs. 3 bedürfen folgende Beschlüsse andere Mehrheiten:
 
   1. die Aufnahme von Anträgen zur Tagesordnung, die nicht vom Vorstand aufgenommen wurden oder die erst in der Mitgliederversammlung gestellt werden mindestens 1/3,
-  2. die Aufnahme und der Ausschluss von Mitglieder mindestens 2/3,
+  2. die Aufnahme und der Ausschluss von Mitgliedern mindestens 2/3,
   3. Änderungen der Satzung mindestens 3/4,
   4. die Auflösung des Vereins mindestens 3/4,
   5. der Änderung des Zwecks mindestens 3/4,
