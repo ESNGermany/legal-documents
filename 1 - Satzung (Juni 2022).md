@@ -187,9 +187,9 @@ Delegierter kann jede natürliche Person sein. Die Vertretung ist dem Vorstand u
 (3) Die Mitgliederversammlung beschließt mit mehr als der Hälfte der abgegebenen Stimmen.
 Stimmenthaltungen und ungültige Stimmen gelten als nicht abgegeben.
 
-(4) Abweichend von §14 Abs. 3 bedürfen folgende Beschlüsse andere Mehrheiten:
+(4) Abweichend von §14 Abs. 3, Satz 1 bedürfen folgende Beschlüsse andere Mehrheiten:
 
-  1. die Aufnahme von Anträgen zur Tagesordnung, die nicht vom Vorstand aufgenommen wurden oder die erst in der Mitgliederversammlung gestellt werden mindestens 1/3,
+  1. Die Aufnahme von Anträgen zur Tagesordnung, die nicht vom Vorstand aufgenommen wurden oder die erst in der Mitgliederversammlung gestellt werden mindestens 1/3,
   2. die Aufnahme und der Ausschluss von Mitgliedern mindestens 2/3,
   3. Änderungen der Satzung mindestens 3/4,
   4. die Auflösung des Vereins mindestens 3/4,
