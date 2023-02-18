@@ -16,6 +16,7 @@ Im Wesentlichen verfolgt dieses Dokument drei Ziele:
 - Richtlinien für das Verhalten von Freiwilligen zu erstellen; 
 - das Bewusstsein für unerwünschte Verhaltensweisen zu schärfen und diese festzulegen;
 - Klarheit darüber zu schaffen, wie mit Situationen umzugehen ist, in denen unerwünschte Verhaltensweisen auftreten oder vermutet werden.   
+
 Die Verhaltensnormen des Verhaltenskodex sind:
 - Respekt vor der inhärenten Würde;
 - Gleichbehandlung;
@@ -47,12 +48,14 @@ Nachdem ein Verstoß gemeldet wurde, werden die folgenden Schritte einleitet:
 - Sammlung von Informationen: Relevante Parteien werden identifiziert und um weitere Informationen gebeten;
 - Anhörung der Beklagten: Die Beklagten erhalten die Möglichkeit, ihren Fall dem CoC-Team in Form einer Anhörung darzulegen;
 - Weiteres Vorgehen: Das CoC-Team entscheidet über die nächsten Schritte, z.B. Sanktionierung oder Mediation. Die meldende und die beschuldigte Person werden entsprechend informiert.
+
 Diese Schritte sind ein allgemeiner Leitfaden für den Umgang mit einer Meldung. Jeder Fall ist jedoch individuell. Daher werden die Schritte nur in dem Maße befolgt, wie es für die jeweilige Situation angemessen ist.
 ## 5.3. Verfolgung von Verstößen
 ### 5.3.1. Arten von Sanktionen
 Die Umstände, unter denen es zu Verstößen gegen den Verhaltenskodex kommt, sind selten gleich. Obwohl jeder Verstoß ernst genommen wird, können sie unterschiedlich schwerwiegend sein.  Die Sanktionen, die bei einem Verstoß verhängt werden, sind daher nicht pauschal festgelegt. Sie werden vielmehr von Fall zu Fall beurteilt. Folgende Sanktionen können nach Beurteilung des Falles ergriffen werden:
 - Erinnerung der Teilnehmenden an ihre Verpflichtung, gemäß dem Verhaltenskodex zu handeln
 - Initiation eines Gesprächs mit beiden Seiten, sowie Ausarbeitung einer Lösungsstrategie
+
 Zusätzlich ist mit folgenden Konsequenzen zu rechnen:
 - Verwarnung
 - Ausschluss vom entsprechenden Event
@@ -60,6 +63,7 @@ Zusätzlich ist mit folgenden Konsequenzen zu rechnen:
 - Ausschluss von der nationalen Ebene von ESN Deutschland, hierzu gehören auch die Teilnahme an der deutschen Delegation bei internationalen Veranstaltungen des ESN AISBL und Informationsaustausch auf nationaler Ebene
 - Ausschluss aus jeglichen Kommunikationsplattformen sowie allen Tools und Services des ESN AISBL
 - Unterrichtung der nächsthöheren Ebene von ESN AISBL über den Vorfall
+
 Die Sanktionen können mehrere der vorgenannten Punkte umfassen.
 ### 5.3.2. Verhängung einer Sanktion 
 Die Befugnis, bei Verstößen auf nationaler Ebene eine Sanktion zu verhängen, liegt beim CoC-Team von ESN Deutschland.
@@ -68,6 +72,7 @@ Bei der Festlegung der Art und Schwere einer Sanktion müssen folgende Faktoren 
 - die Vorsätzlichkeit der Handlungen;
 - die Häufigkeit der Verstöße;
 - die Menge der vorhandenen Beweise.
+
 Wenn eine Sanktion verhängt wird, erhält die sanktionierte Person eine offizielle Erklärung des CoC-Teams, in der die Sanktion und die Gründe für die Verhängung der Sanktion beschrieben werden. Die verhängte Sanktion wird unmittelbar nach der Ausstellung des Bescheids wirksam. Die Nichteinhaltung der Sanktion oder der Versuch, sie zu umgehen, kann eine weitere Sanktion nach sich ziehen.
 ### 5.3.3. Grundsätze
 Die Verhängung einer Sanktion sollte nicht leichtfertig vorgenommen werden, denn dies könnte für eine Person schwerwiegende Folgen haben. Deshalb sind bei der Entscheidung über die Verhängung einer Sanktion die folgenden Grundsätze zu beachten:
