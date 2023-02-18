@@ -168,7 +168,7 @@ Diese können ihn mit einfacher Mehrheit im Sinne der Verbesserungsvorschläge d
 
 (2) Der Vorstand hat rechtzeitig vor einer Versammlung eine Ausschreibung mit einer Frist von zwei Wochen für die Versammlungsleitung zu veröffentlichen, auf die sich jede volljährige, natürliche Person bewerben kann. Die Versammlungsleitung wird vom Vorstand ernannt und von der Versammlung bestätigt. Das Recht jedes Mitglieds jederzeit einen Antrag zur Tagesordnung auf Wahl einer neuen Versammlungsleitung zu stellen, bleibt hiervon unberührt.
 
-(3) DDie Versammlungsleitung übt das Amt in eigener Verantwortung aus. Ihr obliegt insbesondere eine einwandfreie Willensbildung und Willensfeststellung zu gewährleisten, das Wort zu erteilen und Debatten zu strukturieren.
+(3) Die Versammlungsleitung übt das Amt in eigener Verantwortung aus. Ihr obliegt insbesondere eine einwandfreie Willensbildung und Willensfeststellung zu gewährleisten, das Wort zu erteilen und Debatten zu strukturieren.
 
 (4) Bei mehreren Wortmeldungen erfolgt die Worterteilung in der Reihenfolge der Meldungen. Über diese Reihenfolge ist eine Liste anzufertigen. Die Versammlungsleitung kann Redebeiträge zeitlich begrenzen. Auf Antrag der Versammlungsleitung kann die Versammlung beschließen, dass keine neuen Wortmeldungen mehr zur Rednerliste zugelassen werden und die Aussprache zu einem Tagesordnungspunkt beendet wird.
 
