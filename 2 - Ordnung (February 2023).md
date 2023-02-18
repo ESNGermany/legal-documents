@@ -27,7 +27,7 @@ Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V (nachfol
 (3) Zur Aufnahme als Mitglied bedarf es
 
     1. eines Antrags auf Aufnahme in den Verein in Textform beim Vorstand. Der Vorstand hat den Antragstellenden ein entsprechendes Muster zur Verfügung zu stellen.
-    2.  der Vorstellung der Tätigkeit seit Verleihung des Status der Kandidatur auf der nächsten, spätestens übernächsten Mitgliederversammlung, die über die Aufnahme als vollwertiges Mitglied entscheidet. Die Aufnahme in den Verein erfolgt mit Beendigung der Mitgliederversammlung.
+    2. der Vorstellung der Tätigkeit seit Verleihung des Status der Kandidatur auf der nächsten, spätestens übernächsten Mitgliederversammlung, die über die Aufnahme als vollwertiges Mitglied entscheidet. Die Aufnahme in den Verein erfolgt mit Beendigung der Mitgliederversammlung.
 
 (4) Der Status der Kandidatur entfällt, sofern die Entscheidung über die Aufnahme als Mitglied zweimal negativ ausgefallen ist; spätestens jedoch nach der dritten Mitgliederversammlung seit Statuserhalt.
 
@@ -154,8 +154,7 @@ Diese können ihn mit einfacher Mehrheit im Sinne der Verbesserungsvorschläge d
 (9) Anträge können geändert werden:
 
     1. Eine Änderung kann durch den Antragstellenden bis zum Abschluss der erstmaligen Behandlung erfolgen. Auf Antrag eines Mitglieds muss über diese Änderung abgestimmt werden.
-    2. In allen anderen Fällen wird über eine Änderung abgestimmt, wobei bei mehreren Änderungen zunächst über diejenige abgestimmt wird, die vom Antrag am weitesten abweicht. 
-    Alle Änderungen sind unverzüglich der Versammlungsleitung, dem Vorstand und dem Verwaltungsrat in Textform zu übersenden.
+    2. In allen anderen Fällen wird über eine Änderung abgestimmt, wobei bei mehreren Änderungen zunächst über diejenige abgestimmt wird, die vom Antrag am weitesten abweicht. Alle Änderungen sind unverzüglich der Versammlungsleitung, dem Vorstand und dem Verwaltungsrat in Textform zu übersenden.
 
 (10) Nach der Versammlung bestehen folgende Pflichten:
 
