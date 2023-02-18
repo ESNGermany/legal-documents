@@ -1,6 +1,6 @@
 ---
 title: "Verhaltenskodex / Code of Conduct"
-date: "Juni 2022"
+date: "February 2023"
 output: 
   pdf_document:
     latex_engine: xelatex
