@@ -7,7 +7,7 @@ output:
 ---
 
 ## §1 – Geltungsbereich
-Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V (nachfolgend: ESN Germany).
+Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V. (nachfolgend: ESN Germany).
 
 
 # A. MITGLIEDER
@@ -18,11 +18,9 @@ Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V (nachfol
 
 (2) Um den Status der Kandidatur zu erhalten, bedarf es
 
-    1. der Teilnahme an einer Lokalen Plattform oder des Besuches der Antragstellenden durch den Vorstand respektive einer vertretungsberechtigten Person. Über den Besuch ist ein Bericht anzufertigen. 
-    2. In begründeten Ausnahmefällen kann der Vorstand beschließen, dass von einer Teilnahme an einer Lokalen Plattform oder einem Besuch abgesehen werden kann.
-    3. der Entscheidung des Vorstandes über die Einladung der interessierten Organisation zu einer Mitgliederversammlung
-    4. der Vorstellung der Bewerbung durch die Antragstellenden auf einer Mitgliederversammlung, die über die den Status der Kandidatur entscheidet.
-
+    1. der Teilnahme an einer Lokalen Plattform oder des Besuches der Antragstellenden durch den Vorstand respektive einer vertretungsberechtigten Person. Über den Besuch ist ein Bericht anzufertigen. In begründeten Ausnahmefällen kann der Vorstand beschließen, dass von einer Teilnahme an einer Lokalen Plattform oder einem Besuch abgesehen werden kann.
+    2. der Entscheidung des Vorstandes über die Einladung der interessierten Organisation zu einer Mitgliederversammlung.
+    3. der Vorstellung der Bewerbung durch die Antragstellenden auf einer Mitgliederversammlung, die über die den Status der Kandidatur entscheidet.
 
 (3) Zur Aufnahme als Mitglied bedarf es
 
@@ -79,9 +77,7 @@ Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V (nachfol
 
 (1) Der vorsitzenden Person des Verwaltungsrates obliegt dessen Repräsentation nach außen sowie seine interne Koordination und die Überprüfung der Arbeitsweise des Vorstands und der unterstützenden Personen im Sinne des §14 und 15. Zudem obliegt der Person die Mitwirkung an der Strategie des ESN Deutschland e.V.
 
-(2) Dem Rechtsaudit obliegt die Prüfung der Arbeit des Vorstands und der unterstützenden Personen im Sinne des §14 und 15 auf Satzungs- und Ordnungskonformität. Zudem berät das Rechtsaudit den Vorstand und die Mitglieder in rechtlichen Fragen sowie bei geplanten
-Satzungs- und Ordnungsänderungen.
-Folgende Dokumente hat der Vorstand vorzulegen, zu denen das Rechtsaudit innerhalb von 14 Tagen Stellung nehmen soll:
+(2) Dem Rechtsaudit obliegt die Prüfung der Arbeit des Vorstands und der unterstützenden Personen im Sinne des §14 und 15 auf Satzungs- und Ordnungskonformität. Zudem berät das Rechtsaudit den Vorstand und die Mitglieder in rechtlichen Fragen sowie bei geplanten Satzungs- und Ordnungsänderungen. Folgende Dokumente hat der Vorstand vorzulegen, zu denen das Rechtsaudit innerhalb von 14 Tagen Stellung nehmen soll:
 
     1. Anträge auf Satzungs- und Ordnungsänderungen des Vorstandes und der Mitglieder,
     2. eigene Entscheidungen, die Satzungs- und Ordnungskonflikte betreffen,
@@ -105,8 +101,7 @@ Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 (2) Der Wirtschaftsplan ist dem Verwaltungsrat spätestens am 14. September zur Genehmigung vorzulegen. Der Verwaltungsrat muss diesen bis spätestens am 30. September genehmigen oder zur Überarbeitung an den Finanzvorstand zurückverweisen. Versagt der Verwaltungsrat nach erneuter Vorlage innerhalb von 14 Tagen die Genehmigung, so hat er hierzu in einer Stellungnahme mit den Verweigerungsgründen auch Verbesserungsvorschläge zu erarbeiten.
 
-(3) Der Wirtschaftsplan ist mit Stellungnahme des Finanzvorstandes und des Verwaltungsrates den Mitgliedern spätestens mit der Einladung zu der nächstfolgenden regulären Mitgliederversammlung vorzulegen. 
-Diese können ihn mit einfacher Mehrheit im Sinne der Verbesserungsvorschläge des Verwaltungsrates oder auch ihrer eigenen abändern.
+(3) Der Wirtschaftsplan ist mit Stellungnahme des Finanzvorstandes und des Verwaltungsrates den Mitgliedern spätestens mit der Einladung zu der nächstfolgenden regulären Mitgliederversammlung vorzulegen. Diese können ihn mit einfacher Mehrheit im Sinne der Verbesserungsvorschläge des Verwaltungsrates oder auch ihrer eigenen abändern.
 
 (4) Entsprechendes gilt für die Anpassungen des Wirtschaftsplanes im Verlauf des Geschäftsjahres, wobei die Erstvorlage an den Verwaltungsrat mindestens fünf Wochen vor dem Anfang der nächsten Mitgliederversammlung erfolgen soll.
 
@@ -205,7 +200,7 @@ sich nach der Amtszeit des Vorstandes.
 
 (4) Diese sollen die Zusammenarbeit in ihrer Region koordinieren, als Ansprechpersonen für die Position Vice President in Bezug auf regionale Angelegenheiten dienen und den Wissenstransfer in der Region fördern.
 
-(5) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen des Vereins handeln.
+(5) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung, dürfen sie nicht im Namen des Vereins handeln.
 
 
 # D. WAHLEN
