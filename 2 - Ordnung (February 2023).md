@@ -20,7 +20,7 @@ Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V. (nachfo
 
     1. der Teilnahme an einer Lokalen Plattform oder des Besuches der Antragstellenden durch den Vorstand respektive einer vertretungsberechtigten Person. Über den Besuch ist ein Bericht anzufertigen. In begründeten Ausnahmefällen kann der Vorstand beschließen, dass von einer Teilnahme an einer Lokalen Plattform oder einem Besuch abgesehen werden kann.
     2. der Entscheidung des Vorstandes über die Einladung der interessierten Organisation zu einer Mitgliederversammlung.
-    3. der Vorstellung der Bewerbung durch die Antragstellenden auf einer Mitgliederversammlung, die über die den Status der Kandidatur entscheidet.
+    3. der Vorstellung der Bewerbung durch die Antragstellenden auf einer Mitgliederversammlung, die über den Status der Kandidatur entscheidet.
 
 (3) Zur Aufnahme als Mitglied bedarf es
 
