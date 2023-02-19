@@ -67,11 +67,11 @@ Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V. (nachfo
 
 ## §6 - Aufgaben des Vorstands
 
-(1) Die Aufgaben des Vorastands gelten wie in §8 der Satzung beschrieben. Die detaillierte Aufgabenverteilung obliegt dem Vorstand.
+(1) Die Aufgaben des Vorstands gelten wie in §8 der Satzung beschrieben. Die detaillierte Aufgabenverteilung obliegt dem Vorstand.
 
 (2) Der Vorstand soll Supporter und kann Teams und Working Groups zur Beratung und Unterstützung der Vereinstätigkeit einsetzen.
 
-(3) Der Vorstand tritt sein Amt am 1.7 des Jahres an.
+(3) Der Vorstand tritt sein Amt am 1.7. des Jahres an.
 
 ## §7 - Aufgaben des Verwaltungsrates
 
@@ -183,7 +183,7 @@ Alle Mitglieder des Vorstandes, des Verwaltungsrates, die Supporter des Vorstand
     3. Education Officer
     4. Social Impact Oficer
 
-(3) Supporter treten ihr Amt zeitgleich mit dem Vorstand oder unverzüglich nach ihrer Ernennung an. Die Amtszeit der Supporter richtet
+(2) Supporter treten ihr Amt zeitgleich mit dem Vorstand oder unverzüglich nach ihrer Ernennung an. Die Amtszeit der Supporter richtet
 sich nach der Amtszeit des Vorstandes.
 
 ## §15 - Regionale Koordination
@@ -200,7 +200,7 @@ sich nach der Amtszeit des Vorstandes.
 
 (4) Diese sollen die Zusammenarbeit in ihrer Region koordinieren, als Ansprechpersonen für die Position Vice President in Bezug auf regionale Angelegenheiten dienen und den Wissenstransfer in der Region fördern.
 
-(5) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung, dürfen sie nicht im Namen des Vereins handeln.
+(5) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen des Vereins handeln.
 
 
 # D. WAHLEN
@@ -239,7 +239,7 @@ sich nach der Amtszeit des Vorstandes.
 
 (1) Für Beschlüsse im Rahmen einer Online-Mitgliederversammlung gemäß §14 Abs. 7 der Satzung gelten die Anforderungen an Beschlussfähigkeit und Mehrheiten entsprechend der Satzung und der Ordnung.
 
-(2) Beschlussgegenstände des §13 Abs. 5 Nr. 2, 3 der Satzung können nicht auf einer Online-Mitgliederversammlung beschlossen werden.
+(2) Beschlussgegenstände des §14 Abs. 5 Nr. 2, 3 der Satzung können nicht auf einer Online-Mitgliederversammlung beschlossen werden.
 
 
 # E. SCHLUSSBESTIMMUNGEN
