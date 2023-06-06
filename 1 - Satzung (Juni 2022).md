@@ -1,6 +1,6 @@
 ---
 title: "Satzung"
-date: "Juni 2022"
+date: "May 2023"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -49,14 +49,13 @@ Näheres kann in einer Ordnung geregelt werden.
     2. Austritt oder
     3. Ausschluss.
 
-
 (2) Der Austritt ist in Textform gegenüber dem Vorstand zu erklären.
 Der Austritt kann nur mit einer Frist von einem Monat zum Ende des Geschäftsjahres erklärt werden.
 
 (3) Ein Mitglied kann durch Beschluss der Mitgliederversammlung aus dem Verein ausgeschlossen werden, wenn es
 
     1. schuldhaft das Ansehen oder die Interessen des Vereins in schwerwiegender Weise schädigt, 
-    2. als Mitglied des Erasmus Student Networks AISBL ausgeschlossen wird und dagegen nicht innerhalb von vier Wochen Berufung einlegt, 
+    2. als Mitglied des ESN AISBL ausgeschlossen wird und dagegen nicht innerhalb von vier Wochen Berufung einlegt, 
     3. die Pflichten aus §5 (3)-(6) nicht einhält. Näheres zum Ablauf regelt §6
 
 Dem Mitglied ist Gelegenheit zu geben, in der Mitgliederversammlung zu den Gründen des Ausschlusses Stellung zu nehmen. 
@@ -68,7 +67,7 @@ Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme e
 
 (2) Jedes Mitglied hat das Recht auf Konsultation durch den Vorstand vor jeder Mitgliederversammlung des ESN AISBL.
 
-(3) Von den Mitgliedern werden Aufnahmegebühren und Beiträge erhoben. 
+(3) Von den Mitgliedern werden Beiträge erhoben. 
 Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordnung.
 
 (4) Die Mitglieder müssen ihren finanziellen Verpflichtungen gegenüber dem ESN Deutschland termingerecht nachkommen.
@@ -80,7 +79,7 @@ Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordn
 (7) Näheres kann in einer Ordnung geregelt werden.
 
 # § 6 - Verfahren bei Nichteinhaltung der Pflichten und Ausschluss
-(1) Im Falle eines Verstoßes gegen die Pflichten eines Mitglieds aus §5, benachrichtigt der Vorstand das Mitglied und den Verwaltungsrat über den Verstoß schriftlich.
+(1) Im Falle eines Verstoßes gegen die Pflichten eines Mitglieds aus §5, benachrichtigt der Vorstand das Mitglied und den Verwaltungsrat über den Verstoß in Textform.
 
 (2) Sollte 12 Wochen nach Zugang der ersten schriftlichen Mitteilung und nach mehreren Erinnerungen eine Pflicht aus §5 weiterhin nicht eingehalten werden, so kann der Vorstand eine der in Ordnung §5 beschriebenen Sanktionen dem betroffenen Mitglied auferlegen. Die Mitglieder und der Verwaltungsrat werden durch den Vorstand informiert.
 
@@ -99,14 +98,12 @@ Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordn
     3. Die Mitgliederversammlung soll innerhalb von 90 Tagen nach Eingang der Berufung darüber entscheiden. Die endgültige Entscheidung ist dem Vorstand und dem Verwaltungsrat zu übermitteln.
     4. Trifft die Mitgliederversammlung innerhalb der gesetzten Frist keine Entscheidung, tritt der beschlossene Ausschluss nicht in Kraft.
 
-
 # § 7 – Organe des Vereins
 Organe des Vereins sind
 
-1. der Vorstand
-2. die Mitgliederversammlung
+1. der Vorstand,
+2. die Mitgliederversammlung,
 3. der Verwaltungsrat.
-
 
 # § 8 – Vorstand
 (1) Der Vorstand besteht aus
@@ -120,15 +117,13 @@ Organe des Vereins sind
     7. einer Person für das Projektmanagement (Project Manager),
     8. einer Person für IT Angelegenheiten (IT Manager),
 
-
 (2) Die Mitgliederversammlung kann beschließen, dass dem Vorstand bis zu drei weitere stimmberechtigte Vorstandsmitglieder angehören sollen.
-
 
 # § 9 - Aufgaben des Vorstands
 (1) Dem Vorstand des Vereins obliegt die Geschäftsführung. Er hat insbesondere
 folgende Aufgaben:
 
-    1. die Einberufung und Vorbereitung der Mitgliederversammlungen einschließlich der Aufstellung der Tagesordnung,
+    1. die Einberufung und Vorbereitung der Mitgliederversammlungen in Kooperation mit der Versammlungsleitung,
     2. die Ausführung von Beschlüssen der Mitgliederversammlung,
     3. die Verwaltung des Vereinsvermögens,
     4. die Anfertigung des Rechenschaftsberichts.
@@ -140,7 +135,7 @@ folgende Aufgaben:
 # § 10 - Wahl des Vorstands
 (1) Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen. Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder der Mitglieder.
 
-(2) Kann ein Vorstandsposten bei Wahlen nicht besetzt werden oder scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Vorstands berechtigt, ein neues Vorstandsmitglied bis zum Ende ihrer Amtszeit in den Vorstand zu berufen oder die Aufgaben unter sich aufzuteilen.
+(2) Kann ein Vorstandsposten bei Wahlen nicht besetzt werden oder scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Vorstands berechtigt, ein neues Vorstandsmitglied bis zur nachfolgenden Mitgliederversammlung in den Vorstand zu berufen oder die Aufgaben unter sich aufzuteilen.
 
 (3) Eine einmalige Wiederwahl in den Vorstand ist zulässig, nach Ablauf der zweiten Amtszeit ist die Wiederwahl ausgeschlossen. 
 Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Person auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §14 Abs. 4 Nr. 4 zustimmt.
@@ -156,23 +151,22 @@ Die Mitgliederversammlung entscheidet insbesondere über:
 
 1. Änderungen der Satzung,
 2. die Aufnahme neuer Mitglieder,
-3. die Festsetzung der Aufnahmegebühr und der Mitgliedsbeiträge,
+3. die Festsetzung der Mitgliedsbeiträge,
 4. den Ausschluss von Mitgliedern aus dem Verein,
-5. die Bestellung und die Abberufung der Mitglieder des Vorstands und der Mitglieder des Verwaltungsrats,
-6. die Entgegennahme des Jahresberichts und die Entlastung des Vorstands,
-7. die Auflösung des Vereins.
-
+5. die Bestellung und die Abberufung der Mitglieder des Vorstands und des Verwaltungsrats,
+6. die Bestellung und die Abberufung der Mitglieder der Versammlungsleitung der Mitgliederversammlungen,
+7. die Entgegennahme des Jahresberichts und die Entlastung des Vorstands,
+8. die Auflösung des Vereins.
 
 # § 13 - Einberufung der Mitgliederversammlung
-(1) Mindestens zweimal im Kalenderjahr ist vom Vorstand eine Mitgliederversammlung einzuberufen. 
-Die Einberufung erfolgt in Textform unter Einhaltung einer Frist von zwei Wochen und unter Angabe der vorläufigen Tagesordnung.
+(1) Mindestens zweimal im Kalenderjahr ist vom Vorstand eine Mitgliederversammlung einzuberufen. Kommt der Vorstand dieser Pflicht nicht nach, ist die Einberufung der Mitgliederversammlung von der Versammlungsleitung durchzuführen. Die Einberufung erfolgt in Textform unter Einhaltung einer Frist von zwei Wochen und unter Angabe der vorläufigen Tagesordnung.
 
-(2) Jedes Mitglied kann bis spätestens eine Woche vor der Mitgliederversammlung beim Vorstand in Textform eine Ergänzung der Tagesordnung beantragen. 
-Der Antrag ist zu begründen. Abweichend von Satz 1 müssen Anträge auf Ergänzung der Tagesordnung einschließlich deren Begründung, die Änderungen der Satzung oder Ordnung des Vereins beinhalten, spätestens 15 Tage vor der Mitgliederversammlung dem Vorstand in Textform zugehen.
+(2) Jedes Mitglied kann bis spätestens eine Woche vor der Mitgliederversammlung bei der Versammlungsleitung in Textform eine Ergänzung der Tagesordnung beantragen. 
+Der Antrag ist zu begründen. Abweichend von Satz 1 müssen Anträge auf Ergänzung der Tagesordnung einschließlich deren Begründung, die Änderungen der Satzung oder Ordnung des Vereins beinhalten, spätestens 15 Tage vor der Mitgliederversammlung dem Vorstand, dem Verwaltungsrat und der Versammlungsleitung in Textform zugehen.
 
-(3) Der Vorstand hat eine außerordentliche Mitgliederversammlung einzuberufen, wenn mindestens ein Drittel der Mitglieder dies in Textform unter Angabe des Grundes beantragt, in einer Abstimmung dafür stimmt oder der Vorstand dies beschließt.
+(3) Der Vorstand hat eine außerordentliche Mitgliederversammlung einzuberufen, wenn mindestens ein Drittel der Mitglieder dies in Textform unter Angabe des Grundes beantragt, in einer Abstimmung dafür stimmt oder der Vorstand dies beschließt.Kommt der Vorstand dieser Pflicht nicht nach, ist die Einberufung der außerordentlichen Mitgliederversammlung von der Versammlungsleitung durchzuführen.
 
-(4) Abweichend von §32 Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs (BGB) kann der Vorstand nach eigenem Ermessen beschließen und in der Einladung mitteilen, dass die Mitgliederversammlung ohne die Anwesenheit der Mitglieder an einem Versammlungsort durchgeführt wird (Online-Mitgliederversammlung).
+(4) Abweichend von §32 Absatz 1 Satz 1 des BGB kann der Vorstand nach Konsultation der Versammlungsleitung und des Verwaltungsrats beschließen und in der Einladung mitteilen, dass die Mitgliederversammlung ohne die Anwesenheit der Mitglieder an einem Versammlungsort durchgeführt wird (Online-Mitgliederversammlung).
 Die Mitglieder können in diesem Falle ihre Mitgliederrechte im Wege der elektronischen Kommunikation ausüben.
 Für die Online-Mitgliederversammlung sind sichere elektronische Verfahren zu verwenden, die nur den berechtigten Teilnehmern den Zugang ermöglichen. 
 Weitere Regelungen bezüglich der Beschlussfassung bei Online-Mitgliederversammlungen können in einer Ordnung festgelegt werden.
@@ -189,7 +183,7 @@ Stimmenthaltungen und ungültige Stimmen gelten als nicht abgegeben.
 
 (4) Abweichend von §14 Abs. 3, Satz 1 bedürfen folgende Beschlüsse andere Mehrheiten:
 
-  1. Die Aufnahme von Anträgen zur Tagesordnung, die nicht vom Vorstand aufgenommen wurden oder die erst in der Mitgliederversammlung gestellt werden mindestens 1/3,
+  1. Die Aufnahme von Anträgen zur Tagesordnung, die nicht vom Vorstand oder der Versammlungsleitung aufgenommen wurden oder die erst in der Mitgliederversammlung gestellt werden mindestens 1/3,
   2. die Aufnahme und der Ausschluss von Mitgliedern mindestens 2/3,
   3. Änderungen der Satzung mindestens 3/4,
   4. die Auflösung des Vereins mindestens 3/4,
@@ -202,46 +196,62 @@ der abgegebenen Stimmen.
 
 (6) Über den Ablauf der Mitgliederversammlung und die gefassten Beschlüsse ist ein Protokoll zu fertigen, das von der Protokollführung und einem Vorstandsmitglied zu unterzeichnen ist.
 
-(7) In Fällen, in denen die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, kann der Vorstand Beschlüsse auch mit Hilfe von sicheren elektronischen Verfahren herbeiführen.
+(7) In Fällen, in denen die Einberufung einer Mitgliederversammlung unverhältnismäßig erscheint, können Beschlüsse auch mit Hilfe von sicheren elektronischen Verfahren herbeigeführt werden.
 
-# § 15 – Verwaltungsrat
+# § 15 – Versammlungsleitung
+Der Versammlungsleitung gehören mindestens zwei, jedoch maximal drei Personen an. Sie besteht aus
+
+1. einer Person für den Vorsitz,
+2. einer bis zwei Personen für die Schriftführung und die technische Unterstützung.
+
+# § 16 – Aufgaben der Versammlungsleitung
+(1) Die Versammlungsleitung hat die Aufgabe, die Mitgliederversammlungen des Vereins vorzubereiten und zu leiten. 
+
+(2) Die Versammlungsleitung arbeitet ehrenamtlich.
+
+# § 17 – Wahl der Versammlungsleitung
+(1) Die Mitglieder der Versammlungsleitung werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Die Bestellung ist jederzeit widerruflich. Nicht wählbar sind Mitglieder des Vorstands und des Verwaltungsrats. Ausgeschiedene Mitglieder des Vorstands und des Verwaltungsrats können der Versammlungsleitung, die ihrem Mandat folgt, angehören.
+
+(2) Kann ein Posten der Versammlungsleitung bei Wahlen nicht besetzt werden oder scheidet ein Mitglied der Versammlungsleitung vorzeitig aus dem Amt aus, so ist bis zur Wahl eines Nachfolgers durch die Mitgliederversammlung der Vorstand berechtigt, ein neues Mitglied der Versammlungsleitung für die nachfolgende Mitgliederversammlung in die Versammlungsleitung zu berufen.
+
+(3) §10 III gilt entsprechend.
+
+# § 18 – Verwaltungsrat
 Dem Verwaltungsrat gehören mindestens drei, jedoch maximal vier Personen an. 
 Er besteht aus
 
-1. einer Person für den Vorsitz
-2. ein bis zwei Personen für das Rechtsaudit
+1. einer Person für den Vorsitz,
+2. ein bis zwei Personen für das Rechtsaudit,
 3. einer Person für das Finanzaudit.
 
-
-# § 16 – Aufgaben des Verwaltungsrats
-(1) Der Verwaltungsrat hat die Aufgabe, den Vorstand in Angelegenheiten des Vereins zu auditieren. Dabei obliegen ihm insbesondere folgende Aufgaben:
+# § 19 – Aufgaben des Verwaltungsrats
+(1) Der Verwaltungsrat hat die Aufgabe, den Vorstand in Angelegenheiten des Vereins zu auditieren. Dabei obliegen ihm insbesondere:
 
     1. das prozedurale Audit, das Rechtsaudit und das Finanzaudit
     2. das Aussprechen einer Empfehlung an die Mitglieder über die Entlassung eines Vorstandsmitglieds oder eines Beisitzenden bei besonders schweren Verstößen dieser 
     3. die Veranlassung einer Abstimmung der Mitglieder über eine außergewöhnliche Mitgliederversammlung unter Angabe eines Grundes.
 
-
 (2) Der Verwaltungsrat arbeitet ehrenamtlich.
 
-# § 17 – Wahl des Verwaltungsrats
+# § 20 – Wahl des Verwaltungsrats
 (1) Die Mitglieder des Verwaltungsrats werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. 
 Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen.
 Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder der Mitglieder. 
 Es dürfen maximal zwei lokale Mitglieder pro Mitglied in den Verwaltungsrat gewählt werden. Nicht wählbar sind Mitglieder des Vorstands oder dessen Supporter.
-Ausgeschiedene Mitglieder des Vorstands oder Supporter können dem Verwaltungsrat, der ihrem Mandat folgt, nicht angehören.
+Ausgeschiedene Mitglieder des Vorstands oder Supporter und Mitglieder der Versammlungsleitung der Mitgliederversammlungen können dem Verwaltungsrat, der ihrem Mandat folgt, nicht angehören.
 
-(2) Kann ein Posten des Verwaltungsrats bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Verwaltungsrats vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Verwaltungsrats berechtigt, ein neues Verwaltungsratsmitglied bis zum Ende ihrer Amtszeit in den Verwaltungsrat zu berufen oder die Aufgaben unter sich aufzuteilen.
+(2) Kann ein Posten des Verwaltungsrats bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Verwaltungsrats vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Verwaltungsrats berechtigt, ein neues Verwaltungsratsmitglied bis zur nachfolgenden Mitgliederversammlung in den Verwaltungsrat zu berufen oder die Aufgaben unter sich aufzuteilen.
 
 (3) §10 Abs. 3 gilt entsprechend.
 
-# § 18 - Redaktionelle Änderungen
+# § 21 - Redaktionelle Änderungen
 Der Vorstand kann einstimmig redaktionelle Änderungen der Satzung und der Ordnung sowie deren Anhängen beschließen. 
 Vor einem entsprechenden Beschluss durch den Vorstand ist der Verwaltungsrat anzuhören. 
 Der Vorstand muss die Mitglieder innerhalb von sieben Tagen nach einem entsprechenden Beschluss über die vorgenommenen Änderungen informieren.
 
-# § 19 – Auflösung des Vereins, Beendigung aus anderen Gründen, Wegfall steuerbegünstigter Zwecke
-Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen an den „ESN Alumni Deutschland e.V.“, sofern dessen Gemeinnützigkeit anerkannt ist und der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat. Andernfalls an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Völkerverständigung.
+# § 22 – Auflösung des Vereins, Beendigung aus anderen Gründen, Wegfall steuerbegünstigter Zwecke
+Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen an den „ESN Alumni Deutschland e.V.“ (VR 4165 – Amtsgericht Bochum), sofern dessen Gemeinnützigkeit anerkannt ist und der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat. Andernfalls an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Völkerverständigung.
 
-# § 20 - Schlussbestimmungen
+# § 23 - Schlussbestimmungen
 Sollte eine Bestimmung dieser Satzung nichtig oder aus einem sonstigen Grunde unwirksam sein, so bleibt die übrige Satzung dennoch wirksam. 
 In einem solchen Fall wird statt der nichtigen oder unwirksamen Bestimmung eine solche gesucht, die dem intendierten Zweck des Vereins möglichst nahe kommt.
