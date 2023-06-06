@@ -1,6 +1,6 @@
 ---
 title: "Veranstaltungsordnung / Event Policy Paper"
-date: "February 2023"
+date: "May 2023"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -51,7 +51,7 @@ output:
 # §6 – Ausrichtung und Ausschreibungsverfahren von Veranstaltungen
 (1) Eine Veranstaltung wird durch ein Organisationskomitee (OC) ausgerichtet.
 
-(2) Der Vorstand hat für jede Veranstaltung ein Ausschreibungsverfahren durchzuführen (Open Call), auf das sich jedes Mitglied alleine oder im Verbund bewerben kann. Bei mehreren Bewerbungen wird das Organisationskomitee von den Mitgliedern gewählt. Bei nur einer Bewerbung kann der Vorstand das Organisationskomitee ernennen. Erfolgt nach einer ersten Ausschreibung keine Bewerbung, muss unverzüglich ein erneuter Open Call veröffentlicht werden. Sollte auch hierauf keine Bewerbung eingehen, kann der Vorstand die Ausrichtung übernehmen.
+(2) Der Vorstand hat für jede Veranstaltung ein Ausschreibungsverfahren durchzuführen (Open Call), auf das sich jedes Mitglied alleine oder im Verbund bewerben kann. Bei mehreren Bewerbungen wird das Organisationskomitee von den Mitgliedern gewählt. Bei nur einer Bewerbung kann der Vorstand das Organisationskomitee ernennen. Erfolgt nach einer ersten Ausschreibung keine Bewerbung, muss unverzüglich ein erneuter Open Call veröffentlicht werden. Sollte auch hierauf keine Bewerbung eingehen, kann der Vorstand, bei Mitgliederversammlungen auch die Versammlungsleitung, die Ausrichtung übernehmen.
 
 (3) Die durch das Organisationskomitee verlangte Teilnahmegebühr soll angemessen sein. In der Bewerbung ist die maximale Teilnahmegebühr verbindlich zu benennen.
 
@@ -67,7 +67,7 @@ output:
 (4) Kontingentplätze werden nur an registrierte Teilnehmende vergeben. Konnten nicht alle Kontingentplätze besetzt werden, kann der Vorstand gemeinsam mit dem Organisationskomitee die Registrierung geöffnet lassen oder wiedereröffnen. Bei Lokalen Plattformen entscheidet das Organisationskomitee nach Absprache mit dem Vorstand.
 
 # §8 – Grundsätze der Platzzuteilung und der Teilnahme
-(1) Jedes Mitglied, vertreten durch den Vorsitzenden, kann mehrere Teilnehmende zu einer Veranstaltung an den Vorstand, bei Mitgliederversammlungen an die Versammlungsleitung, melden. Meldet ein Mitglied mehrere Teilnehmende oder haben sich mehrere Teilnehmende eines Mitgliedes registriert, hat das Mitglied spätestens zwei Tage nach Ende der Registrierung eine Prioritätenliste unter Angabe der delegierten Person an den Vorstand zu versenden. Reicht das Mitglied die Prioritätenliste ohne diese Angabe des Delegierten ein, wird der ersten Person auf der Prioritätenliste dieser Kontingentplatz zugewiesen. Reicht das Mitglied keine Prioritätenliste ein, vergibt der Vorstand die Kontingentplätze in der Reihenfolge der Registrierung.
+(1) Jedes Mitglied, vertreten durch den Vorsitzenden, kann mehrere Teilnehmende zu einer Veranstaltung an den Vorstand, bei Mitgliederversammlungen an die Versammlungsleitung, melden. Meldet ein Mitglied mehrere Teilnehmende oder haben sich mehrere Teilnehmende eines Mitgliedes registriert, hat das Mitglied spätestens zwei Tage nach Ende der Registrierung eine Prioritätenliste unter Angabe der delegierten Person an den Vorstand, bei Mitgliederversammlungen auch an die Versammlungsleitung und den Verwaltungsrat, zu versenden. Reicht das Mitglied die Prioritätenliste ohne diese Angabe des Delegierten ein, wird der ersten Person auf der Prioritätenliste dieser Kontingentplatz zugewiesen. Reicht das Mitglied keine Prioritätenliste ein, vergibt der Vorstand, bei Mitgliederversammlungen die Versammlungsleitung, die Kontingentplätze in der Reihenfolge der Registrierung.
 
 (2) Hat das Mitglied die delegierte Person auf der Prioritätenliste angegeben, gilt dies ebenfalls als Stimmrechtsdelegation und es bedarf keiner separaten Meldung mehr.
 
@@ -79,13 +79,13 @@ output:
 
 (6) Bei allen Mitgliederversammlungen mit Wahlen haben die Kandidierenden ein Teilnahmerecht an den Plenarsitzungen.
 
-(7) Tagesgäste können sich im Rahmen der allgemeinen Registrierung anmelden. Angemeldete Tagesgäste sollen vom Vorstand oder dem Organisationskomitee und im Zweifel durch die Mitgliederversammlung zu den Plenarsitzungen zugelassen werden, sofern die räumlichen Kapazitäten dies zulassen. Begründete Ausnahmen, insbesondere eine kurzfristigere Anmeldung, sind nur in Absprache mit dem Vorstand und dem Organisationskomitee möglich. Von den Tagesgästen kann ein Unkostenbeitrag erhoben werden.
+(7) Tagesgäste können sich im Rahmen der allgemeinen Registrierung anmelden. Angemeldete Tagesgäste sollen vom Vorstand, bei Mitgliederversammlungen von der Versammlungsleitung, oder dem Organisationskomitee und im Zweifel durch die Mitgliederversammlung zu den Plenarsitzungen zugelassen werden, sofern die räumlichen Kapazitäten dies zulassen. Begründete Ausnahmen, insbesondere eine kurzfristigere Anmeldung, sind nur in Absprache mit dem Vorstand, bei Mitgliederversammlungen die Versammlungsleitung und dem Organisationskomitee möglich. Von den Tagesgästen kann ein Unkostenbeitrag erhoben werden.
 
 # §9 – Platzkontingente
 (1) Für Mitgliederversammlungen sind für folgende Personengruppen Platzkontingente
 vorzusehen:
 
-    1. mindestens zwei Versammlungsleitende,
+    1. die Mitglieder der Versammlungsleitung,
     2. alle Delegierte,
     3. mindestens zwei Vertretende von Kandidierendensektionen und interessierten Organisationen,
     4. die Mitglieder des Vorstandes,
