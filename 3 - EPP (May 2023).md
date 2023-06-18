@@ -6,7 +6,7 @@ output:
     latex_engine: xelatex
 ---
 
-# §1 – Geltungs- und Anwendungsbereich
+# §1 – Geltungs- und Anwendungsbereich 
 (1) Diese Veranstaltungsordnung regelt die Veranstaltungen des Vereins, das Zulassungs- und Vergabeverfahren zu Veranstaltungen des Dachverbandes ESN AISBL und gibt einen Rahmen für die Veranstaltungen seiner Mitglieder vor.
 
 (2) Sofern keine spezielle Regelung für eine einzelne Veranstaltung getroffen wurde, gelten die allgemeinen Regelungen.
