@@ -74,7 +74,7 @@ Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordn
 
 (5) Die Mitglieder verpflichten sich, mindestens zweimal im Jahr dem Vorstand Bericht über ihre Tätigkeiten zu erstatten.
 
-(6) Die Mitglieder verpflichten sich, die aktuellste ESN Corporate Identity von ESN AISBL zu nutzen und sich eindeutig als ESN-Mitglied zu identifizieren. (Nutzung des Namen: ESN [Mitgliedsname]):
+(6) Die Mitglieder verpflichten sich, die aktuellste ESN Corporate Identity von ESN AISBL zu nutzen und sich eindeutig als ESN-Mitglied zu identifizieren. (Nutzung des Namen: ESN [Mitgliedsname]).
 
 (7) Näheres kann in einer Ordnung geregelt werden.
 
