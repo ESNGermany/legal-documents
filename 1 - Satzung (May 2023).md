@@ -111,7 +111,7 @@ Organe des Vereins sind
     1. einer Person für den Vorsitz (President),
     2. einer Person für den stellvertretenden Vorsitz (Vice-President),
     3. einer Person für den Finanzvorstand (Treasurer),
-    4. einer Person für die einer Person für das Management kommerzieller Partnerschaften (Partnership Manager),
+    4. einer Person für das Management kommerzieller Partnerschaften (Partnership Manager),
     5. einer Person für den Kommunikationsvorstand (Communication Manager).
     6. einer Person für das Veranstaltungsmanagement (Event Manager),
     7. einer Person für das Projektmanagement (Project Manager),
