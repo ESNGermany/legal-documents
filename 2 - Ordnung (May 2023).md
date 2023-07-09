@@ -46,13 +46,17 @@ Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V. (nachfo
     5. Die Rechnungen der Mitgliedsbeiträge für das laufende Kalenderjahr sollen im März des Jahres gesendet werden. Sofern Mitglieder nach diesem Stichtag aufgenommen werden, so ist die Rechnung innerhalb eines Monats nach der Aufnahme zu verschicken.
     6. Die Entrichtung des Mitgliedsbeitrags hat innerhalb von vier Wochen nach Zugang der entsprechenden Rechnung zu erfolgen. Sollte zwölf Wochen nach Zugang der Rechnung ein Mitglied seinen Mitgliedsbeitrag trotz mehrerer Erinnerungen nicht entrichtet haben, kann der Vorstand beschließen, dieses Mitglied bei der Zuteilung von Platzkontingenten gemäß §9 der Veranstaltungsordnung für Veranstaltungen gemäß §3 Abs. 2 und 3 der Veranstaltungsordnung bis zur Entrichtung des Mitgliedsbeitrags nicht zu berücksichtigen. Hierüber sind die Mitglieder zu informieren. Widerspricht das betroffene Mitglied dem Beschluss, befindet die Mitgliederversammlung über dessen Statthaftigkeit.
 
-(2) Jedes Mitglied muss eine Ansprechperson (Local Representative) benennen, welche auch andere Positionen innerhalb des Mitglieds innehaben kann. Der Wechsel der Ansprechperson sowie der Vorstände des Mitglieds ist dem Vorstand unverzüglich mitzuteilen.
+(2) Die Bestellung von ESNcards erfolgt mittels einer Sammelbestellung durch den Verein. Der Verein kann für bezogene ESNcards einen Aufschlag verlangen, der maximal das 1,5fache des Einkaufspreises betragen darf. Der Aufschlag wird im Voraus vom Vorstand festgelegt. Die anfallende Mehrwertsteuer ist vom Mitglied zu tragen. Es steht im Ermessen des Mitglieds zu welchem Preis der Verkauf der ESNcards erfolgt.
 
-(3) Das Mitglied muss bei der Nutzung eines vom Verein zur Verfügung gestellten Content-Management-Systems zur Verwaltung seiner Internetpräsenz die aktuellste, stabile Version verwenden. Die Beurteilung der Stabilität des Systems obliegt dem Vorstand.
+(3) Jedes Mitglied muss eine Ansprechperson (Local Representative) benennen, welche auch andere Positionen innerhalb des Mitglieds innehaben kann. Der Wechsel der Ansprechperson sowie der Vorstände des Mitglieds ist dem Vorstand unverzüglich mitzuteilen.
 
-(4) Das Mitglied muss die Partner des Vereins auf der Website mit Logo bewerben. Ausnahmen können durch den Vorstand genehmigt werden, insbesondere wenn das betroffene Mitglied im Vorfeld eine entgegenstehende Verpflichtung eingegangen ist.
+(4) Das Mitglied verpflichtet sich, über eine funktionale Website zu verfügen, die die visuelle Identität von ESN AISBL respektiert.
 
-(5) Die Bestellung von ESNcards erfolgt mittels einer Sammelbestellung durch den Verein. Der Verein kann für bezogene ESNcards einen Aufschlag verlangen, der maximal das 1,5fache des Einkaufspreises betragen darf. Der Aufschlag wird im Voraus vom Vorstand festgelegt. Die anfallende Mehrwertsteuer ist vom Mitglied zu tragen. Es steht im Ermessen des Mitglieds zu welchem Preis der Verkauf der ESNcards erfolgt.
+(5) Das Mitglied muss die Partner des Vereins auf der Website mit Logo bewerben. Ausnahmen können durch den Vorstand genehmigt werden, insbesondere wenn das betroffene Mitglied im Vorfeld eine entgegenstehende Verpflichtung eingegangen ist.
+
+(6) Das Mitglied verpflichtet sich, mindestens bei einer Mitgliederversammlung pro Jahr anwesend zu sein und bei jeder Mitgliederversammlung seine Stimme zu delegieren.
+
+(7) Das Mitglied verpflichtet sich, sich über aktuelle Entwicklungen innerhalb von ESN Deutschland und ESN AISBL auf dem Laufenden zu halten. Zudem verpflichtet sich das Mitglied mindestens zweimal pro Semester an den CLR-Calls teilzunehmen.
 
 ## §5 - Verfahren bei Nichteinhaltung von Pflichten
 
