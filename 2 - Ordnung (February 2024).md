@@ -48,7 +48,7 @@ Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V. (nachfo
 
 (2) Die Bestellung von ESNcards erfolgt mittels einer Sammelbestellung durch den Verein. Der Verein kann für bezogene ESNcards einen Aufschlag verlangen, der maximal das 1,5fache des Einkaufspreises betragen darf. Der Aufschlag wird im Voraus vom Vorstand festgelegt. Die anfallende Mehrwertsteuer ist vom Mitglied zu tragen. Es steht im Ermessen des Mitglieds zu welchem Preis der Verkauf der ESNcards erfolgt.
 
-(3) Jedes Mitglied muss eine Ansprechperson (Local Representative) benennen, welche auch andere Positionen innerhalb des Mitglieds innehaben kann. Der Wechsel der Ansprechperson sowie der Vorstände des Mitglieds ist dem Vorstand unverzüglich mitzuteilen.
+(3) Jedes Mitglied wird durch seine  vorsitzende Person als Hauptansprechperson repräsentiert, sofern keine weitere Ansprechperson benannt wird. Der Wechsel der Ansprechperson sowie der Vorstände des Mitglieds ist dem Vorstand unverzüglich mitzuteilen.
 
 (4) Das Mitglied verpflichtet sich, über eine funktionale Website zu verfügen, die die visuelle Identität von ESN AISBL respektiert.
 
@@ -56,7 +56,7 @@ Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V. (nachfo
 
 (6) Das Mitglied verpflichtet sich, mindestens bei einer Mitgliederversammlung pro Jahr anwesend zu sein und bei jeder Mitgliederversammlung seine Stimme zu delegieren.
 
-(7) Das Mitglied verpflichtet sich, sich über aktuelle Entwicklungen innerhalb von ESN Deutschland und ESN AISBL auf dem Laufenden zu halten. Zudem verpflichtet sich das Mitglied mindestens zweimal pro Semester an den CLR-Calls teilzunehmen.
+(7) Das Mitglied verpflichtet sich, sich über aktuelle Entwicklungen innerhalb von ESN Deutschland und ESN AISBL auf dem Laufenden zu halten. Zudem verpflichtet sich das Mitglied mindestens zweimal pro Semester an den Network & Update Calls teilzunehmen.
 
 ## §5 - Verfahren bei Nichteinhaltung von Pflichten
 
