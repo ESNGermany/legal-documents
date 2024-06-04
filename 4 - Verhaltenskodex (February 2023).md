@@ -33,14 +33,18 @@ Wir respektieren den Freiraum jeder Person, ganz gleich wie groß er sein mag un
 # 5. Abläufe und Sanktionen
 Die Durchsetzung des Verhaltenskodex kann nur erfolgen, wenn Verstöße gemeldet werden. Aus diesem Grund werden alle dazu ermutigt, einen mutmaßlichen Verstoß zu melden, wenn man Zeuge eines mutmaßlichen Verstoßes wird oder davon Kenntnis erlangt. 
 Um den Meldeprozess zu erleichtern, werden die Verfahren für die Meldung eines (vermuteten) Verstoßes im Folgenden näher erläutert.
+
 ## 5.1. Meldung eines (mutmaßlichen) Verstoßes
+
 ### 5.1.1 .Während einer Veranstaltung
 Bei Veranstaltungen von ESN Deutschland, wie National Assemblies (NA), Local Platforms (LP) oder Training Days, werden (vermutete) Verstöße in erster Linie dem Point of Contact gemeldet:
 Während aller nationalen Veranstaltungen im Netzwerk von ESN Deutschland wird ein Team aus mindestens zwei Ombudspersonen, bei regionalen Veranstaltungen mindestens eine Ombudsperson, gestellt. Diese sind vom Vereinsvorstand aus allen anwesenden Mitgliedern der Vereinsorgane sowie des ESN Alumni Deutschland e.V. auszuwählen. Idealerweise wird dabei auf ein ausgewogenes Geschlechterverhältnis geachtet. Die Ombudspersonen sind zu Beginn einer Veranstaltung durch die Teilnehmenden zu bestätigen. 
 Wenn Freiwillige sich nicht wohl dabei fühlen, den Ombudspersonen etwas zu melden, dient jedes Mitglied der Vereinsorgane von ESN Deutschland als Kontaktperson, die als Mediator fungieren kann. Einer Meldung an die Kontaktpersonen sollte immer eine Berichterstattung an codeofconduct@esn-germany.de oder über das Meldeformular folgen.
+
 ### 5.1.2. Nach Veranstaltungen oder in jeglichen anderweitigen Situationen
 Bei Verstoß gegen diesen Kodex auch außerhalb von Veranstaltungen kann der Vorfall an codeofconduct@esn-germany.de oder über das Kontaktformular, das über www.esn-germany.de/coc zu finden ist, gemeldet werden. Die Übermittlung ist vertraulich und wird nur vom President des ESN Deutschland und Main Chair des Verwaltungsrats eingesehen. Diese beiden Personen bilden das CoC-Team.
 Für Verstöße, die außerhalb von ESN-Veranstaltungen auftreten, aber dennoch in den Bereich von ESN Deutschland fallen, gilt das gleiche Verfahren. 
+
 ## 5.2. Ablauf
 Nachdem ein Verstoß gemeldet wurde, werden die folgenden Schritte einleitet:
 - Persönliche Nachricht: Um der meldenden Person Gewissheit zu geben, dass dem Fall nachgegangen wird, bestätigt dies das CoC-Team kurzfristig;
@@ -50,7 +54,9 @@ Nachdem ein Verstoß gemeldet wurde, werden die folgenden Schritte einleitet:
 - Weiteres Vorgehen: Das CoC-Team entscheidet über die nächsten Schritte, z.B. Sanktionierung oder Mediation. Die meldende und die beschuldigte Person werden entsprechend informiert.
 
 Diese Schritte sind ein allgemeiner Leitfaden für den Umgang mit einer Meldung. Jeder Fall ist jedoch individuell. Daher werden die Schritte nur in dem Maße befolgt, wie es für die jeweilige Situation angemessen ist.
+
 ## 5.3. Verfolgung von Verstößen
+
 ### 5.3.1. Arten von Sanktionen
 Die Umstände, unter denen es zu Verstößen gegen den Verhaltenskodex kommt, sind selten gleich. Obwohl jeder Verstoß ernst genommen wird, können sie unterschiedlich schwerwiegend sein.  Die Sanktionen, die bei einem Verstoß verhängt werden, sind daher nicht pauschal festgelegt. Sie werden vielmehr von Fall zu Fall beurteilt. Folgende Sanktionen können nach Beurteilung des Falles ergriffen werden:
 - Erinnerung der Teilnehmenden an ihre Verpflichtung, gemäß dem Verhaltenskodex zu handeln
@@ -65,6 +71,7 @@ Zusätzlich ist mit folgenden Konsequenzen zu rechnen:
 - Unterrichtung der nächsthöheren Ebene von ESN AISBL über den Vorfall
 
 Die Sanktionen können mehrere der vorgenannten Punkte umfassen.
+
 ### 5.3.2. Verhängung einer Sanktion 
 Die Befugnis, bei Verstößen auf nationaler Ebene eine Sanktion zu verhängen, liegt beim CoC-Team von ESN Deutschland.
 Bei der Festlegung der Art und Schwere einer Sanktion müssen folgende Faktoren berücksichtigt werden:
@@ -74,12 +81,14 @@ Bei der Festlegung der Art und Schwere einer Sanktion müssen folgende Faktoren 
 - die Menge der vorhandenen Beweise.
 
 Wenn eine Sanktion verhängt wird, erhält die sanktionierte Person eine offizielle Erklärung des CoC-Teams, in der die Sanktion und die Gründe für die Verhängung der Sanktion beschrieben werden. Die verhängte Sanktion wird unmittelbar nach der Ausstellung des Bescheids wirksam. Die Nichteinhaltung der Sanktion oder der Versuch, sie zu umgehen, kann eine weitere Sanktion nach sich ziehen.
+
 ### 5.3.3. Grundsätze
 Die Verhängung einer Sanktion sollte nicht leichtfertig vorgenommen werden, denn dies könnte für eine Person schwerwiegende Folgen haben. Deshalb sind bei der Entscheidung über die Verhängung einer Sanktion die folgenden Grundsätze zu beachten:
 - Faire Anhörung und Gelegenheit zur Vorlage von Beweisen; 
 - Verhältnismäßigkeit der Sanktion;
 - Gleichheit, d.h., dass ähnliche Fälle ähnlich behandelt werden sollten;
 - Transparenz bei der Begründung der verhängten Sanktion.
+
 ### 5.3.4. Recht auf Berufung
 Wenn die sanktionierte Person mit der Begründung der verhängten Sanktion oder der (Schwere der) Sanktion selbst nicht einverstanden ist, hat sie das Recht, Einspruch zu erheben. Das Recht auf Einspruch kann ausgeübt werden, indem innerhalb von zwei Wochen, nachdem die Entscheidung der adressierten Person zugegangen ist, eine Antwort in Textform (per E-Mail) an das CoC-Team geschickt wird, in der der Streitpunkt klar dargelegt wird. Das CoC-Team muss der adressierten Person die Möglichkeit geben, sich zu äußern. Das CoC-Team soll innerhalb von zwei Wochen nach Erlass der Beschwerde eine Entscheidung treffen. 
 
