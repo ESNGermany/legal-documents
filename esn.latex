@@ -58,7 +58,7 @@ $endif$
 % for the background color of the title page
 %
 \usepackage{tikz}
-\usepackage[margin=2.5cm, top=3.5cm]{geometry}
+\usepackage[margin=2.5cm, top=2.0cm, bottom=3.0cm, foot=0.5cm]{geometry}
 \usepackage{csquotes}
 \usepackage{tikz}
 \usetikzlibrary{positioning,shapes}
@@ -68,12 +68,13 @@ $endif$
 %
 \usepackage{fancyhdr}
 
+\setlength\headheight{1.1cm} 
 \fancypagestyle{esn-header-footer}{
   \fancyhead{}
   \fancyfoot{}
   \lhead[]{}
   \chead[]{}
-  \rhead[]{\vspace{-0.8cm}\includegraphics[width=3.5cm]{DE_colour.png}}
+  \rhead[]{\includegraphics[width=3.5cm]{DE_colour.png}}
   \lfoot[]{}
   \cfoot[]{\vspace{-0.5cm}
     \begin{tikzpicture}
@@ -84,7 +85,7 @@ $endif$
     \filldraw[esnmagenta] [line width=0.1cm,line cap=round] (9.2,0) -- (10.9,0);
     \filldraw[esndarkblue] [line width=0.1cm,line cap=round] (11.25,0) -- (12.95,0);
     \filldraw[gray] [line width=0.05cm,line cap=round] (13.3,0) -- (16,0);
-  \end{tikzpicture}\\ \vspace{0.4cm}
+  \end{tikzpicture}\\ \vspace{0.5cm}
   \thepage}
   \rfoot[]{}
   \renewcommand{\headrulewidth}{0pt}
