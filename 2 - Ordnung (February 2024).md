@@ -157,9 +157,9 @@ Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 (10) Nach der Versammlung bestehen folgende Pflichten:
 
-    1. Der Vorstand hat spätestens sieben Tage nach Ende der Mitgliederversammlung einen Bericht an die Mitglieder, an die Teilnehmenden der Veranstaltung und ESN AISBL, gemäß den entsprechendden Vorgaben, zu versenden.
-    2. Die Versammlungsleitung hat das Protokoll der Versammlung den Mitgliedern spätestens 30 Tage vor dem Beginn der darauffolgenden regulären Mitgliederversammlung zur Verfügung zu stellen. Dieser ist das Protokoll zur Zustimmung vorzulegen. 
-    3. Das Organisationskomitee hat dem Vorstand einen finalen Überblick über Einnahmen und Ausgaben, inklusive aller Rechnungen und Belege im Original, sofern keine anderweitige Absprache zwischen NB und OC getroffen wurde, 30 Tage nach Ende der Versammlung, spätestens jedoch eine Woche nach Erhalt der letzten Rechnung, vorzulegen.
+     1. Der Vorstand hat spätestens sieben Tage nach Ende der Mitgliederversammlung einen Bericht an die Mitglieder, an die Teilnehmenden der Veranstaltung und ESN AISBL, gemäß den entsprechendden Vorgaben, zu versenden.
+     2. Die Versammlungsleitung hat das Protokoll der Versammlung den Mitgliedern spätestens 30 Tage vor dem Beginn der darauffolgenden regulären Mitgliederversammlung zur Verfügung zu stellen. Dieser ist das Protokoll zur Zustimmung vorzulegen. 
+     3. Das Organisationskomitee hat dem Vorstand einen finalen Überblick über Einnahmen und Ausgaben, inklusive aller Rechnungen und Belege im Original, sofern keine anderweitige Absprache zwischen NB und OC getroffen wurde, 30 Tage nach Ende der Versammlung, spätestens jedoch eine Woche nach Erhalt der letzten Rechnung, vorzulegen.
 
 ## §12 - Versammlungsleitung
 
