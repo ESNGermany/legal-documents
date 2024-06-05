@@ -35,7 +35,7 @@ output:
     2. LP Ost: ESN Berlin (EINS), ESN Erasmix Medizin Berlin, ESN HTW Dresden, ESN TU Dresden, ESN Frankfurt/Oder, ESN LEI Greifswald, ESN Jena, ESN Halle (Saale), ESN LEI Potsdam,
     3. LP West: ESN Bielefeld, ESN Bochum, ESN Bonn, ESN Dortmund, ESN Düsseldorf, ESN Koblenz, ESN Köln, ESN Siegen, ESN Witten/Herdecke,
     4. LP Süd-Ost: ESN Augsburg, ESN MESA München, ESN TUMi München, ESN Deggendorf, ESN Ingolstadt, ESN Bayreuth,
-    5. LP Süd-West: ESN Darmstadt, ESN Frankfurt am Main, ESN Freiburg, ESN Heidelberg, ESN STEP Kaiserslautern, ESN Karlsruhe, ESN Konstanz, ESN IPAS Landau, ESN VISUM Mannheim, ESN Pforzheim, ESN Saarbrücken, ESN Stuttgart.
+    5. LP Süd-West: ESN Darmstadt, ESN Frankfurt am Main, ESN Freiburg, ESN Gießen, ESN Heidelberg, ESN STEP Kaiserslautern, ESN Karlsruhe, ESN Konstanz, ESN IPAS Landau, ESN VISUM Mannheim, ESN Pforzheim, ESN Saarbrücken, ESN Stuttgart.
 
 (2) Mit der Aufnahme als neues Mitglied soll ebenfalls eine Zuteilung zu einer oder zwei Regionen erfolgen. Die Mitgliederversammlung kann auf Antrag eines Mitgliedes eine andere Zuteilung beschließen. Der Antrag ist zu begründen.
 
