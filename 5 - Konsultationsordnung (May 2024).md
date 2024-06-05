@@ -1,6 +1,6 @@
 ---
 title: "Konsultationsordnung"
-date: "February 2023"
+date: "May 2024"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -41,11 +41,11 @@ Die Konsultation stellt einen Ausdruck demokratischer Strukturen innerhalb des V
 (3) Weitere Themen liegen im Ermessen der Delegationsleitung und können auf Antrag der Mitglieder hinzugefügt werden. Ein solcher Antrag ist spätestens zwei Tage vor der Konsultation in Textform an die Delegationsleitung zu richten.
 
 # §5 - Durchführung der Konsultation
-(1) Die Konsultation ist spätestens 18 Tage vor der Mitgliederversammlung des ESN AISBL durch den Vorstand elektronisch durchzuführen.
+(1) Die Konsultation ist spätestens 7 Tage vor der Mitgliederversammlung des ESN AISBL durch den Vorstand elektronisch durchzuführen.
 
 (2) Mindestens fünf Tage zuvor hat die für die Konsultation zuständige Person, dem Zweck der Konsultation entsprechend, den Mitgliedern die Agenda und die Themen der Mitgliederversammlung des ESN AISBL vollumfänglich darzulegen. Diesen ist die vorläufige Agenda für die Konsultation beizulegen. Über Änderungen sind die Mitglieder schnellstmöglich zu informieren.
 
-(3) Im Falle einer Konsultation zu den in §4 Abs. 2 und Abs. 3 genannten Themen, ist eine Online-Abstimmung binnen fünf Tagen nach Abschluss der Konsultation durch den Vorstand zu eröffnen. Diese endet mit Ablauf des siebten Tages nach ihrer Eröffnung. Das Abstimmungsrecht ist nicht an die Teilnahme an der Konsultation gebunden.
+(3) Im Falle einer Konsultation zu den in §4 Abs. 2 und Abs. 3 genannten Themen, ist eine Online-Abstimmung binnen zwei Tagen nach Abschluss der Konsultation durch den Vorstand zu eröffnen. Diese muss mindestens fünf Tage geöffnet sein und spätestens am Tag vor der Mitgliederversammlung des ESN AISBL enden. Das Abstimmungsrecht ist nicht an die Teilnahme an der Konsultation gebunden.
 
 (4) Das Ergebnis der Abstimmung und die Anzahl der abgegebenen Stimmen ist den Mitgliedern in Textform zu eröffnen.
 
