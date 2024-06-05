@@ -1,6 +1,6 @@
 ---
 title: "Veranstaltungsordnung / Event Policy Paper"
-date: "May 2023"
+date: "May 2024"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -114,14 +114,16 @@ sie wie folgt vergeben:
 
 (4) Für das EGM sind für folgende Personengruppen Platzkontingente vorzusehen:
 
-    1. Einen Platz für die Delegationsleitung sowie zwei weitere Personen, die durch den Vorstand benannt werden.
+    1. Einen Platz für die Delegationsleitung sowie eine weitere Person, die durch den Vorstand benannt werden.
     2. Jeweils einen Platz für jedes Mitglied von ESN Deutschland e. V.
     3. Sollten dem Verein weitere Plätze zur Verfügung stehen, dann werden sie in folgender Reihenfolge vergeben:
-        1. Mitglieder, die in den letzten zwölf Monaten vor der Veranstaltung dem Verein beigetreten sind
-        2. Mitglieder, die in den letzten zwölf Monaten vor der Veranstaltung eine Mitgliederversammlung ausgerichtet haben
-        3. Vorstandsmitglieder
-        4. Ein Mitglied des ESN Alumni Deutschland e.V.
-        5. Weitere Mitglieder.
+        1. Jeweils ein Platz für jedes Mitglied, das in den letzten zwölf Monaten vor der Veranstaltung dem Verein beigetreten ist.
+        2. Jeweils ein Platz für jedes Mitglied von ESN Deutschland e.V. entsprechend der Rangliste der Punkte.
+        3. Ein Platz für ein Mitglied der nationalen Ebene 
+        4. Jeweils ein Platz für die zehn Mitglieder von ESN Deutschland e.V.  mit den meisten Punkte entsprechend der Rangliste.
+        5. Jeweils ein Platz für jedes Mitglied von ESN Deutschland e.V. entsprechend der Rangliste der Punkte.
+        6. Ein Platz für ein Mitglied der nationalen Ebene. 
+        7. Wiederholung der Schritte 5 bis 7.
 
 # §10 – Haus- und Teilnahmerecht
 (1) Neben den Ausrichtenden der Veranstaltungen hat der vertretungsberechtigte Vorstand Hausrecht, bei regionalen Veranstaltungen auch das zuständige Vorstandsmitglied.
@@ -132,5 +134,8 @@ sie wie folgt vergeben:
 
 (4) Bei internationalen Veranstaltungen beschränkt sich das Recht zum Ausschluss auf die Teilnahme an der deutschen Delegation. 
 
-# §11 – Inkrafttreten
+# §11 - Punktesystem 
+Näheres zur Erstellung der Rangliste und dem Punktesystem kann in einer Punkteordnung geregelt werden. Sie ist als Anhang Teil dieser Ordnung.
+
+# §12 – Inkrafttreten
 Diese Ordnung tritt mit Beschlussfassung durch die Mitgliederversammlung in Kraft.
