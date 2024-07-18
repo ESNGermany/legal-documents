@@ -1,6 +1,6 @@
 ---
 title: "Satzung"
-date: "May 2023"
+date: "July 2024"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -76,7 +76,9 @@ Die Höhe und deren Fälligkeit bestimmt die Mitgliederversammlung in einer Ordn
 
 (6) Die Mitglieder verpflichten sich, die aktuellste ESN Corporate Identity von ESN AISBL zu nutzen und sich eindeutig als ESN-Mitglied zu identifizieren. (Nutzung des Namen: ESN [Mitgliedsname]).
 
-(7) Näheres kann in einer Ordnung geregelt werden.
+(7) Die Mitglieder verpflichten sich mindestens einmal im Jahr, eine Mitgliederversammlung mit Wahlen des lokalen Vorstandes abzuhalten und das Protokoll von dieser dem nationalen Vorstand zeitnah schriftlich zu übermitteln.
+
+(8) Näheres kann in einer Ordnung geregelt werden.
 
 # § 6 - Verfahren bei Nichteinhaltung der Pflichten und Ausschluss
 (1) Im Falle eines Verstoßes gegen die Pflichten eines Mitglieds aus §5, benachrichtigt der Vorstand das Mitglied und den Verwaltungsrat über den Verstoß in Textform.
