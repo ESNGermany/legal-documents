@@ -13,11 +13,13 @@ Als Mitwirkende des Erasmus Student Network Deutschland e.V. (im Folgenden: ESN 
 # 2. Ziele und Verhaltensnormen
 Dieses Dokument basiert auf der Idee, dass alles, was wir im Zusammenhang mit ESN tun, auf gegenseitigem Respekt und Verständnis beruhen soll und wird. Es soll sicherstellen, dass sich jede Person während ihrer Mitwirkung und Beteiligung im ESN sicher, einbezogen und respektiert fühlt.
 Im Wesentlichen verfolgt dieses Dokument drei Ziele:
+
 - Richtlinien für das Verhalten von Freiwilligen zu erstellen; 
 - das Bewusstsein für unerwünschte Verhaltensweisen zu schärfen und diese festzulegen;
 - Klarheit darüber zu schaffen, wie mit Situationen umzugehen ist, in denen unerwünschte Verhaltensweisen auftreten oder vermutet werden.   
 
 Die Verhaltensnormen des Verhaltenskodex sind:
+
 - Respekt vor der inhärenten Würde;
 - Gleichbehandlung;
 - Volle und effektive Beteiligung und Einbeziehung in ESN;
@@ -47,6 +49,7 @@ Für Verstöße, die außerhalb von ESN-Veranstaltungen auftreten, aber dennoch 
 
 ## 5.2. Ablauf
 Nachdem ein Verstoß gemeldet wurde, werden die folgenden Schritte einleitet:
+
 - Persönliche Nachricht: Um der meldenden Person Gewissheit zu geben, dass dem Fall nachgegangen wird, bestätigt dies das CoC-Team kurzfristig;
 - Vertrauensbasis: Geheimhaltung zwischen der meldenden Person und dem CoC-Team wird gewährleistet;
 - Sammlung von Informationen: Relevante Parteien werden identifiziert und um weitere Informationen gebeten;
@@ -59,10 +62,12 @@ Diese Schritte sind ein allgemeiner Leitfaden für den Umgang mit einer Meldung.
 
 ### 5.3.1. Arten von Sanktionen
 Die Umstände, unter denen es zu Verstößen gegen den Verhaltenskodex kommt, sind selten gleich. Obwohl jeder Verstoß ernst genommen wird, können sie unterschiedlich schwerwiegend sein.  Die Sanktionen, die bei einem Verstoß verhängt werden, sind daher nicht pauschal festgelegt. Sie werden vielmehr von Fall zu Fall beurteilt. Folgende Sanktionen können nach Beurteilung des Falles ergriffen werden:
+
 - Erinnerung der Teilnehmenden an ihre Verpflichtung, gemäß dem Verhaltenskodex zu handeln
 - Initiation eines Gesprächs mit beiden Seiten, sowie Ausarbeitung einer Lösungsstrategie
 
 Zusätzlich ist mit folgenden Konsequenzen zu rechnen:
+
 - Verwarnung
 - Ausschluss vom entsprechenden Event
 - Ausschluss von Veranstaltungen und Events, die im Zusammenhang mit ESN Deutschland stehen
@@ -75,6 +80,7 @@ Die Sanktionen können mehrere der vorgenannten Punkte umfassen.
 ### 5.3.2. Verhängung einer Sanktion 
 Die Befugnis, bei Verstößen auf nationaler Ebene eine Sanktion zu verhängen, liegt beim CoC-Team von ESN Deutschland.
 Bei der Festlegung der Art und Schwere einer Sanktion müssen folgende Faktoren berücksichtigt werden:
+
 - Schwere des Verstoßes; 
 - die Vorsätzlichkeit der Handlungen;
 - die Häufigkeit der Verstöße;
@@ -84,6 +90,7 @@ Wenn eine Sanktion verhängt wird, erhält die sanktionierte Person eine offizie
 
 ### 5.3.3. Grundsätze
 Die Verhängung einer Sanktion sollte nicht leichtfertig vorgenommen werden, denn dies könnte für eine Person schwerwiegende Folgen haben. Deshalb sind bei der Entscheidung über die Verhängung einer Sanktion die folgenden Grundsätze zu beachten:
+
 - Faire Anhörung und Gelegenheit zur Vorlage von Beweisen; 
 - Verhältnismäßigkeit der Sanktion;
 - Gleichheit, d.h., dass ähnliche Fälle ähnlich behandelt werden sollten;
