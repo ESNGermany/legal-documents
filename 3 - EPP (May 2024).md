@@ -81,6 +81,15 @@ output:
 
 (7) Tagesgäste können sich im Rahmen der allgemeinen Registrierung anmelden. Angemeldete Tagesgäste sollen vom Vorstand, bei Mitgliederversammlungen von der Versammlungsleitung, oder dem Organisationskomitee und im Zweifel durch die Mitgliederversammlung zu den Plenarsitzungen zugelassen werden, sofern die räumlichen Kapazitäten dies zulassen. Begründete Ausnahmen, insbesondere eine kurzfristigere Anmeldung, sind nur in Absprache mit dem Vorstand, bei Mitgliederversammlungen die Versammlungsleitung und dem Organisationskomitee möglich. Von den Tagesgästen kann ein Unkostenbeitrag erhoben werden.
 
+(8) Zur Nationalen Ebene gehören alle permanenten Positionen, die entweder durch die Mitglieder gewählt werden oder vom Vorstand ernannt werden. Hierzu gehören unter anderem der Vorstand, der Verwaltungsrat, die Versammlungsleitung, die Board Supporter und die Regional Coordinator. Der Vorstand hat eine Prioritätenliste für die Mitglieder der nationalen Ebene zu erstellen und innerhalb der nationalen Ebene zu veröffentlichen, falls ein Platzkontingent für die nationale Ebene vorgesehen ist.
+
+    1. Der Vorstand hat eine Prioritätenliste für die Mitglieder der nationalen Ebene zu erstellen und innerhalb der nationalen Ebene zu veröffentlichen, falls ein Platzkontingent für die nationale Ebene vorgesehen ist.
+
+(9) Bei der EGM kann die Delegationsleitung vor jeder Platzvergabe-Runde den Status der einzelnen Registrierungen überprüfen.
+
+    1. Die Delegationsleitung kontaktiert alle registrierten Personen per Mail, die noch keinen Platz erhalten haben. Diese müssen innerhalb einer Frist (mindestens 7 Tage) antworten oder ein Formular ausfüllen. Sollte die registrierte Person innerhalb der Frist keine Antwort senden, so erlischt ihre Registrierung.
+    2. Das Verfahren darf nicht bei der ersten Platzvergabe-Runde eingesetzt werden.
+
 # §9 – Platzkontingente
 (1) Für Mitgliederversammlungen sind für folgende Personengruppen Platzkontingente
 vorzusehen:
@@ -114,15 +123,15 @@ sie wie folgt vergeben:
 
 (4) Für das EGM sind für folgende Personengruppen Platzkontingente vorzusehen:
 
-    1. Einen Platz für die Delegationsleitung sowie eine weitere Person, die durch den Vorstand benannt werden.
+    1. Zwei Plätze für die Delegationsleitung sowie zwei weitere Personen, die durch den Vorstand benannt werden.
     2. Jeweils einen Platz für jedes Mitglied von ESN Deutschland e. V.
     3. Sollten dem Verein weitere Plätze zur Verfügung stehen, dann werden sie in folgender Reihenfolge vergeben:
-        1. Jeweils ein Platz für jedes Mitglied, das in den letzten zwölf Monaten vor der Veranstaltung dem Verein beigetreten ist.
+        1. Jeweils ein Platz für jedes Mitglied, das eit dem Ende der Registrierungsfrist der letzten Veranstaltung dem Verein beigetreten ist.
         2. Jeweils ein Platz für jedes Mitglied von ESN Deutschland e.V. entsprechend der Rangliste der Punkte.
-        3. Ein Platz für ein Mitglied der nationalen Ebene 
+        3. Drei Plätze für Mitglieder der nationalen Ebene.
         4. Jeweils ein Platz für die zehn Mitglieder von ESN Deutschland e.V.  mit den meisten Punkte entsprechend der Rangliste.
         5. Jeweils ein Platz für jedes Mitglied von ESN Deutschland e.V. entsprechend der Rangliste der Punkte.
-        6. Ein Platz für ein Mitglied der nationalen Ebene. 
+        6. Drei Plätze für Mitglieder der nationalen Ebene. 
         7. Wiederholung der Schritte 5 bis 7.
 
 # §10 – Haus- und Teilnahmerecht

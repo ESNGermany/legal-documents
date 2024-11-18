@@ -27,6 +27,10 @@ output:
 
 (7) Einsprüche der Mitgliedssektionen zur Rangliste oder Punkteauswertung sind innerhalb von 5 Tagen nach Veröffentlichung der Rangliste an den Verwaltungsrat zu richten, welcher diese prüft und eine finale Entscheidung trifft.
 
+(8) Sollten sich Position, Veranstaltungen oder andere Wertungsposition ändern oder hinzukommen, so soll die Delegationsleitung eine Punktewertung unter Beachtung vergleichbarer Wertungen zuweisen.
+
+    1. Die Änderung muss zusammen mit einer Begründung den Mitgliedsektionen mindestens 21 Tage vor Ende des Wertungszeitraums mitgeteilt werden.
+
 # § 3 - Selbstauskunft der Mitgliedssektionen
 (1) Die Mitgliedssektionen sind verpflichtet, für den Erwerb von Punkten die Selbstauskunft auszufüllen. Bei Nichtabgabe wird diese als leer gewertet und die Mitgliedssektion erhält keine Punkte daraus.
 
@@ -34,19 +38,26 @@ output:
 
 (3) Die Mitglieder müssen mindestens 14 Tage Zeit haben, das Formular auszufüllen.
 
-(4) Die Selbstauskunft kann bis zu 21 Tage vor Ende des Wertungszeitraumes gestartet werden.
+(4) Die Selbstauskunft kann bis zu 28 Tage vor Ende des Wertungszeitraumes gestartet werden.
 
 (5) Die Delegationsleitung wertet die Punkte aus.
 
 # § 4 - Wertungszeitraum
 (1) Der Wertungszeitraum der Punkte beträgt ein Jahr.
 
-(2) Für das Erasmus Generation Meeting ist der Zeitraum vom 16. Dezember des Vorjahres bis zum 15. Dezember des aktuellen Jahres und für die Ämter gilt der 15. Dezember als Stichtag.
+(2) Für das Erasmus Generation Meeting ist der Wertungszeitraum vom 16. Dezember des Vorjahres bis zum 15. Dezember des aktuellen Jahres und für die Ämter gilt der 15. Dezember des aktuellen Jahres als Stichtag.
+
+(3) Sollte aufgrund von Fristen dieser Wertungszeitraum zu spät enden, kann er  vorverlegt werden.
+
+    1. Wertungszeitraum und Stichtag für Ämter können unabhängig voneinander verlegt werden.
+    2. Der Stichtag für Ämter sollte nicht vor den 1. Dezember verschoben werden.
+    3. Die Änderung muss zusammen mit einer Begründung den Mitgliedsektionen mindestens 21 Tage vor Ende des neuen Wertungszeitraums mitgeteilt werden.
+
 
 # § 5 - Erwerb von Punkten
 (1) Jede Mitgliedssektion erhält pro Mitglied von ihm, das auf nationaler Ebene ein Amt am Stichtag innehaben, folgende Punkte:
 
-    1. Nationaler Vorstand: 6 Punkte,
+    1. Nationaler Vorstand: 2 Punkte,
     2. Verwaltungsrat: 5 Punkte,
     3. Boardsupporter: 4 Punkte,
     4. Permanente Versammlungsleitung: 4 Punkte,
@@ -85,11 +96,12 @@ output:
 
     1. Einhaltung der Visuellen Identität: 1 Punkt
         1. Nur schwerwiegende Abweichung führen zum Nichterhalt der Punkte
-    2. Regelmäßige Teilnahme an Network & Update Calls: 1 Punkt
-        1. Als regelmäßige Teilnahme zählt zwei pro Semester
+    2. Teilnahme am Network & Update Call: jeweils 0,25 Punkte
     3.  Berichterstattung an den nationalen Vorstand
-        1. Ausfüllen der Quality Assurance Umfrage: 0,5 Punkte.
+        1. Ausfüllen der Quality Assurance Umfrage: insgesamt 2 Punkte.
+            1. Sollte es mehrere Umfragen in einem Wertungszeitraum geben, so ist die Punktzahl je Umfragen die angegebene Gesamtpunktzahl geteilt durch die Anzahl an Umfragen.
         2. Führen des Quality Assurance Calls: 0,5 Punkte.
+            1. Sollte es mehrere Calls in einem Wertungszeitraum geben, so ist die Punktzahl je Call die angegebene Gesamtpunktzahl geteilt durch die Anzahl an Call.
 
 (7) Jede Mitgliedssektion erhält pro gewonnenem Event of the Month 0,5 Punkte und zusätzlich 0,5 Punkte bei Gewinn des Event of the Year.
 
