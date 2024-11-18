@@ -241,8 +241,8 @@ Er besteht aus
 (1) Die Mitglieder des Verwaltungsrats werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. 
 Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen.
 Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder der Mitglieder. 
-Es dürfen maximal zwei lokale Mitglieder pro Mitglied in den Verwaltungsrat gewählt werden. Nicht wählbar sind Mitglieder des Vorstands oder dessen Supporter.
-Ausgeschiedene Mitglieder des Vorstands oder Supporter und Mitglieder der Versammlungsleitung der Mitgliederversammlungen können dem Verwaltungsrat, der ihrem Mandat folgt, nicht angehören.
+Es dürfen maximal zwei lokale Mitglieder pro Mitglied in den Verwaltungsrat gewählt werden. Nicht wählbar sind Mitglieder des Vorstands oder National Coordinator.
+Ausgeschiedene Mitglieder des Vorstands oder National Coordinator und Mitglieder der Versammlungsleitung der Mitgliederversammlungen können dem Verwaltungsrat, der ihrem Mandat folgt, nicht angehören.
 
 (2) Kann ein Posten des Verwaltungsrats bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Verwaltungsrats vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Verwaltungsrats berechtigt, ein neues Verwaltungsratsmitglied bis zur nachfolgenden Mitgliederversammlung in den Verwaltungsrat zu berufen oder die Aufgaben unter sich aufzuteilen.
 

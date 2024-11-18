@@ -59,7 +59,7 @@ output:
 
     1. Nationaler Vorstand: 2 Punkte,
     2. Verwaltungsrat: 5 Punkte,
-    3. Boardsupporter: 4 Punkte,
+    3. National Coordinator: 4 Punkte,
     4. Permanente Versammlungsleitung: 4 Punkte,
     5. Regional Coordinator: 3 Punkte.
 

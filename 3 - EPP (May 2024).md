@@ -39,7 +39,7 @@ output:
 
 (2) Mit der Aufnahme als neues Mitglied soll ebenfalls eine Zuteilung zu einer oder zwei Regionen erfolgen. Die Mitgliederversammlung kann auf Antrag eines Mitgliedes eine andere Zuteilung beschließen. Der Antrag ist zu begründen.
 
-(3) §6 Abs. 2 ist entsprechend mit der Maßgabe anzuwenden, dass nur Mitglieder der jeweiligen Region abstimmungsberechtigt sind und die Koordination durch ein beliebiges Vorstandsmitglied, dessen Supporter oder durch einen Regional Coordinator übernommen werden kann.
+(3) §6 Abs. 2 ist entsprechend mit der Maßgabe anzuwenden, dass nur Mitglieder der jeweiligen Region abstimmungsberechtigt sind und die Koordination durch ein beliebiges Vorstandsmitglied, National Coordinator oder durch einen Regional Coordinator übernommen werden kann.
 
 (4) Für die Teilnehmenden sind Kontingente gemäß §9 Abs. 2 Veranstaltungsordnung vorzusehen.
 
@@ -81,7 +81,7 @@ output:
 
 (7) Tagesgäste können sich im Rahmen der allgemeinen Registrierung anmelden. Angemeldete Tagesgäste sollen vom Vorstand, bei Mitgliederversammlungen von der Versammlungsleitung, oder dem Organisationskomitee und im Zweifel durch die Mitgliederversammlung zu den Plenarsitzungen zugelassen werden, sofern die räumlichen Kapazitäten dies zulassen. Begründete Ausnahmen, insbesondere eine kurzfristigere Anmeldung, sind nur in Absprache mit dem Vorstand, bei Mitgliederversammlungen die Versammlungsleitung und dem Organisationskomitee möglich. Von den Tagesgästen kann ein Unkostenbeitrag erhoben werden.
 
-(8) Zur Nationalen Ebene gehören alle permanenten Positionen, die entweder durch die Mitglieder gewählt werden oder vom Vorstand ernannt werden. Hierzu gehören unter anderem der Vorstand, der Verwaltungsrat, die Versammlungsleitung, die Board Supporter und die Regional Coordinator. Der Vorstand hat eine Prioritätenliste für die Mitglieder der nationalen Ebene zu erstellen und innerhalb der nationalen Ebene zu veröffentlichen, falls ein Platzkontingent für die nationale Ebene vorgesehen ist.
+(8) Zur Nationalen Ebene gehören alle permanenten Positionen, die entweder durch die Mitglieder gewählt werden oder vom Vorstand ernannt werden. Hierzu gehören unter anderem der Vorstand, der Verwaltungsrat, die Versammlungsleitung, die National Coordinator und die Regional Coordinator. Der Vorstand hat eine Prioritätenliste für die Mitglieder der nationalen Ebene zu erstellen und innerhalb der nationalen Ebene zu veröffentlichen, falls ein Platzkontingent für die nationale Ebene vorgesehen ist.
 
     1. Der Vorstand hat eine Prioritätenliste für die Mitglieder der nationalen Ebene zu erstellen und innerhalb der nationalen Ebene zu veröffentlichen, falls ein Platzkontingent für die nationale Ebene vorgesehen ist.
 
@@ -101,7 +101,7 @@ vorzusehen:
     5. die Mitglieder des Verwaltungsrats,
     6. mindestens zwei Vertretende des ESN Alumni Deutschland e.V.,
     7. mindestens fünf internationale Gäste, davon zwei Plätze bevorzugt für Gäste von Mitgliedern des International Exchange Erasmus Student Network France (ESN France),
-    8. die Supporter des Vorstandes, wenn sie zur Tagesordnung beitragen,
+    8. die National Coordinator, wenn sie zur Tagesordnung beitragen,
     9. mindestens zwei Mitglieder von Teams und Working Groups, wenn sie zur Tagesordnung beitragen,
     10. mindestens ein Regional Coordinator pro Region ESN Deutschlands.
 

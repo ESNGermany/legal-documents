@@ -73,7 +73,7 @@ Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V. (nachfo
 
 (1) Die Aufgaben des Vorstands gelten wie in §8 der Satzung beschrieben. Die detaillierte Aufgabenverteilung obliegt dem Vorstand.
 
-(2) Der Vorstand soll Supporter und kann Teams und Working Groups zur Beratung und Unterstützung der Vereinstätigkeit einsetzen.
+(2) Der Vorstand soll National Coordinator und kann Teams und Working Groups zur Beratung und Unterstützung der Vereinstätigkeit einsetzen.
 
 (3) Der Vorstand tritt sein Amt am 1.7. des Jahres an.
 
@@ -179,22 +179,16 @@ Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 ## §13 – Vertraulichkeit
 
-Alle Mitglieder des Vorstandes, des Verwaltungsrates, der Versammlungsleitung, die Supporter des Vorstands und die Regional Coordinator unterzeichnen vor Beginn ihrer Amtszeit, die Kassenprüfer vor Beginn ihrer Tätigkeit, eine Vertraulichkeitserklärung gemäß Anhang dieser Ordnung.
+Alle Mitglieder des Vorstandes, des Verwaltungsrates, der Versammlungsleitung, die National Coordinator und die Regional Coordinator unterzeichnen vor Beginn ihrer Amtszeit, die Kassenprüfer vor Beginn ihrer Tätigkeit, eine Vertraulichkeitserklärung gemäß Anhang dieser Ordnung.
 
 
 # C. SUPPORT STRUCTURES
 
-## §14 - Board Supporter
+## §14 - National Coordinators
 
-(1) Folgende Supporter sollen vom Vorstand ernannt werden werden:
+(1) Die National Coordinators werden vom Vorstand ernannt.
 
-    1. International Affairs Officer
-    2. Social Media Officer
-    3. Education Officer
-    4. Social Impact Oficer
-
-(2) Supporter treten ihr Amt zeitgleich mit dem Vorstand oder unverzüglich nach ihrer Ernennung an. Die Amtszeit der Supporter richtet
-sich nach der Amtszeit des Vorstandes.
+(2) Die National Coordinators treten ihr Amt unverzüglich nach ihrer Ernennung an. Die Amtszeit der National Coordinators richtet sich nach der Amtszeit des Vorstandes.
 
 ## §15 - Regionale Koordination
 
@@ -217,7 +211,7 @@ sich nach der Amtszeit des Vorstandes.
 
 ## §16 - Wahlleitung und Wahlhelfende
 
-(1) Die Leitung der Wahlen und Abstimmungen auf Mitgliederversammlungen obliegt der vorsitzenden Person des Verwaltungsrates und der vorsitzenden Person der Versammlungsleitung oder den von ihnen in Textform benannten Vertretenden. Die Vertretung kann jede volljährige, natürliche Person ausüben. Ausgenommen hiervon sind Delegierte, Mitglieder des Vorstandes und dessen Supporter sowie Personen, die selbst für ein Vereinsamt kandidieren oder über die ein Beschluss gefasst werden soll.
+(1) Die Leitung der Wahlen und Abstimmungen auf Mitgliederversammlungen obliegt der vorsitzenden Person des Verwaltungsrates und der vorsitzenden Person der Versammlungsleitung oder den von ihnen in Textform benannten Vertretenden. Die Vertretung kann jede volljährige, natürliche Person ausüben. Ausgenommen hiervon sind Delegierte, Mitglieder des Vorstandes und National Coordinator sowie Personen, die selbst für ein Vereinsamt kandidieren oder über die ein Beschluss gefasst werden soll.
 
 (2) Zu den Aufgaben der Wahlleitung gehört die neutrale Information der Delegierten über die Abstimmungsgegenstände, die ordnungsgemäße Vorbereitung der Wahlen, die Leitung der Wahlgänge sowie die Feststellung des Wahlergebnisses.
 
