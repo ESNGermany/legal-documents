@@ -47,6 +47,9 @@ Wenn Freiwillige sich nicht wohl dabei fühlen, den Ombudspersonen etwas zu meld
 Bei Verstoß gegen diesen Kodex auch außerhalb von Veranstaltungen kann der Vorfall an codeofconduct@esn-germany.de oder über das Kontaktformular, das über www.esn-germany.de/coc zu finden ist, gemeldet werden. Die Übermittlung ist vertraulich und wird nur vom President des ESN Deutschland und Main Chair des Verwaltungsrats eingesehen. Diese beiden Personen bilden das CoC-Team.
 Für Verstöße, die außerhalb von ESN-Veranstaltungen auftreten, aber dennoch in den Bereich von ESN Deutschland fallen, gilt das gleiche Verfahren. 
 
+### 5.1.3 Zusätzliche Mediatoren
+Das CoC-Team, sowie die Ombudspersonen können individuell je Verstoß weitere Mediatoren hinzuziehen, falls sie es als angebracht erachten. Hierzu können sich interessierte Personen beim CoC-Team melden, um der Gruppe an verfügbaren Mediatoren im Vorfeld beizutreten.
+
 ## 5.2. Ablauf
 Nachdem ein Verstoß gemeldet wurde, werden die folgenden Schritte einleitet:
 
