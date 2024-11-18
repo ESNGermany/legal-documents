@@ -77,6 +77,8 @@ Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V. (nachfo
 
 (3) Der Vorstand tritt sein Amt am 1.7. des Jahres an.
 
+(4) Der jährliche Aktionsplan, der im Rahmen der Pflichten gegenüber ESN AISBL erstellt und eingereicht werden muss, ist ebenfalls bis zur nächsten Mitgliederversammlung nach Einreichung an die Sektionen zu übermitteln.
+
 ## §7 - Aufgaben des Verwaltungsrates
 
 (1) Der vorsitzenden Person des Verwaltungsrates obliegt dessen Repräsentation nach außen sowie seine interne Koordination und die Überprüfung der Arbeitsweise des Vorstands und der unterstützenden Personen im Sinne des §14 und 15. Zudem obliegt der Person die Mitwirkung an der Strategie des ESN Deutschland e.V.
