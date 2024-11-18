@@ -176,7 +176,9 @@ Weitere Regelungen bezüglich der Beschlussfassung bei Online-Mitgliederversamml
 # § 14 - Beschlussfassung der Mitgliederversammlung
 (1) Das Mitglied wird in der Versammlung durch eine delegierte Person vertreten. 
 Diese kann nicht mehr als zwei Mitglieder vertreten. 
-Delegierter kann jede natürliche Person sein. Die Vertretung ist dem Vorstand und der Versammlungsleitung vor Beginn der Mitgliederversammlung durch das Mitglied, repräsentiert durch dessen Vorsitzenden in Textform mitzuteilen.
+Delegierter können nur Mitglieder von Mitgliedern oder Mitglieder von ESN Alumni Deutschland e.V. sein.
+Ein Mitglied kann durch seine Mitglieder maximal drei andere Mitglieder vertreten.
+Die Vertretung ist dem Vorstand und der Versammlungsleitung vor Beginn der Mitgliederversammlung durch das Mitglied, repräsentiert durch dessen Vorsitzenden in Textform mitzuteilen.
 
 (2) Die Versammlung ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder vertreten ist.
 
