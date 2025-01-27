@@ -208,9 +208,19 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
 
 ## §15 - Regionale Koordination
 
-(1) Jede Region im Sinne des EPP soll zwei Personen für die regionale Koordination (Regional Coordinator) auf den entsprechenden LPs im Herbst nominieren.
+(1) Die Mitglieder sind folgenden Regionen zugeteilt, wobei eine Zuteilung maximal zu zwei Regionen möglich ist:
 
-(2) Als Regional Coordinator sollen nur lokale Mitglieder der Mitglieder der jeweiligen Region ernannt werden. 
+    1. Region Nord: ESN Braunschweig, ESN Göttingen, ESN LEI Greifswald, ESN Hamburg, ESN Hannover, ESN Hildesheim, ESN Kiel, ESN Lübeck, ESN LEI Rostock;
+    2. Region Ost: ESN Berlin, ESN HTW Dresden, ESN TU Dresden, ESN Frankfurt/Oder, ESN LEI Greifswald, ESN Jena, ESN Halle (Saale), ESN LEI Potsdam;
+    3. Region West: ESN Bielefeld, ESN Bochum, ESN Bonn, ESN Dortmund, ESN Düsseldorf, ESN Koblenz, ESN Köln, ESN Siegen, ESN Witten/Herdecke;
+    4. Region Süd-Ost: ESN Augsburg, ESN Bayreuth, ESN Deggendorf, ESN Ingolstadt, ESN MESA München, ESN TUMi München, ESN Regensburg;
+    5. Region Süd-West: ESN Darmstadt, ESN Frankfurt am Main, ESN Freiburg, ESN Gießen, ESN Heidelberg, ESN STEP Kaiserslautern, ESN Karlsruhe, ESN Konstanz, ESN IPAS Landau, ESN Mainz, ESN VISUM Mannheim, ESN Pforzheim, ESN Saarbrücken, ESN Stuttgart.
+
+(2) Mit der Aufnahme als neues Mitglied soll ebenfalls eine Zuteilung zu einer oder zwei Regionen erfolgen. Die Mitgliederversammlung kann auf
+
+(3) Jede Region im Sinne des EPP soll zwei Personen für die regionale Koordination (Regional Coordinator) auf den entsprechenden LPs im Herbst nominieren.
+
+(4) Als Regional Coordinator sollen nur lokale Mitglieder der Mitglieder der jeweiligen Region ernannt werden. 
 
     1. Auf Lokalen Plattformen, nach §4 der Veranstaltungsordnung, wird über die Nominierung von einem bis zwei Regional Coordinators abgestimmt. 
     2. Abstimmungsberechtigt bei der Nominierung sind nur die Mitglieder der entsprechenden Region. Jedes Mitglied hat eine Stimme, die einen Tag vor der Nominierung durch das Mitglied, repräsentiert durch dessen Vorsitzenden, in Textform mitzuteilen ist. Jeder Delegierter kann nicht mehr als zwei Mitglieder vertreten. Delegierter können nur lokale Mitglieder von Mitgliedern der entsprechenden Region sein. Ein Mitglied kann durch seine lokalen Mitglieder maximal drei andere Mitglieder vertreten.
@@ -218,11 +228,11 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
     4. Die Ernennung der Regional Coordinators obliegt dem Vorstand.
     5. Sollte der Vorstand, in begründeten Fällen, keine nominierte Person in das Amt des Regional Coordinators ernennen oder falls es keine Nominierungen für das Amt gab, kann entweder eine andere Person ernannt oder der Nominierungsprozess online neu gestartet werden.
 
-(3) Mit ihrer Ernennung beginnen die Regional Coordinator ihre Amtszeit, welche bis zur Ernennung einer nachfolgenden Person andauert. Im Einzelfall kann von diesem Grundsatz abgewichen werden.
+(5) Mit ihrer Ernennung beginnen die Regional Coordinator ihre Amtszeit, welche bis zur Ernennung einer nachfolgenden Person andauert. Im Einzelfall kann von diesem Grundsatz abgewichen werden.
 
-(4) Diese sollen die Zusammenarbeit in ihrer Region koordinieren, als Ansprechpersonen für die Position Vice President in Bezug auf regionale Angelegenheiten dienen und den Wissenstransfer in der Region fördern.
+(6) Diese sollen die Zusammenarbeit in ihrer Region koordinieren, als Ansprechpersonen für die Position Vice President in Bezug auf regionale Angelegenheiten dienen und den Wissenstransfer in der Region fördern.
 
-(5) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen des Vereins handeln.
+(7) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen des Vereins handeln.
 
 
 # D. WAHLEN
