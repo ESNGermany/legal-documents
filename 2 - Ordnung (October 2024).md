@@ -103,17 +103,19 @@ Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 ## §9 – Finanzen
 
-(1) Der Vorstand erarbeitet unter Verantwortung des Finanzvorstands für das nächstfolgende Geschäftsjahr einen Wirtschaftsplan. Dieser muss klar strukturiert sein und die wesentlichen Positionen von Einnahmen und Ausgaben wiedergeben. Den Vereinsorganen sind ausreichende Mittel zur Erfüllung ihrer Aufgaben zuzuweisen.
+(1) Der Vorstand erarbeitet unter Verantwortung des Finanzvorstands für den Zeitraum des nachfolgenden Vorstandsmandats einen Wirtschaftsplan. Dieser muss klar strukturiert sein und die wesentlichen Positionen von Einnahmen und Ausgaben wiedergeben. Den Vereinsorganen sind ausreichende Mittel zur Erfüllung ihrer Aufgaben zuzuweisen.
 
-(2) Der Wirtschaftsplan ist dem Verwaltungsrat spätestens am 14. September zur Genehmigung vorzulegen. Der Verwaltungsrat muss diesen bis spätestens am 30. September genehmigen oder zur Überarbeitung an den Finanzvorstand zurückverweisen. Versagt der Verwaltungsrat nach erneuter Vorlage innerhalb von 14 Tagen die Genehmigung, so hat er hierzu in einer Stellungnahme mit den Verweigerungsgründen auch Verbesserungsvorschläge zu erarbeiten.
+(2) Der Wirtschaftsplan ist dem Verwaltungsrat spätestens am 31. März zur Genehmigung vorzulegen. Der Verwaltungsrat muss diesen bis spätestens am 14. April genehmigen oder zur Überarbeitung an den Finanzvorstand zurückverweisen. Versagt der Verwaltungsrat nach erneuter Vorlage innerhalb von 14 Tagen die Genehmigung, so hat er hierzu in einer Stellungnahme mit den Verweigerungsgründen auch Verbesserungsvorschläge zu erarbeiten.
 
-(3) Der Wirtschaftsplan ist mit Stellungnahme des Finanzvorstandes und des Verwaltungsrates den Mitgliedern spätestens mit der Einladung zu der nächstfolgenden regulären Mitgliederversammlung vorzulegen. Diese können ihn mit einfacher Mehrheit im Sinne der Verbesserungsvorschläge des Verwaltungsrates oder auch ihrer eigenen abändern.
+(3) Der Wirtschaftsplan ist mit Stellungnahme des Finanzvorstandes und des Verwaltungsrates den Mitgliedern spätestens mit der Einladung zu der nächstfolgenden regulären Mitgliederversammlung vorzulegen. Diese muss ihn mit einfacher Mehrheit genehmigen oder können ihn mit einfacher Mehrheit im Sinne der Verbesserungsvorschläge des Verwaltungsrates oder auch ihrer eigenen abändern.
 
 (4) Entsprechendes gilt für die Anpassungen des Wirtschaftsplanes im Verlauf des Geschäftsjahres, wobei die Erstvorlage an den Verwaltungsrat mindestens fünf Wochen vor dem Anfang der nächsten Mitgliederversammlung erfolgen soll.
 
 (5) Beabsichtigte Ausgaben des Vorstandes, die eine Gesamtsumme von 500 Euro überschreiten, sind dem Verwaltungsrat so früh wie möglich anzuzeigen. Der Verwaltungsrat kann die Mitglieder über die beabsichtigte Ausgabe informieren.
 
 (6) Reisekosten des Vorstandes, des Verwaltungsrates und bei Mitgliederversammlungen der Versammlungsleitung sind auf Antrag und nach Einreichung der Belege zu erstatten. Reisekosten umfassen eventuelle Teilnahmebeiträge für Veranstaltungen sowie Fahrtkosten. Übersteigen die Kosten unter Beachtung von Sparsamkeit und Wirtschaftlichkeit das notwendige Maß, erfolgt nur eine anteilige Erstattung. Nebenabsprachen zur Aufteilung der Kostenerstattung sind nicht zulässig.
+
+(7) Der Finanzvorstand ist verpflichtet, auf jeder regulären Mitgliederversammlung einen aktuellen Bericht über den Stand der Einnahmen und Ausgaben im Vergleich zum verabschiedeten Wirtschaftsplan abzugeben. Dieser Bericht muss die einzelnen Positionen des Plans benennen und die Abweichungen von den vorgesehenen Beträgen erläutern.
 
 ## §10 – Rechenschaftsberichte
 
