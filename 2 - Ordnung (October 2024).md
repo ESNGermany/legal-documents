@@ -208,13 +208,15 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
 
 ## §15 - Regionale Koordination
 
-(1) Jede Region im Sinne des EPP soll mindestens eine Person für die regionale Koordination (Regional Coordinator) auf den entsprechenden LPs im Herbst nominieren.
+(1) Jede Region im Sinne des EPP soll zwei Personen für die regionale Koordination (Regional Coordinator) auf den entsprechenden LPs im Herbst nominieren.
 
 (2) Als Regional Coordinator sollen nur lokale Mitglieder der Mitglieder der jeweiligen Region ernannt werden. 
 
-    1. Auf Lokalen Plattformen, nach §4 der Veranstaltungsordnung, wird über die Nominierung von einem bis zwei Regional Coordinators abgestimmt. Diese Nominierungen werden dem National Board weitergeleitet, dem die Ernennung der Regional Coordinators obliegt. 
-    2. Sollte das National Board, in begründeten Fällen, keine nominierte Person in das Amt des Regional Coordinators ernennen oder falls es keine Nominierungen für das Amt gab, kann entweder eine andere Person ernannt oder der Nominierungsprozess online neu gestartet werden.
-    3. Abstimmungsberechtigt bei der Nominierung sind nur die Mitglieder der entsprechenden Region. Jedes Mitglied hat eine Stimme, wobei Stimmen delegiert werden können. 
+    1. Auf Lokalen Plattformen, nach §4 der Veranstaltungsordnung, wird über die Nominierung von einem bis zwei Regional Coordinators abgestimmt. 
+    2. Abstimmungsberechtigt bei der Nominierung sind nur die Mitglieder der entsprechenden Region. Jedes Mitglied hat eine Stimme, die einen Tag vor der Nominierung durch das Mitglied, repräsentiert durch dessen Vorsitzenden, in Textform mitzuteilen ist. Jeder Delegierter kann nicht mehr als zwei Mitglieder vertreten. Delegierter können nur lokale Mitglieder von Mitgliedern der entsprechenden Region sein. Ein Mitglied kann durch seine lokalen Mitglieder maximal drei andere Mitglieder vertreten.
+    3. Spätestens zwei (2) Wochen nach der Nominierung muss dem Vorstand und den Mitgliedern der Region das Protokoll der Wahl geschickt werden.
+    4. Die Ernennung der Regional Coordinators obliegt dem Vorstand.
+    5. Sollte der Vorstand, in begründeten Fällen, keine nominierte Person in das Amt des Regional Coordinators ernennen oder falls es keine Nominierungen für das Amt gab, kann entweder eine andere Person ernannt oder der Nominierungsprozess online neu gestartet werden.
 
 (3) Mit ihrer Ernennung beginnen die Regional Coordinator ihre Amtszeit, welche bis zur Ernennung einer nachfolgenden Person andauert. Im Einzelfall kann von diesem Grundsatz abgewichen werden.
 
