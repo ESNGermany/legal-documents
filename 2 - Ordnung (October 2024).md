@@ -190,7 +190,21 @@ Alle Mitglieder des Vorstandes, des Verwaltungsrates, der Versammlungsleitung, d
 
 (1) Die National Coordinators werden vom Vorstand ernannt.
 
-(2) Die National Coordinators treten ihr Amt unverzüglich nach ihrer Ernennung an. Die Amtszeit der National Coordinators richtet sich nach der Amtszeit des Vorstandes.
+(2) Folgende National Coordinators sollen vom Vorstand ernannt werden werden:
+
+    1. International Coordinator
+    2. Liaison Office
+    3. Section Care Coordinator
+    4. HR Manager
+    5. Training Coordinator
+    6. Partnership Coordinator
+    7. ESNcard Coordinator
+    8. Social Media Coordinator
+    9. IT Coordinator
+
+Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden.
+
+(3) Die National Coordinators treten ihr Amt unverzüglich nach ihrer Ernennung an. Die Amtszeit der National Coordinators richtet sich nach der Amtszeit des Vorstandes oder der Amtszeit des Verwaltungsrats.
 
 ## §15 - Regionale Koordination
 

@@ -111,13 +111,11 @@ Organe des Vereins sind
 (1) Der Vorstand besteht aus
 
     1. einer Person für den Vorsitz (President),
-    2. einer Person für den stellvertretenden Vorsitz (Vice-President),
-    3. einer Person für den Finanzvorstand (Treasurer),
-    4. einer Person für das Management kommerzieller Partnerschaften (Partnership Manager),
+    2. einer Person für den stellvertretenden Vorsitz für Verwaltung (Vice-President for Governance),
+    3. einer Person für den stellvertretenden Vorsitz für Entwicklung (Vice-President for Development),
+    4. einer Person für den Finanzvorstand (Treasurer),
     5. einer Person für den Kommunikationsvorstand (Communication Manager).
     6. einer Person für das Veranstaltungsmanagement (Event Manager),
-    7. einer Person für das Projektmanagement (Project Manager),
-    8. einer Person für IT Angelegenheiten (IT Manager),
 
 (2) Die Mitgliederversammlung kann beschließen, dass dem Vorstand bis zu drei weitere stimmberechtigte Vorstandsmitglieder angehören sollen.
 
@@ -132,7 +130,7 @@ folgende Aufgaben:
 
 (2) Der Vorstand führt die Vereinsgeschäfte ehrenamtlich.
 
-(3) Die Vorstandsmitglieder, die den Vorsitz, den stellvertretenden Vorsitz oder den Finanzvorstand innehaben, vertreten den Verein nach § 26 BGB jeweils alleine.
+(3) Die Vorstandsmitglieder, die den Vorsitz, den stellvertretenden Vorsitz für Verwaltung, den stellvertretenden Vorsitz für Entwicklung oder den Finanzvorstand innehaben, vertreten den Verein nach § 26 BGB jeweils alleine.
 
 # § 10 - Wahl des Vorstands
 (1) Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen. Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder der Mitglieder.
