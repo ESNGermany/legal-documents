@@ -216,7 +216,7 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
     4. Region Süd-Ost: ESN Augsburg, ESN Bayreuth, ESN Deggendorf, ESN Ingolstadt, ESN MESA München, ESN TUMi München, ESN Regensburg;
     5. Region Süd-West: ESN Darmstadt, ESN Frankfurt am Main, ESN Freiburg, ESN Gießen, ESN Heidelberg, ESN STEP Kaiserslautern, ESN Karlsruhe, ESN Konstanz, ESN IPAS Landau, ESN Mainz, ESN VISUM Mannheim, ESN Pforzheim, ESN Saarbrücken, ESN Stuttgart.
 
-(2) Mit der Aufnahme als neues Mitglied soll ebenfalls eine Zuteilung zu einer oder zwei Regionen erfolgen. Die Mitgliederversammlung kann auf
+(2) Mit der Aufnahme als neues Mitglied soll ebenfalls eine Zuteilung zu einer oder zwei Regionen erfolgen. Die Mitgliederversammlung kann auf Antrag eines Mitgliedes eine andere Zuteilung beschließen. Der Antrag ist zu begründen.
 
 (3) Jede Region im Sinne des EPP soll zwei Personen für die regionale Koordination (Regional Coordinator) auf den entsprechenden LPs im Herbst nominieren.
 
