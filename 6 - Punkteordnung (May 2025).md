@@ -1,6 +1,6 @@
 ---
 title: "Punkteordnung"
-date: "October 2024"
+date: "May 2025"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -75,7 +75,7 @@ output:
     4. Nationale Arbeitsgruppe: 0.5 Punkte
         1. Eine Mitgliedssektion kann maximal 2 Punkte in dieser Kategorie erlangen.
 
-(3) Jede Mitgliedssektion erhält folgende Punkte pro Teilnahme an nationalen und internationalen Veranstaltungen, wenn mindestens ein Mitglied von ihm teilnimmt, welches kein Amt auf nationaler Ebene innehat:
+(3) Jede Mitgliedssektion erhält folgende Punkte pro Teilnahme an nationalen und internationalen Veranstaltungen, wenn mindestens ein Mitglied von ihm teilnimmt, welches nicht durch sein Amt auf nationaler Ebene den Platz zur Teilnahme erhalten hat:
 
     1. Nationale Mitgliederversammlung: 2 Punkte,
         1. Eine Mitgliedssektion erhält 0,5 Punkte für das Einreichen der Stimmdelegation, solange diese nicht vom Präsident übernommen wird, in diesem Falle erhält die Mitgliedssektion automatisch 0,5 Punkte.
