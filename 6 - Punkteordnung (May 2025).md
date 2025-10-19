@@ -101,7 +101,7 @@ output:
     3.  Berichterstattung an den nationalen Vorstand
         1. Ausfüllen der Quality Assurance Umfrage: insgesamt 2 Punkte.
             1. Sollte es mehrere Umfragen in einem Wertungszeitraum geben, so ist die Punktzahl je Umfragen die angegebene Gesamtpunktzahl geteilt durch die Anzahl an Umfragen.
-        2. Führen des Quality Assurance Calls: 0,5 Punkte.
+        2. Führen des Quality Assurance Calls: insgesamt 3 Punkte.
             1. Sollte es mehrere Calls in einem Wertungszeitraum geben, so ist die Punktzahl je Call die angegebene Gesamtpunktzahl geteilt durch die Anzahl an Call.
 
 (7) Jede Mitgliedssektion erhält pro gewonnenem Event of the Month 0,5 Punkte und zusätzlich 0,5 Punkte bei Gewinn des Event of the Year.
