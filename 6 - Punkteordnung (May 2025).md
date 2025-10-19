@@ -85,6 +85,7 @@ output:
     4. Erasmus Generation Meeting: 0,5 Punkte.
 
 (4) Jede Mitgliedssektion erhält für die Teilnahme an der Konsultation mit einem Delegierten  0,5 Punkte und 0,5 Punkte für das Abgeben der Stimme bei der folgenden Abstimmung.
+
 (5) Jede Mitgliedssektion erhält folgende Punkte pro Veranstaltung, die es auf nationaler oder internationaler Ebene organisiert. Sind mehrere Mitgliedssektionen an der Organisation beteiligt, werden die verfügbaren Punkte zwischen ihnen aufgeteilt. Sollte es keine anderweitige Absprache geben, werden die Punkte dabei zu gleichen Teilen aufgeteilt.
 
     1. Nationale Mitgliederversammlung: 6 Punkte
