@@ -30,7 +30,35 @@ Dieser Verhaltenskodex gilt für alle Freiwilligen, Studierenden und Dritte, sob
 Dies umfasst, ist allerdings nicht beschränkt auf, jegliche Art von physischen Treffen sowie sämtliche Online-Aktivitäten, sobald der Kontakt aufgrund von Aufgaben für oder im Zusammenhang mit ESN Deutschland und/oder dessen Sektionen stattfindet.
 
 # 4. Die Verhaltensgrundsätze
-Wir respektieren den Freiraum jeder Person, ganz gleich wie groß er sein mag und sind uns bewusst, dass Einzelne ein anderes Empfinden von menschlicher Nähe haben. Wir verurteilen jegliche Formen körperlicher Übergriffe; Freizügigkeit und bestimmte Verhaltensweisen sind keine Einladung. Wir verurteilen jegliche Formen der psychischen und physischen Gewalt. Darunter sind alle Äußerungen, Handlungen sowie Haltungen zu verstehen, die einen Mitmenschen beleidigen, herabsetzen, überfordern oder das Gefühl von eigener Wertlosigkeit vermitteln. Wir verurteilen jegliche Formen der Diskriminierung nach Artikel 2 der Allgemeinen Erklärung der Menschenrechte. Wir allein sind für unser Verhalten verantwortlich, Drogen und andere äußere Einflüsse dürfen keine Entschuldigung sein. Wir pflegen einen offenen, sachlichen, transparenten, inklusiven und ehrlichen Diskurs ohne Aggressionen. Wir fördern und fordern einen stets respektvollen, hilfsbereiten und empathischen Umgang miteinander und übernehmen Verantwortung für das Wohl anderer Personen. Wir gehen mit dem Eigentum und Besitz anderer pfleglich, sorgsam und verantwortungsvoll um. Wir sind uns der potenziellen Haftung bei vorsätzlichen und fahrlässigen Schäden bewusst.
+Wir respektieren den Freiraum jeder Person, ganz gleich wie groß er sein mag und sind uns bewusst, dass Einzelne ein anderes Empfinden von menschlicher Nähe haben. Wir verurteilen jegliche Formen körperlicher Übergriffe; Freizügigkeit und bestimmte Verhaltensweisen sind keine Einladung. Wir verurteilen jegliche Formen der psychischen und physischen Gewalt. Darunter sind alle Äußerungen, Handlungen sowie Haltungen zu verstehen, die einen Mitmenschen beleidigen, herabsetzen, überfordern oder das Gefühl von eigener Wertlosigkeit vermitteln. Wir verurteilen jegliche Formen der Diskriminierung nach Artikel 2 der Allgemeinen Erklärung der Menschenrechte. Wir allein sind für unser Verhalten verantwortlich, Drogen und andere äußere Einflüsse dürfen keine Entschuldigung sein. Wir pflegen einen offenen, sachlichen, transparenten, inklusiven und ehrlichen Diskurs ohne Aggressionen. Wir fördern und fordern einen stets respektvollen, hilfsbereiten und empathischen Umgang miteinander und übernehmen Verantwortung für das Wohl anderer Personen. Wir gehen mit dem Eigentum und Besitz anderer pfleglich, sorgsam und verantwortungsvoll um. Wir sind uns der potenziellen Haftung bei vorsätzlichen und fahrlässigen Schäden bewusst. Es ist uns wichtig, dass diese Standards nicht nur nach außen, sondern auch innerhalb unserer Organisation gelebt werden. Jede Form von Verhalten, das diesen Grundsätzen widerspricht, ist untersagt. Meldungen über solches Verhalten können die in Absatz 5 vorgesehenen Verfahren auslösen.
+
+## 4.1. Diskriminierung
+Wir sind ein Ort, an dem jede Person gleich behandelt wird und keinerlei diskriminierendes Verhalten toleriert wird. Unter Diskriminierung verstehen wir, entsprechend der gängigen Definition, das ungleiche, insbesondere schlechtere Behandeln einer Person oder Gruppe aufgrund bestimmter Eigenschaften oder Präferenzen.
+
+Zu diesen Eigenschaften oder Präferenzen zählen unter anderem, jedoch nicht ausschließlich:
+
+- Alter,
+- Behinderungen jeder Art,
+- chronische oder akute Krankheiten,
+- Bildungs- und sozioökonomischer Hintergrund,
+- Ethik und Werte, politische oder religiöse Überzeugungen,
+- Geschlecht, einschließlich Geschlechtsidentität oder -ausdruck,
+- sexuelle Orientierung,
+- Sprache und Sprachkenntnisse,
+- äußeres Erscheinungsbild,
+- Hautfarbe, Nationalität, Ethnizität oder Herkunft,
+- Rolle oder Erfahrung innerhalb der Organisation,
+- die Entscheidung, Alkohol zu konsumieren oder darauf zu verzichten.
+
+## 4.2. Verbotenes Verhalten
+Das bloße Verbot von Diskriminierung reicht nicht aus, um ein inklusives Umfeld sicherzustellen. Um eine Atmosphäre des Respekts und der Würde zu schaffen, sind daher folgende Verhaltensweisen ausdrücklich untersagt:
+
+- Mobbing,
+- Belästigung,
+- Einschüchterung,
+- körperliche Gewalt,
+- Missbrauch,
+- Verleumdung.
 
 # 5. Abläufe und Sanktionen
 Die Durchsetzung des Verhaltenskodex kann nur erfolgen, wenn Verstöße gemeldet werden. Aus diesem Grund werden alle dazu ermutigt, einen mutmaßlichen Verstoß zu melden, wenn man Zeuge eines mutmaßlichen Verstoßes wird oder davon Kenntnis erlangt. 
@@ -49,6 +77,11 @@ Für Verstöße, die außerhalb von ESN-Veranstaltungen auftreten, aber dennoch 
 
 ### 5.1.3 Zusätzliche Mediatoren
 Das CoC-Team, sowie die Ombudspersonen können individuell je Verstoß weitere Mediatoren hinzuziehen, falls sie es als angebracht erachten. Hierzu können sich interessierte Personen beim CoC-Team melden, um der Gruppe an verfügbaren Mediatoren im Vorfeld beizutreten.
+
+### 5.1.4 Schutz vor Vergeltung
+Es ist von zentraler Bedeutung, dass sich unsere Mitglieder beim Melden eines Vorfalls sicher fühlen. Jegliche Vergeltungen gegenüber Personen, die in gutem Glauben eine Beschwerde eingereicht oder an der Aufklärung eines Vorfalls mitgewirkt haben, werden nicht toleriert.
+
+Solches Verhalten kann denselben Sanktionen unterliegen, wie sie in 5.3.1. vorgesehen sind, unabhängig davon, ob sich die ursprünglichen Vorwürfe letztlich als begründet erweisen oder nicht.
 
 ## 5.2. Ablauf
 Nachdem ein Verstoß gemeldet wurde, werden die folgenden Schritte einleitet:
