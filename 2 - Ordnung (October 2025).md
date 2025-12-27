@@ -244,7 +244,9 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
 
 (6) Diese sollen die Zusammenarbeit in ihrer Region koordinieren, als Ansprechpersonen für die Position Vice President in Bezug auf regionale Angelegenheiten dienen und den Wissenstransfer in der Region fördern.
 
-(7) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen des Vereins handeln.
+(7) Innerhalb von vier (4) Wochen nach Ende ihres jeweiligen Mandats sollen die Regional Coordinators einen Rechenschaftsbericht anfertigen und an die Mitglieder aus ihrer Region sowie den Vorstand senden.
+
+(8) Ohne eine ausdrückliche, vom Einzelfall abhängige Zustimmung dürfen sie nicht im Namen des Vereins handeln.
 
 
 # D. WAHLEN
