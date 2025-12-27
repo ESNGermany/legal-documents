@@ -105,7 +105,8 @@ Organe des Vereins sind
 
 1. der Vorstand,
 2. die Mitgliederversammlung,
-3. der Verwaltungsrat.
+3. der Verwaltungsrat,
+4. der Schlichtungsausschuss.
 
 # § 8 – Vorstand
 (1) Der Vorstand besteht aus
@@ -246,14 +247,34 @@ Ausgeschiedene Mitglieder des Vorstands oder National Coordinator und Mitglieder
 
 (3) §10 Abs. 3 gilt entsprechend.
 
-# § 21 - Redaktionelle Änderungen
+# § 21 - Schlichtungsausschuss
+Der Schlichtungsausschuss besteht aus
+1. einer Person für den Vorsitz,
+2. einer Person für den stellvertretenden Vorsitz,
+3. einer Person für die Schriftführung.
+
+# § 22 - Aufgaben des Schlichtungsausschusses
+(1) Der Schlichtungsausschuss hat die Aufgabe, als Schiedsrichter oder Vermittler innerhalb des Vereins zu handeln.  Dabei obliegen ihm insbesondere:
+1. die Vermittlung bei Streitigkeiten zwischen Einzelpersonen, Mitgliedern oder Organen des Vereins, soweit die Streitigkeiten ihre Grundlage in der Vereinszugehörigkeit oder der Tätigkeit im Verein haben,
+2. die Durchsetzung des Verhaltenskodex.
+
+(2) Der Schlichtungsausschuss arbeitet ehrenamtlich.
+
+# § 23 - Wahl des Schlichtungsausschusses
+(1) Die Mitglieder des Schlichtungsausschusses werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen. Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder der Mitglieder. Es darf nur ein lokales Mitglied pro Mitglied in den Schlichtungsausschuss gewählt werden. Nicht wählbar sind Mitglieder des Vorstands, Mitglieder des Verwaltungsrats oder National Coordinator.
+
+(2) Kann ein Posten des Schlichtungsausschusses bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Schlichtungsausschusses vorzeitig aus dem Amt aus, so sind bis zur Wahl eines Nachfolgers durch die Mitgliederversammlung die verbleibenden Mitglieder des Schlichtungsausschusses berechtigt, ein neues Mitglied bis zur nachfolgenden Mitgliederversammlung in den Schlichtungsausschuss zu berufen.
+
+(3) § 10 Abs. 3 gilt entsprechend.
+
+# § 24 - Redaktionelle Änderungen
 Der Vorstand kann einstimmig redaktionelle Änderungen der Satzung und der Ordnung sowie deren Anhängen beschließen. 
 Vor einem entsprechenden Beschluss durch den Vorstand ist der Verwaltungsrat anzuhören. 
 Der Vorstand muss die Mitglieder innerhalb von sieben Tagen nach einem entsprechenden Beschluss über die vorgenommenen Änderungen informieren.
 
-# § 22 – Auflösung des Vereins, Beendigung aus anderen Gründen, Wegfall steuerbegünstigter Zwecke
+# § 25 – Auflösung des Vereins, Beendigung aus anderen Gründen, Wegfall steuerbegünstigter Zwecke
 Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen an den „ESN Alumni Deutschland e.V.“ (VR 4165 – Amtsgericht Bochum), sofern dessen Gemeinnützigkeit anerkannt ist und der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat. Andernfalls an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Völkerverständigung.
 
-# § 23 - Schlussbestimmungen
+# § 26 - Schlussbestimmungen
 Sollte eine Bestimmung dieser Satzung nichtig oder aus einem sonstigen Grunde unwirksam sein, so bleibt die übrige Satzung dennoch wirksam. 
 In einem solchen Fall wird statt der nichtigen oder unwirksamen Bestimmung eine solche gesucht, die dem intendierten Zweck des Vereins möglichst nahe kommt.
