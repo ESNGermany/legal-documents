@@ -70,11 +70,11 @@ Während aller nationalen Veranstaltungen im Netzwerk von ESN Deutschland wird e
 Wenn Freiwillige sich nicht wohl dabei fühlen, den Ombudspersonen etwas zu melden, dient jedes Mitglied der Vereinsorgane von ESN Deutschland als Kontaktperson, die als Mediator fungieren kann. Einer Meldung an die Kontaktpersonen sollte immer eine Berichterstattung an codeofconduct@esn-germany.de oder über das Meldeformular folgen.
 
 ### 5.1.2. Nach Veranstaltungen oder in jeglichen anderweitigen Situationen
-Bei Verstoß gegen diesen Kodex auch außerhalb von Veranstaltungen kann der Vorfall an codeofconduct@esn-germany.de oder über das Kontaktformular, das über www.esn-germany.de/coc zu finden ist, gemeldet werden. Die Übermittlung ist vertraulich und wird nur vom President des ESN Deutschland und Main Chair des Verwaltungsrats eingesehen. Diese beiden Personen bilden das CoC-Team.
+Bei Verstoß gegen diesen Kodex auch außerhalb von Veranstaltungen kann der Vorfall an codeofconduct@esn-germany.de oder über das Kontaktformular, das über www.esn-germany.de/coc zu finden ist, gemeldet werden. Die Übermittlung ist vertraulich und wird nur vom Schlichtungsausschuss eingesehen.
 Für Verstöße, die außerhalb von ESN-Veranstaltungen auftreten, aber dennoch in den Bereich von ESN Deutschland fallen, gilt das gleiche Verfahren. 
 
 ### 5.1.3 Zusätzliche Mediatoren
-Das CoC-Team, sowie die Ombudspersonen können individuell je Verstoß weitere Mediatoren hinzuziehen, falls sie es als angebracht erachten. Hierzu können sich interessierte Personen beim CoC-Team melden, um der Gruppe an verfügbaren Mediatoren im Vorfeld beizutreten.
+Der Schlichtungsausschuss, sowie die Ombudspersonen können individuell je Verstoß weitere Mediatoren hinzuziehen, falls sie es als angebracht erachten. Hierzu können sich interessierte Personen beim Schlichtungsausschuss melden, um der Gruppe an verfügbaren Mediatoren im Vorfeld beizutreten.
 
 ### 5.1.4 Schutz vor Vergeltung
 Es ist von zentraler Bedeutung, dass sich unsere Mitglieder beim Melden eines Vorfalls sicher fühlen. Jegliche Vergeltungen gegenüber Personen, die in gutem Glauben eine Beschwerde eingereicht oder an der Aufklärung eines Vorfalls mitgewirkt haben, werden nicht toleriert. Solches Verhalten kann denselben Sanktionen unterliegen, wie sie in 5.3.1. vorgesehen sind, unabhängig davon, ob sich die ursprünglichen Vorwürfe letztlich als begründet erweisen oder nicht.
@@ -82,11 +82,11 @@ Es ist von zentraler Bedeutung, dass sich unsere Mitglieder beim Melden eines Vo
 ## 5.2. Ablauf
 Nachdem ein Verstoß gemeldet wurde, werden die folgenden Schritte einleitet:
 
-- Persönliche Nachricht: Um der meldenden Person Gewissheit zu geben, dass dem Fall nachgegangen wird, bestätigt dies das CoC-Team kurzfristig;
-- Vertrauensbasis: Geheimhaltung zwischen der meldenden Person und dem CoC-Team wird gewährleistet;
+- Persönliche Nachricht: Um der meldenden Person Gewissheit zu geben, dass dem Fall nachgegangen wird, bestätigt dies der Schlichtungsausschuss kurzfristig;
+- Vertrauensbasis: Geheimhaltung zwischen der meldenden Person und dem Schlichtungsausschuss wird gewährleistet;
 - Sammlung von Informationen: Relevante Parteien werden identifiziert und um weitere Informationen gebeten;
-- Anhörung der Beklagten: Die Beklagten erhalten die Möglichkeit, ihren Fall dem CoC-Team in Form einer Anhörung darzulegen;
-- Weiteres Vorgehen: Das CoC-Team entscheidet über die nächsten Schritte, z.B. Sanktionierung oder Mediation. Die meldende und die beschuldigte Person werden entsprechend informiert.
+- Anhörung der Beklagten: Die Beklagten erhalten die Möglichkeit, ihren Fall dem Schlichtungsausschuss in Form einer Anhörung darzulegen;
+- Weiteres Vorgehen: Der Schlichtungsausschuss entscheidet über die nächsten Schritte, z.B. Sanktionierung oder Mediation. Die meldende und die beschuldigte Person werden entsprechend informiert.
 
 Diese Schritte sind ein allgemeiner Leitfaden für den Umgang mit einer Meldung. Jeder Fall ist jedoch individuell. Daher werden die Schritte nur in dem Maße befolgt, wie es für die jeweilige Situation angemessen ist.
 
@@ -110,7 +110,7 @@ Zusätzlich ist mit folgenden Konsequenzen zu rechnen:
 Die Sanktionen können mehrere der vorgenannten Punkte umfassen.
 
 ### 5.3.2. Verhängung einer Sanktion 
-Die Befugnis, bei Verstößen auf nationaler Ebene eine Sanktion zu verhängen, liegt beim CoC-Team von ESN Deutschland.
+Die Befugnis, bei Verstößen auf nationaler Ebene eine Sanktion zu verhängen, liegt beim Schlichtungsausschuss von ESN Deutschland.
 Bei der Festlegung der Art und Schwere einer Sanktion müssen folgende Faktoren berücksichtigt werden:
 
 - Schwere des Verstoßes; 
@@ -118,7 +118,7 @@ Bei der Festlegung der Art und Schwere einer Sanktion müssen folgende Faktoren 
 - die Häufigkeit der Verstöße;
 - die Menge der vorhandenen Beweise.
 
-Wenn eine Sanktion verhängt wird, erhält die sanktionierte Person eine offizielle Erklärung des CoC-Teams, in der die Sanktion und die Gründe für die Verhängung der Sanktion beschrieben werden. Die verhängte Sanktion wird unmittelbar nach der Ausstellung des Bescheids wirksam. Die Nichteinhaltung der Sanktion oder der Versuch, sie zu umgehen, kann eine weitere Sanktion nach sich ziehen.
+Wenn eine Sanktion verhängt wird, erhält die sanktionierte Person eine offizielle Erklärung des Schlichtungsausschusses, in der die Sanktion und die Gründe für die Verhängung der Sanktion beschrieben werden. Die verhängte Sanktion wird unmittelbar nach der Ausstellung des Bescheids wirksam. Die Nichteinhaltung der Sanktion oder der Versuch, sie zu umgehen, kann eine weitere Sanktion nach sich ziehen.
 
 ### 5.3.3. Grundsätze
 Die Verhängung einer Sanktion sollte nicht leichtfertig vorgenommen werden, denn dies könnte für eine Person schwerwiegende Folgen haben. Deshalb sind bei der Entscheidung über die Verhängung einer Sanktion die folgenden Grundsätze zu beachten:
@@ -129,8 +129,8 @@ Die Verhängung einer Sanktion sollte nicht leichtfertig vorgenommen werden, den
 - Transparenz bei der Begründung der verhängten Sanktion.
 
 ### 5.3.4. Recht auf Berufung
-Wenn die sanktionierte Person mit der Begründung der verhängten Sanktion oder der (Schwere der) Sanktion selbst nicht einverstanden ist, hat sie das Recht, Einspruch zu erheben. Das Recht auf Einspruch kann ausgeübt werden, indem innerhalb von zwei Wochen, nachdem die Entscheidung der adressierten Person zugegangen ist, eine Antwort in Textform (per E-Mail) an das CoC-Team geschickt wird, in der der Streitpunkt klar dargelegt wird. Das CoC-Team muss der adressierten Person die Möglichkeit geben, sich zu äußern. Das CoC-Team soll innerhalb von zwei Wochen nach Erlass der Beschwerde eine Entscheidung treffen. 
+Wenn die sanktionierte Person mit der Begründung der verhängten Sanktion oder der (Schwere der) Sanktion selbst nicht einverstanden ist, hat sie das Recht, Einspruch zu erheben. Das Recht auf Einspruch kann ausgeübt werden, indem innerhalb von zwei Wochen, nachdem die Entscheidung der adressierten Person zugegangen ist, eine Antwort in Textform (per E-Mail) an den Schlichtungsausschuss geschickt wird, in der der Streitpunkt klar dargelegt wird. Der Schlichtungsausschuss muss der adressierten Person die Möglichkeit geben, sich zu äußern. Der Schlichtungsausschuss soll innerhalb von zwei Wochen nach Erlass der Beschwerde eine Entscheidung treffen. 
 
 # 6. Anwendung auf Lokaler Ebene
-Im Falle von Verstößen auf lokaler Ebene wird von den Sektionen erwartet, dass sie die notwendigen Maßnahmen ergreifen, um ein sicheres Umfeld für ihre Freiwilligen und Gäste zu gewährleisten und den Verhaltenskodex durchzusetzen. Die Struktur des ESN erlaubt es dem CoC-Team nicht, bei Verstößen auf lokaler Ebene Sanktionen gegen Mitglieder der Sektionen zu verhängen. Von den Sektionen wird daher erwartet, dass sie ihre eigenen Verfahren für die Meldung von Verstößen, für die Verhängung von Sanktionen und für die Ausübung des Rechts auf Einspruch festlegen. Die Verfahren sollten den in Abschnitt 5. dargelegten Grundsätzen entsprechen. 
-Falls ein Verstoß auf lokaler Ebene direkt dem CoC-Team gemeldet wird, kann das CoC-Team mit Zustimmung der betroffenen Person die Sektion beraten, wie zu verfahren ist. Die Sektion ist aufgefordert, diesen Rat zu befolgen.
+Im Falle von Verstößen auf lokaler Ebene wird von den Sektionen erwartet, dass sie die notwendigen Maßnahmen ergreifen, um ein sicheres Umfeld für ihre Freiwilligen und Gäste zu gewährleisten und den Verhaltenskodex durchzusetzen. Die Struktur des ESN erlaubt es dem Schlichtungsausschuss nicht, bei Verstößen auf lokaler Ebene Sanktionen gegen Mitglieder der Sektionen zu verhängen. Von den Sektionen wird daher erwartet, dass sie ihre eigenen Verfahren für die Meldung von Verstößen, für die Verhängung von Sanktionen und für die Ausübung des Rechts auf Einspruch festlegen. Die Verfahren sollten den in Abschnitt 5. dargelegten Grundsätzen entsprechen. 
+Falls ein Verstoß auf lokaler Ebene direkt dem Schlichtungsausschuss gemeldet wird, kann der Schlichtungsausschuss mit Zustimmung der betroffenen Person die Sektion beraten, wie zu verfahren ist. Die Sektion ist aufgefordert, diesen Rat zu befolgen.
