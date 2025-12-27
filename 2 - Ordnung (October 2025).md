@@ -95,13 +95,25 @@ Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 (4) Der Verwaltungsrat tritt sein Amt am 1.12. des Jahres an.
 
-## §8 - Kassenprüfung
+## §8 - Aufgaben des Schlichtungsausschusses
+(1) Der Schlichtungsausschuss hat mindestens einmal jährlich während der Mitgliederversammlung über seine Tätigkeiten zu berichten. Die Mitgliederversammlung kann einen Zwischenbericht verlangen.
+
+(2) Der Schlichtungsausschuss soll nur dann zusammenkommen, wenn sein Handeln erforderlich ist, entweder physisch oder unter Nutzung digitaler Kommunikationsmittel. Während der Sitzungen gilt folgendes Abstimmungsverfahren:
+1. Eine Abstimmung ist durchzuführen, wenn sie von einem Mitglied des Schlichtungsausschusses beantragt wird;
+2. Eine geheime Abstimmung findet statt, wenn mindestens ein Mitglied des Schlichtungsausschusses dies verlangt;
+3. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden.
+
+(3) Die Mitglieder des Schlichtungsausschusses müssen unparteiisch und unabhängig von den Streitparteien sein. Ein Mitglied ist von der Teilnahme an Vermittlungen ausgeschlossen, wenn der Streitgegenstand seine aktuellen oder vergangenen Tätigkeiten, Rechte oder Pflichten betrifft oder seine Unparteilichkeit in Frage gestellt wird.
+
+(4) Die Mitglieder des Schlichtungsausschusses treten ihr Amt am 15. März nach der Mitgliederversammlung an, auf der sie gewählt wurden. Ist eine Position im Schlichtungsausschuss vakant, wählt die Mitgliederversammlung baldmöglichst ein Ersatzmitglied. Das gewählte Ersatzmitglied tritt sein Amt unmittelbar nach der Wahl an und bleibt bis zum Ende der laufenden Amtszeit im Amt.
+
+## §9 - Kassenprüfung
 
 (1) Die Mitgliederversammlung soll zwei oder drei Kassenprüfende wählen, die dem Vorstand nicht angehören oder beisitzen dürfen. Eine der Personen soll ein Mitglied des Finanzaudits sein. Die Wiederwahl ist zulässig, jedoch muss mindestens die Hälfte der Prüfenden in zwei aufeinanderfolgenden Jahren wechseln.
 
 (2) Die Kassenprüfenden haben die Kasse und Konten des Vereins einschließlich der Bücher und Belege spätestens nach dem Ende der Amtszeit des Vorstands sachlich und rechnerisch zu prüfen. Der Prüfbericht muss der Mitgliederversammlung vorgelegt werden, die auf das Ende der Amtszeit des Vorstands folgt.
 
-## §9 – Finanzen
+## §10 – Finanzen
 
 (1) Der Vorstand erarbeitet unter Verantwortung des Finanzvorstands für den Zeitraum des nachfolgenden Vorstandsmandats einen Wirtschaftsplan. Dieser muss klar strukturiert sein und die wesentlichen Positionen von Einnahmen und Ausgaben wiedergeben. Den Vereinsorganen sind ausreichende Mittel zur Erfüllung ihrer Aufgaben zuzuweisen.
 
@@ -113,13 +125,13 @@ Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 (5) Beabsichtigte Ausgaben des Vorstandes, die eine Gesamtsumme von 500 Euro überschreiten, sind dem Verwaltungsrat so früh wie möglich anzuzeigen. Der Verwaltungsrat kann die Mitglieder über die beabsichtigte Ausgabe informieren.
 
-(6) Reisekosten des Vorstandes, des Verwaltungsrates und bei Mitgliederversammlungen der Versammlungsleitung sind auf Antrag und nach Einreichung der Belege zu erstatten. Reisekosten umfassen eventuelle Teilnahmebeiträge für Veranstaltungen sowie Fahrtkosten. Übersteigen die Kosten unter Beachtung von Sparsamkeit und Wirtschaftlichkeit das notwendige Maß, erfolgt nur eine anteilige Erstattung. Nebenabsprachen zur Aufteilung der Kostenerstattung sind nicht zulässig.
+(6) Reisekosten des Vorstandes, des Verwaltungsrates und bei Mitgliederversammlungen der Versammlungsleitung und des Schlichtungsausschusses sind auf Antrag und nach Einreichung der Belege zu erstatten. Reisekosten umfassen eventuelle Teilnahmebeiträge für Veranstaltungen sowie Fahrtkosten. Übersteigen die Kosten unter Beachtung von Sparsamkeit und Wirtschaftlichkeit das notwendige Maß, erfolgt nur eine anteilige Erstattung. Nebenabsprachen zur Aufteilung der Kostenerstattung sind nicht zulässig.
 
 (7) Der Finanzvorstand ist verpflichtet, auf jeder regulären Mitgliederversammlung einen aktuellen Bericht über den Stand der Einnahmen und Ausgaben im Vergleich zum verabschiedeten Wirtschaftsplan abzugeben. Dieser Bericht muss die einzelnen Positionen des Plans benennen und die Abweichungen von den vorgesehenen Beträgen erläutern.
 
-## §10 – Rechenschaftsberichte
+## §11 – Rechenschaftsberichte
 
-(1) Die Vorstandsmitglieder und der Verwaltungsrat berichten während ihrer Amtszeit der Mitgliederversammlung über ihre Arbeit und fertigen zum Ende ihrer Amtszeit einen Rechenschaftsbericht an.
+(1) Die Vorstandsmitglieder, der Verwaltungsrat und der Schlichtungsausschuss berichten während ihrer Amtszeit der Mitgliederversammlung über ihre Arbeit und fertigen zum Ende ihrer Amtszeit einen Rechenschaftsbericht an.
 
 (2) Die Rechenschaftsberichte sind den Mitgliedern mindestens eine Woche vor der Versammlung, die auf das Ende der Amtszeit folgt, bekanntzugeben.
 
@@ -127,7 +139,7 @@ Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 (4) Die Mitgliederversammlung entscheidet nach dem Ende der Amtszeit des Vorstandes über dessen Entlastung. Die Entlastung einzelner Mitglieder kann versagt werden.
 
-## §11 – Mitgliederversammlung
+## §12 – Mitgliederversammlung
 
 (1) Mitgliederversammlungen sollen dreimal im Jahr ausgerichtet werden, vorzugsweise im
 
@@ -165,7 +177,7 @@ Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium be
      2. Die Versammlungsleitung hat das Protokoll der Versammlung den Mitgliedern spätestens 30 Tage vor dem Beginn der darauffolgenden regulären Mitgliederversammlung zur Verfügung zu stellen. Dieser ist das Protokoll zur Zustimmung vorzulegen. 
      3. Das Organisationskomitee hat dem Vorstand einen finalen Überblick über Einnahmen und Ausgaben, inklusive aller Rechnungen und Belege im Original, sofern keine anderweitige Absprache zwischen NB und OC getroffen wurde, 30 Tage nach Ende der Versammlung, spätestens jedoch eine Woche nach Erhalt der letzten Rechnung, vorzulegen.
 
-## §12 - Versammlungsleitung
+## §13 - Versammlungsleitung
 
 (1) Die Versammlungsleitung besteht mindestens aus einer versammlungsleitenden und einer protokollführenden Person.
 
@@ -179,14 +191,14 @@ Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 (6) Die Versammlungsleitung tritt ihr Amt am 1.12. des Jahres an.
 
-## §13 – Vertraulichkeit
+## §14 – Vertraulichkeit
 
-Alle Mitglieder des Vorstandes, des Verwaltungsrates, der Versammlungsleitung, die National Coordinator und die Regional Coordinator unterzeichnen vor Beginn ihrer Amtszeit, die Kassenprüfer vor Beginn ihrer Tätigkeit, eine Vertraulichkeitserklärung gemäß Anhang dieser Ordnung.
+Alle Mitglieder des Vorstandes, des Verwaltungsrates, des Schlichtungsausschusses, der Versammlungsleitung, die National Coordinator und die Regional Coordinator unterzeichnen vor Beginn ihrer Amtszeit, die Kassenprüfer vor Beginn ihrer Tätigkeit, eine Vertraulichkeitserklärung gemäß Anhang dieser Ordnung.
 
 
 # C. SUPPORT STRUCTURES
 
-## §14 - National Coordinators
+## §15 - National Coordinators
 
 (1) Die National Coordinators werden vom Vorstand ernannt.
 
@@ -206,7 +218,7 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
 
 (3) Die National Coordinators treten ihr Amt unverzüglich nach ihrer Ernennung an. Die Amtszeit der National Coordinators richtet sich nach der Amtszeit des Vorstandes oder der Amtszeit des Verwaltungsrats.
 
-## §15 - Regionale Koordination
+## §16 - Regionale Koordination
 
 (1) Die Mitglieder sind folgenden Regionen zugeteilt, wobei eine Zuteilung maximal zu zwei Regionen möglich ist:
 
@@ -237,7 +249,7 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
 
 # D. WAHLEN
 
-## §16 - Wahlleitung und Wahlhelfende
+## §17 - Wahlleitung und Wahlhelfende
 
 (1) Die Leitung der Wahlen und Abstimmungen auf Mitgliederversammlungen obliegt der vorsitzenden Person des Verwaltungsrates und der vorsitzenden Person der Versammlungsleitung oder den von ihnen in Textform benannten Vertretenden. Die Vertretung kann jede volljährige, natürliche Person ausüben. Ausgenommen hiervon sind Delegierte, Mitglieder des Vorstandes und National Coordinator sowie Personen, die selbst für ein Vereinsamt kandidieren oder über die ein Beschluss gefasst werden soll.
 
@@ -249,13 +261,13 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
 
 (5) Zu den Aufgaben der Wahlhelfenden gehören insbesondere die Ermittlung der wahlberechtigten Mitglieder, das Zählen der Stimmen bei offenen und namentlichen Abstimmungen und bei geheimen Abstimmungen das Einsammeln und die Auszählung von Stimmzetteln.
 
-## §17 - Ermittlung der Mehrheit
+## §18 - Ermittlung der Mehrheit
 
 (1) Kann bei einer Wahl mit mehr als zwei Vorschlägen kein Vorschlag im ersten Wahlgang die erforderliche Mehrheit auf sich vereinen, ist eine Stichwahl zwischen den beiden Vorschlägen mit den meisten Stimmen durchzuführen. Haben die zweitplatzierten Vorschläge die gleiche Anzahl an Stimmen auf sich vereint, erfolgt zunächst eine Stichwahl zwischen diesen Vorschlägen.
 
 (2) Endet bei einer Kandidierendenwahl die Stichwahl mit der gleichen Anzahl an Stimmen, entscheidet das Los, welches die versammlungsleitende Person zieht; bei Online-Wahlen tritt an deren Stelle der Verwaltungsrat.
 
-## §18 - Beschlussfassung mittels sicherer, elektronischer Verfahren gemäß §14 Abs. 7 der Satzung (Online-Abstimmungen)
+## §19 - Beschlussfassung mittels sicherer, elektronischer Verfahren gemäß §14 Abs. 7 der Satzung (Online-Abstimmungen)
 
 (1) Die Leitung der Beschlussfassungen mittels sicherer, elektronischer Verfahren obliegt der Vorsitzenden Person des Verwaltungsrats und dem IT Manager des National Boards oder den von ihnen in Textform benannten Vertretenden. Die Vertretung kann jede volljährige, natürliche Person ausüben. Ausgenommen hiervon sind Personen über die ein Beschluss gefasst werden soll.
 
@@ -267,7 +279,7 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
 
 (5) Die Abstimmungen sind geheim durchzuführen; niemand soll nachvollziehen können, welches Mitglied für welchen Vorschlag gestimmt hat. Das Mitglied muss autark die Möglichkeit haben, die zur Abstimmung zugelassenen Berechtigten und das Ergebnis der Abstimmung einsehen zu können.
 
-## §19 Beschlussfassung bei Online-Mitgliederversammlungen
+## §20 Beschlussfassung bei Online-Mitgliederversammlungen
 
 (1) Für Beschlüsse im Rahmen einer Online-Mitgliederversammlung gemäß §14 Abs. 7 der Satzung gelten die Anforderungen an Beschlussfähigkeit und Mehrheiten entsprechend der Satzung und der Ordnung.
 
@@ -276,18 +288,18 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
 
 # E. SCHLUSSBESTIMMUNGEN
 
-## §20 - Versammlungen und Veranstaltungen
+## §21 - Versammlungen und Veranstaltungen
 
 Näheres zu den Versammlungen und Veranstaltungen kann in einer Veranstaltungsordnung (Event Policy Paper) geregelt werden. Sie ist als Anhang Teil dieser Ordnung.
 
-## §21 - Verhaltenskodex (Code of Conduct)
+## §22 - Verhaltenskodex (Code of Conduct)
 
 Die Mitgliederversammlung kann einen Verhaltenskodex aufstellen, der für alle Veranstaltungen des Vereins bindend ist. Er ist als Anhang Teil dieser Ordnung.
 
-## §22 – Konsultationsordnung
+## §23 – Konsultationsordnung
 
 Näheres zur Konsultation der Mitglieder kann in einer Konsultationsordnung geregelt werden. Sie ist als Anhang Teil dieser Ordnung.
 
-## §23 - Inkrafttreten
+## §24 - Inkrafttreten
 
 Diese Ordnung tritt mit Beschlussfassung durch die Mitgliederversammlung in Kraft.
