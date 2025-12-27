@@ -8,11 +8,11 @@ output:
 
 # 1. Präambel
 Das Erasmus Student Network (im Folgenden: ESN) fördert eine Kultur der Offenheit und Inklusion, in der die Freiwilligen sicher arbeiten, lernen, netzwerken und Spaß haben können. ESN möchte ein gesundes und positives Umfeld schaffen, in dem sich die Freiwilligen sicher und wohl fühlen, in dem sie wachsen und sich entwickeln können, unabhängig von ihrer Identität, ihrem Glauben oder ihren Vorlieben. ESN erwartet von sämtlichen Freiwilligen, unabhängig von Hintergrund und Position, dass die Werte von ESN in der Art und Weise, wie sie sich gegenüber ihren Mitfreiwilligen und Externen verhalten, aufrechterhalten werden und dass jeglicher Kontaktperson mit Respekt und Verständnis begegnet wird. Als ESN setzen wir uns nicht nur für unsere Werte und Grundsätze gegenüber externen Stakeholdern ein, sondern bemühen uns auch darum, dass unsere Freiwilligen sich entsprechend dieser Werte und Prinzipien verhalten.  
+
 Als Mitwirkende des Erasmus Student Network Deutschland e.V. (im Folgenden: ESN Deutschland) verpflichten sich alle Freiwilligen einen Beitrag zur Bereicherung der Gesellschaft durch interkulturellen Austausch und durch Verständigung aller Völker und Kulturen zu leisten. Die Gestaltung von zahlreichen regionalen sowie nationalen Netzwerkveranstaltungen fördert dabei gezielt den Informationsaustausch auf nationaler Ebene. Um das eben genannte Ziel zu erreichen, binden sich alle Mitglieder und Freiwilligen des Netzwerks an dieses Dokument.
 
 # 2. Ziele und Verhaltensnormen
-Dieses Dokument basiert auf der Idee, dass alles, was wir im Zusammenhang mit ESN tun, auf gegenseitigem Respekt und Verständnis beruhen soll und wird. Es soll sicherstellen, dass sich jede Person während ihrer Mitwirkung und Beteiligung im ESN sicher, einbezogen und respektiert fühlt.
-Im Wesentlichen verfolgt dieses Dokument drei Ziele:
+Dieses Dokument basiert auf der Idee, dass alles, was wir im Zusammenhang mit ESN tun, auf gegenseitigem Respekt und Verständnis beruhen soll und wird. Es soll sicherstellen, dass sich jede Person während ihrer Mitwirkung und Beteiligung im ESN sicher, einbezogen und respektiert fühlt. Im Wesentlichen verfolgt dieses Dokument drei Ziele:
 
 - Richtlinien für das Verhalten von Freiwilligen zu erstellen; 
 - das Bewusstsein für unerwünschte Verhaltensweisen zu schärfen und diese festzulegen;
@@ -33,9 +33,7 @@ Dies umfasst, ist allerdings nicht beschränkt auf, jegliche Art von physischen 
 Wir respektieren den Freiraum jeder Person, ganz gleich wie groß er sein mag und sind uns bewusst, dass Einzelne ein anderes Empfinden von menschlicher Nähe haben. Wir verurteilen jegliche Formen körperlicher Übergriffe; Freizügigkeit und bestimmte Verhaltensweisen sind keine Einladung. Wir verurteilen jegliche Formen der psychischen und physischen Gewalt. Darunter sind alle Äußerungen, Handlungen sowie Haltungen zu verstehen, die einen Mitmenschen beleidigen, herabsetzen, überfordern oder das Gefühl von eigener Wertlosigkeit vermitteln. Wir verurteilen jegliche Formen der Diskriminierung nach Artikel 2 der Allgemeinen Erklärung der Menschenrechte. Wir allein sind für unser Verhalten verantwortlich, Drogen und andere äußere Einflüsse dürfen keine Entschuldigung sein. Wir pflegen einen offenen, sachlichen, transparenten, inklusiven und ehrlichen Diskurs ohne Aggressionen. Wir fördern und fordern einen stets respektvollen, hilfsbereiten und empathischen Umgang miteinander und übernehmen Verantwortung für das Wohl anderer Personen. Wir gehen mit dem Eigentum und Besitz anderer pfleglich, sorgsam und verantwortungsvoll um. Wir sind uns der potenziellen Haftung bei vorsätzlichen und fahrlässigen Schäden bewusst. Es ist uns wichtig, dass diese Standards nicht nur nach außen, sondern auch innerhalb unserer Organisation gelebt werden. Jede Form von Verhalten, das diesen Grundsätzen widerspricht, ist untersagt. Meldungen über solches Verhalten können die in Absatz 5 vorgesehenen Verfahren auslösen.
 
 ## 4.1. Diskriminierung
-Wir sind ein Ort, an dem jede Person gleich behandelt wird und keinerlei diskriminierendes Verhalten toleriert wird. Unter Diskriminierung verstehen wir, entsprechend der gängigen Definition, das ungleiche, insbesondere schlechtere Behandeln einer Person oder Gruppe aufgrund bestimmter Eigenschaften oder Präferenzen.
-
-Zu diesen Eigenschaften oder Präferenzen zählen unter anderem, jedoch nicht ausschließlich:
+Wir sind ein Ort, an dem jede Person gleich behandelt wird und keinerlei diskriminierendes Verhalten toleriert wird. Unter Diskriminierung verstehen wir, entsprechend der gängigen Definition, das ungleiche, insbesondere schlechtere Behandeln einer Person oder Gruppe aufgrund bestimmter Eigenschaften oder Präferenzen. Zu diesen Eigenschaften oder Präferenzen zählen unter anderem, jedoch nicht ausschließlich:
 
 - Alter,
 - Behinderungen jeder Art,
@@ -79,9 +77,7 @@ Für Verstöße, die außerhalb von ESN-Veranstaltungen auftreten, aber dennoch 
 Das CoC-Team, sowie die Ombudspersonen können individuell je Verstoß weitere Mediatoren hinzuziehen, falls sie es als angebracht erachten. Hierzu können sich interessierte Personen beim CoC-Team melden, um der Gruppe an verfügbaren Mediatoren im Vorfeld beizutreten.
 
 ### 5.1.4 Schutz vor Vergeltung
-Es ist von zentraler Bedeutung, dass sich unsere Mitglieder beim Melden eines Vorfalls sicher fühlen. Jegliche Vergeltungen gegenüber Personen, die in gutem Glauben eine Beschwerde eingereicht oder an der Aufklärung eines Vorfalls mitgewirkt haben, werden nicht toleriert.
-
-Solches Verhalten kann denselben Sanktionen unterliegen, wie sie in 5.3.1. vorgesehen sind, unabhängig davon, ob sich die ursprünglichen Vorwürfe letztlich als begründet erweisen oder nicht.
+Es ist von zentraler Bedeutung, dass sich unsere Mitglieder beim Melden eines Vorfalls sicher fühlen. Jegliche Vergeltungen gegenüber Personen, die in gutem Glauben eine Beschwerde eingereicht oder an der Aufklärung eines Vorfalls mitgewirkt haben, werden nicht toleriert. Solches Verhalten kann denselben Sanktionen unterliegen, wie sie in 5.3.1. vorgesehen sind, unabhängig davon, ob sich die ursprünglichen Vorwürfe letztlich als begründet erweisen oder nicht.
 
 ## 5.2. Ablauf
 Nachdem ein Verstoß gemeldet wurde, werden die folgenden Schritte einleitet:
