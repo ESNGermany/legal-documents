@@ -55,16 +55,16 @@ output:
 (4) Open Calls sind für eine Dauer von mindestens 14 Tagen zu öffnen. Ein Open Call ist spätestens 120 Tage vor Beginn der Veranstaltung zu veröffentlichen. Für Lokale Plattformen beträgt die Frist 90 Tage.
 
 # §7 – Registrierungsverfahren und -fristen
-(1) Der Vorstand erstellt in Absprache mit dem Organisationskomitee die Registrierungsunterlagen und gibt sie unter den Mitgliedern über den offiziellen Mailverteiler bekannt. Für Mitgliederversammlungen erfolgt die Bekanntgabe ebenfalls auf einem Mail-Verteiler gemäß den Vorgaben des ESN AISBL und kann auch über weitere Kanäle erfolgen. Bei Lokalen Plattformen erstellt das Organisationskomitee die Registrierungsunterlagen und erteilt dem Vorstand Leserechte.
+(1) Der Vorstand erstellt in Absprache mit dem Organisationskomitee die Registrierungsunterlagen und gibt sie unter den Mitgliedern über den offiziellen Mailverteiler bekannt. Für Mitgliederversammlungen erfolgt die Bekanntgabe ebenfalls auf einem Mail-Verteiler gemäß den Vorgaben des ESN AISBL und kann auch über weitere Kanäle erfolgen. Bei Lokalen Plattformen erstellt das Organisationskomitee die Registrierungsunterlagen und erteilt dem Vorstand und den Regional Coordinators Leserechte. Die Bekanntgabe der Registrierungsunterlagen erfolgt bei Lokalen Plattformen durch die Regional Coordinators.
 
-(2) Die Registrierung ist mindestens 35 Tage vor dem Beginn der Veranstaltung zu öffnen und spätestens 21 Tage vor dem Beginn der Veranstaltung zu schließen. Den Zeitpunkt der Öffnung und der Schließung der Registrierung legt der Vorstand gemeinsam mit dem Organisationskomitee fest. Anmelde- und Registrierungsbedingungen, insbesondere zu Stornierungen und Zahlungszielen, können vom Vorstand und dem Organisationskomitee vorgegeben werden. Für Lokale Plattformen verkürzt sich die Frist auf 28 Tage bzw. 14 Tage. 
+(2) Die Registrierung ist mindestens 35 Tage vor dem Beginn der Veranstaltung zu öffnen und spätestens 21 Tage vor dem Beginn der Veranstaltung zu schließen. Den Zeitpunkt der Öffnung und der Schließung der Registrierung legt der Vorstand, bei Lokalen Plattformen die Regional Coordinators, gemeinsam mit dem Organisationskomitee fest. Anmelde- und Registrierungsbedingungen, insbesondere zu Stornierungen und Zahlungszielen, können vom Vorstand und dem Organisationskomitee vorgegeben werden. Für Lokale Plattformen verkürzt sich die Frist auf 28 Tage bzw. 14 Tage. 
 
 (3) Die Registrierung ist für mindestens 14 Tage geöffnet.
 
-(4) Kontingentplätze werden nur an registrierte Teilnehmende vergeben. Konnten nicht alle Kontingentplätze besetzt werden, kann der Vorstand gemeinsam mit dem Organisationskomitee die Registrierung geöffnet lassen oder wiedereröffnen. Bei Lokalen Plattformen entscheidet das Organisationskomitee nach Absprache mit dem Vorstand.
+(4) Kontingentplätze werden nur an registrierte Teilnehmende vergeben. Konnten nicht alle Kontingentplätze besetzt werden, kann der Vorstand gemeinsam mit dem Organisationskomitee die Registrierung geöffnet lassen oder wiedereröffnen. Bei Lokalen Plattformen entscheidet das Organisationskomitee nach Absprache mit den Regional Coordinators.
 
 # §8 – Grundsätze der Platzzuteilung und der Teilnahme
-(1) Jedes Mitglied, vertreten durch den Vorsitzenden, kann mehrere Teilnehmende zu einer Veranstaltung an den Vorstand, bei Mitgliederversammlungen an die Versammlungsleitung, melden. Meldet ein Mitglied mehrere Teilnehmende oder haben sich mehrere Teilnehmende eines Mitgliedes registriert, hat das Mitglied spätestens zwei Tage nach Ende der Registrierung eine Prioritätenliste unter Angabe der delegierten Person an den Vorstand, bei Mitgliederversammlungen auch an die Versammlungsleitung und den Verwaltungsrat, zu versenden. Reicht das Mitglied die Prioritätenliste ohne diese Angabe des Delegierten ein, wird der ersten Person auf der Prioritätenliste dieser Kontingentplatz zugewiesen. Reicht das Mitglied keine Prioritätenliste ein, vergibt der Vorstand, bei Mitgliederversammlungen die Versammlungsleitung, die Kontingentplätze in der Reihenfolge der Registrierung.
+(1) Jedes Mitglied, vertreten durch den Vorsitzenden, kann mehrere Teilnehmende zu einer Veranstaltung an den Vorstand, bei Mitgliederversammlungen an die Versammlungsleitung, melden. Meldet ein Mitglied mehrere Teilnehmende oder haben sich mehrere Teilnehmende eines Mitgliedes registriert, hat das Mitglied spätestens zwei Tage nach Ende der Registrierung eine Prioritätenliste unter Angabe der delegierten Person an den Vorstand, bei Mitgliederversammlungen auch an die Versammlungsleitung und den Verwaltungsrat, zu versenden. Bei Lokalen Plattformen sind die Prioritätenliste und die delegierte Person an das Organisationskomitee zu senden. Reicht das Mitglied die Prioritätenliste ohne diese Angabe des Delegierten ein, wird der ersten Person auf der Prioritätenliste dieser Kontingentplatz zugewiesen. Reicht das Mitglied keine Prioritätenliste ein, vergibt der Vorstand, bei Mitgliederversammlungen die Versammlungsleitung und bei Lokalen Plattformen das Organisationskomitee, die Kontingentplätze in der Reihenfolge der Registrierung.
 
 (2) Hat das Mitglied die delegierte Person auf der Prioritätenliste angegeben, gilt dies ebenfalls als Stimmrechtsdelegation und es bedarf keiner separaten Meldung mehr.
 
@@ -133,7 +133,7 @@ sie wie folgt vergeben:
         7. Wiederholung der Schritte 5 bis 7.
 
 # §10 – Haus- und Teilnahmerecht
-(1) Neben den Ausrichtenden der Veranstaltungen hat der vertretungsberechtigte Vorstand Hausrecht, bei regionalen Veranstaltungen auch das zuständige Vorstandsmitglied.
+(1) Neben den Ausrichtenden der Veranstaltungen hat der vertretungsberechtigte Vorstand Hausrecht, bei regionalen Veranstaltungen auch die Regional Coordinators.
 
 (2) Bei schwerwiegenden sowie kontinuierlichen Störungen der Veranstaltungen ist ein Ausschluss der Teilnehmenden auch für nachfolgende Vereinsveranstaltungen möglich.
 
