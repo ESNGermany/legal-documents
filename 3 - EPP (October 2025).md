@@ -47,7 +47,7 @@ output:
 
     1. Bei mehreren Bewerbungen wird das Organisationskomitee von den Mitgliedern gewählt. 
     2. Bei nur einer Bewerbung kann der Vorstand das Organisationskomitee ernennen. 
-    3. Von den Punkten 1 und 2 ausgenommen sind Veranstaltungen, die vom National Board, von National Coordinators oder von Regional Coordinators in Ausübung ihres Amtes und in leitender Funktionen organisiert werden und nicht 50 (fünfzig) Teilnehmer übersteigen. In diesen Fällen wird das Organisationskomitee von den verantwortlichen Amtsträgern ernannt.
+    3. Von den Punkten 1 und 2 ausgenommen sind Veranstaltungen, die vom Vorstand, von National Coordinators oder von Regional Coordinators in Ausübung ihres Amtes und in leitenden Funktionen organisiert werden und nicht 50 (fünfzig) Teilnehmer übersteigen. In diesen Fällen wird das Organisationskomitee von den verantwortlichen Amtsträgern ernannt.
     4. Erfolgt nach einer ersten Ausschreibung keine Bewerbung, muss unverzüglich ein erneuter Open Call veröffentlicht werden. Sollte auch hierauf keine Bewerbung eingehen, kann der Vorstand, bei Mitgliederversammlungen auch die Versammlungsleitung, die Ausrichtung übernehmen.
 
 (3) Die durch das Organisationskomitee verlangte Teilnahmegebühr soll angemessen sein. In der Bewerbung ist die maximale Teilnahmegebühr verbindlich zu benennen.
