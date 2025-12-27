@@ -59,9 +59,10 @@ output:
 
     1. Nationaler Vorstand: 2 Punkte,
     2. Verwaltungsrat: 5 Punkte,
-    3. National Coordinator: 4 Punkte,
-    4. Permanente Versammlungsleitung: 4 Punkte,
-    5. Regional Coordinator: 3 Punkte.
+    3. Schlichtungsausschuss: 4 Punkte,
+    4. National Coordinator: 4 Punkte,
+    5. Permanente Versammlungsleitung: 4 Punkte,
+    6. Regional Coordinator: 3 Punkte.
 
 (2) Jede Mitgliedssektion erhält pro Mitglied von ihm, das sich auf nationaler oder internationaler Ebene in Teams oder Projekten engagiert, folgende Punkte. Hierbei werden Personen nicht gezählt, die aufgrund ihres Amtes auf nationaler Ebene beteiligt sind (z.B. Event Manager bei nationalen Veranstaltungen).
 
