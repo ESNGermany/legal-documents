@@ -14,7 +14,7 @@ output:
 (3) Fristen enden, wenn nichts Abweichendes bestimmt ist, um Mitternacht.
 
 # §2 – Rechte und Pflichten von Teilnehmern
-(1) Delegierte, der Vorstand, der Verwaltungsrat und die Versammlungsleitung besitzen ein Antrags- und Rederecht. Alle anderen Teilnehmende besitzen ein Rederecht. Gäste besitzen kein Rederecht; ihnen kann jedoch durch die Versammlungsleitung das Wort erteilt werden.
+(1) Delegierte, der Vorstand, der Verwaltungsrat, der Schlichtungsausschuss und die Versammlungsleitung besitzen ein Antrags- und Rederecht. Alle anderen Teilnehmende besitzen ein Rederecht. Gäste besitzen kein Rederecht; ihnen kann jedoch durch die Versammlungsleitung das Wort erteilt werden.
 
 (2) Alle Teilnehmenden sind an den Verhaltenskodex gemäß §21 Ordnung gebunden.
 
@@ -68,7 +68,7 @@ output:
 
 (2) Hat das Mitglied die delegierte Person auf der Prioritätenliste angegeben, gilt dies ebenfalls als Stimmrechtsdelegation und es bedarf keiner separaten Meldung mehr.
 
-(3) Das Stimmrecht darf nicht an Mitglieder der Versammlungsleitung, des Vorstandes oder des Verwaltungsrates delegiert werden.
+(3) Das Stimmrecht darf nicht an Mitglieder der Versammlungsleitung, des Vorstandes, des Schlichtungsausschusses, oder des Verwaltungsrates delegiert werden.
 
 (4) Bei der Verteilung der zusätzlichen Kontingentplätze ist unter Beachtung der nachfolgenden  Bestimmungen auf ein ausgewogenes Verhältnis der Mitgliederrepräsentation und Teilnehmenden zu achten. Der Verwaltungsrat beaufsichtigt die Vergabe der Plätze.
 
@@ -96,11 +96,12 @@ vorzusehen:
     3. mindestens zwei Vertretende von Kandidierendensektionen und interessierten Organisationen,
     4. die Mitglieder des Vorstandes,
     5. die Mitglieder des Verwaltungsrats,
-    6. mindestens zwei Vertretende des ESN Alumni Deutschland e.V.,
-    7. mindestens fünf internationale Gäste, davon zwei Plätze bevorzugt für Gäste von Mitgliedern des International Exchange Erasmus Student Network France (ESN France),
-    8. die National Coordinator, wenn sie zur Tagesordnung beitragen,
-    9. mindestens zwei Mitglieder von Teams und Working Groups, wenn sie zur Tagesordnung beitragen,
-    10. mindestens ein Regional Coordinator pro Region ESN Deutschlands.
+    6. die Mitglieder des Schlichtungsausschusses,
+    7. mindestens zwei Vertretende des ESN Alumni Deutschland e.V.,
+    8. mindestens fünf internationale Gäste, davon zwei Plätze bevorzugt für Gäste von Mitgliedern des International Exchange Erasmus Student Network France (ESN France),
+    9. die National Coordinator, wenn sie zur Tagesordnung beitragen,
+    10. mindestens zwei Mitglieder von Teams und Working Groups, wenn sie zur Tagesordnung beitragen,
+    11. mindestens ein Regional Coordinator pro Region ESN Deutschlands.
 
 (2) Bei Lokalen Plattformen sind mindestens folgende Kontingente vorzusehen:
 
