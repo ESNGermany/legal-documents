@@ -105,8 +105,8 @@ vorzusehen:
 
 (2) Bei Lokalen Plattformen sind mindestens folgende Kontingente vorzusehen:
 
-    1. eine Person für die Sitzungsleitung, die das Organisationskomitee vorschlagen kann und die vom Vorstand ernannt wird,
-    2. mindestens zwei Vertretende der Mitglieder aus der entsprechenden Region,
+    1. zwei Mitglieder von Mitgliedern, die zur Tagesordnung beitragen,
+    2. mindestens zwei Vertretende pro Mitglied der entsprechenden Region,
     3. die Regional Coordinator der jeweiligen Region.
 
 (3) Für die WEP gilt: sollten dem Verein weitere Plätze zur Verfügung stehen, dann werden
