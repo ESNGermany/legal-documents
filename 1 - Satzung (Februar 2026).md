@@ -1,6 +1,6 @@
 ---
 title: "Satzung"
-date: "October 2025"
+date: "Februar 2026"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -117,6 +117,7 @@ Organe des Vereins sind
     4. einer Person für den Finanzvorstand (Treasurer),
     5. einer Person für den Kommunikationsvorstand (Communication Manager).
     6. einer Person für das Veranstaltungsmanagement (Event Manager),
+    7. einer Person für IT-Management (IT Manager)
 
 (2) Die Mitgliederversammlung kann beschließen, dass dem Vorstand bis zu drei weitere stimmberechtigte Vorstandsmitglieder angehören sollen.
 
