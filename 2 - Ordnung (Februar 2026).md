@@ -127,7 +127,9 @@ Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium be
 
 (6) Reisekosten des Vorstandes, des Verwaltungsrates und bei Mitgliederversammlungen der Versammlungsleitung und des Schlichtungsausschusses sind auf Antrag und nach Einreichung der Belege zu erstatten. Reisekosten umfassen eventuelle Teilnahmebeiträge für Veranstaltungen sowie Fahrtkosten. Übersteigen die Kosten unter Beachtung von Sparsamkeit und Wirtschaftlichkeit das notwendige Maß, erfolgt nur eine anteilige Erstattung. Nebenabsprachen zur Aufteilung der Kostenerstattung sind nicht zulässig.
 
-(7) Der Finanzvorstand ist verpflichtet, auf jeder regulären Mitgliederversammlung einen aktuellen Bericht über den Stand der Einnahmen und Ausgaben im Vergleich zum verabschiedeten Wirtschaftsplan abzugeben. Dieser Bericht muss die einzelnen Positionen des Plans benennen und die Abweichungen von den vorgesehenen Beträgen erläutern.
+(7) Erstattungsanträge sind spätestens innerhalb von sechs Monaten nach Entstehung der Ausgabe unter Vorlage der entsprechenden Belege beim Finanzvorstand einzureichen. Nach Ablauf dieser Frist ist eine Erstattung ausgeschlossen, es sei denn,der Antragsteller hat das Fristversäumnis nachweislich nicht zu vertreten.
+
+(8) Der Finanzvorstand ist verpflichtet, auf jeder regulären Mitgliederversammlung einen aktuellen Bericht über den Stand der Einnahmen und Ausgaben im Vergleich zum verabschiedeten Wirtschaftsplan abzugeben. Dieser Bericht muss die einzelnen Positionen des Plans benennen und die Abweichungen von den vorgesehenen Beträgen erläutern.
 
 ## §11 – Rechenschaftsberichte
 
