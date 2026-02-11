@@ -1,6 +1,6 @@
 ---
 title: "Ordnung"
-date: "Oktober 2025"
+date: "Februar 2026"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -212,7 +212,6 @@ Alle Mitglieder des Vorstandes, des Verwaltungsrates, des Schlichtungsausschusse
     6. Partnership Coordinator
     7. ESNcard Coordinator
     8. Social Media Coordinator
-    9. IT Coordinator
 
 Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden.
 
