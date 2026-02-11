@@ -39,8 +39,8 @@ Diese Vereinsordnung regelt die Angelegenheiten des ESN Deutschland e.V. (nachfo
 
 (1) Es wird ein jährlicher Mitgliedsbeitrag erhoben.
 
-    1. Der Mitgliedsbeitrag beträgt 130€ pro Jahr.
-    2. Finanzschwache Mitglieder können einen reduzierten Mitgliedsbeitrag in Höhe von 65€ beantragen. Der Antrag muss in Textform bis zum 28.02. des betreffenden Jahres beim Vorstand erfolgen. Als finanzschwach gelten Mitglieder, deren Gesamteinnahmen unter 2000€ liegen. Der Vorstand prüft den Antrag anhand einer durch das betreffende Mitglied vorgelegte Einnahmen-Ausgaben-Rechnung des Vorjahres. Der Vorstand entscheidet über den Antrag.
+    1. Der Mitgliedsbeitrag beträgt 146€ pro Jahr.
+    2. Finanzschwache Mitglieder können einen reduzierten Mitgliedsbeitrag in Höhe von 73€ beantragen. Der Antrag muss in Textform bis zum 28.02. des betreffenden Jahres beim Vorstand erfolgen. Als finanzschwach gelten Mitglieder, deren Gesamteinnahmen unter 2000€ liegen. Der Vorstand prüft den Antrag anhand einer durch das betreffende Mitglied vorgelegte Einnahmen-Ausgaben-Rechnung des Vorjahres. Der Vorstand entscheidet über den Antrag.
     3. Die Höhe des Mitgliedsbeitrages soll regelmäßig, jedoch mit einem maximalen Abstand von drei Jahren, vom Vorstand geprüft werden. Die Prüfung soll erfolgen, um auf einen eventuell geänderten Finanzbedarf reagieren zu können.
     4. Neumitglieder zahlen in ihrem ersten Mitgliedsjahr pauschal einen Mitgliedsbeitrag von 50€.
     5. Die Rechnungen der Mitgliedsbeiträge für das laufende Kalenderjahr sollen im März des Jahres gesendet werden. Sofern Mitglieder nach diesem Stichtag aufgenommen werden, so ist die Rechnung innerhalb eines Monats nach der Aufnahme zu verschicken.
