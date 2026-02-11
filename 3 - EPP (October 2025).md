@@ -68,21 +68,19 @@ output:
 
 (2) Hat das Mitglied die delegierte Person auf der Prioritätenliste angegeben, gilt dies ebenfalls als Stimmrechtsdelegation und es bedarf keiner separaten Meldung mehr.
 
-(3) Das Stimmrecht darf nicht an Mitglieder der Versammlungsleitung, des Vorstandes, des Schlichtungsausschusses, oder des Verwaltungsrates delegiert werden.
+(3) Bei der Verteilung der zusätzlichen Kontingentplätze ist unter Beachtung der nachfolgenden  Bestimmungen auf ein ausgewogenes Verhältnis der Mitgliederrepräsentation und Teilnehmenden zu achten. Der Verwaltungsrat beaufsichtigt die Vergabe der Plätze.
 
-(4) Bei der Verteilung der zusätzlichen Kontingentplätze ist unter Beachtung der nachfolgenden  Bestimmungen auf ein ausgewogenes Verhältnis der Mitgliederrepräsentation und Teilnehmenden zu achten. Der Verwaltungsrat beaufsichtigt die Vergabe der Plätze.
+(4) Haben sich mehr Teilnehmende registriert als insgesamt Kontingentplätze zur Verfügung stehen, wird eine Warteliste erstellt. Dabei werden die Teilnehmende der Mitglieder bevorzugt, die die Prioritätenliste fristgemäß eingereicht haben. Wird der Kontingentplatz der delegierten Person storniert oder nicht fristgemäß bezahlt, rückt die nächste Person auf der Prioritätenliste des Mitgliedes nach. Wird ein zusätzlicher Kontingentplatz storniert oder nicht fristgemäß bezahlt, rückt die nächste Person auf der Warteliste nach.
 
-(5) Haben sich mehr Teilnehmende registriert als insgesamt Kontingentplätze zur Verfügung stehen, wird eine Warteliste erstellt. Dabei werden die Teilnehmende der Mitglieder bevorzugt, die die Prioritätenliste fristgemäß eingereicht haben. Wird der Kontingentplatz der delegierten Person storniert oder nicht fristgemäß bezahlt, rückt die nächste Person auf der Prioritätenliste des Mitgliedes nach. Wird ein zusätzlicher Kontingentplatz storniert oder nicht fristgemäß bezahlt, rückt die nächste Person auf der Warteliste nach.
+(5) Bei allen Mitgliederversammlungen mit Wahlen haben die Kandidierenden ein Teilnahmerecht an den Plenarsitzungen.
 
-(6) Bei allen Mitgliederversammlungen mit Wahlen haben die Kandidierenden ein Teilnahmerecht an den Plenarsitzungen.
+(6) Tagesgäste können sich im Rahmen der allgemeinen Registrierung anmelden. Angemeldete Tagesgäste sollen vom Vorstand, bei Mitgliederversammlungen von der Versammlungsleitung, oder dem Organisationskomitee und im Zweifel durch die Mitgliederversammlung zu den Plenarsitzungen zugelassen werden, sofern die räumlichen Kapazitäten dies zulassen. Begründete Ausnahmen, insbesondere eine kurzfristigere Anmeldung, sind nur in Absprache mit dem Vorstand, bei Mitgliederversammlungen die Versammlungsleitung und dem Organisationskomitee möglich. Von den Tagesgästen kann ein Unkostenbeitrag erhoben werden.
 
-(7) Tagesgäste können sich im Rahmen der allgemeinen Registrierung anmelden. Angemeldete Tagesgäste sollen vom Vorstand, bei Mitgliederversammlungen von der Versammlungsleitung, oder dem Organisationskomitee und im Zweifel durch die Mitgliederversammlung zu den Plenarsitzungen zugelassen werden, sofern die räumlichen Kapazitäten dies zulassen. Begründete Ausnahmen, insbesondere eine kurzfristigere Anmeldung, sind nur in Absprache mit dem Vorstand, bei Mitgliederversammlungen die Versammlungsleitung und dem Organisationskomitee möglich. Von den Tagesgästen kann ein Unkostenbeitrag erhoben werden.
-
-(8) Zur Nationalen Ebene gehören alle permanenten Positionen, die entweder durch die Mitglieder gewählt werden oder vom Vorstand ernannt werden. Hierzu gehören unter anderem der Vorstand, der Verwaltungsrat, die Versammlungsleitung, die National Coordinator und die Regional Coordinator. Der Vorstand hat eine Prioritätenliste für die Mitglieder der nationalen Ebene zu erstellen und innerhalb der nationalen Ebene zu veröffentlichen, falls ein Platzkontingent für die nationale Ebene vorgesehen ist.
+(7) Zur Nationalen Ebene gehören alle permanenten Positionen, die entweder durch die Mitglieder gewählt werden oder vom Vorstand ernannt werden. Hierzu gehören unter anderem der Vorstand, der Verwaltungsrat, die Versammlungsleitung, die National Coordinator und die Regional Coordinator. Der Vorstand hat eine Prioritätenliste für die Mitglieder der nationalen Ebene zu erstellen und innerhalb der nationalen Ebene zu veröffentlichen, falls ein Platzkontingent für die nationale Ebene vorgesehen ist.
 
     1. Der Vorstand hat eine Prioritätenliste für die Mitglieder der nationalen Ebene zu erstellen und innerhalb der nationalen Ebene zu veröffentlichen, falls ein Platzkontingent für die nationale Ebene vorgesehen ist.
 
-(9) Bei der EGM kann die Delegationsleitung vor jeder Platzvergabe-Runde den Status der einzelnen Registrierungen überprüfen.
+(8) Bei der EGM kann die Delegationsleitung vor jeder Platzvergabe-Runde den Status der einzelnen Registrierungen überprüfen.
 
     1. Die Delegationsleitung kontaktiert alle registrierten Personen per Mail, die noch keinen Platz erhalten haben. Diese müssen innerhalb einer Frist (mindestens 7 Tage) antworten oder ein Formular ausfüllen. Sollte die registrierte Person innerhalb der Frist keine Antwort senden, so erlischt ihre Registrierung.
     2. Das Verfahren darf nicht bei der ersten Platzvergabe-Runde eingesetzt werden.
