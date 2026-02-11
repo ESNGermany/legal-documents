@@ -1,6 +1,6 @@
 ---
 title: "Veranstaltungsordnung / Event Policy Paper"
-date: "Oktober 2025"
+date: "Februar 2026"
 output: 
   pdf_document:
     latex_engine: xelatex
