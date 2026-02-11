@@ -231,7 +231,7 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
 
 (2) Mit der Aufnahme als neues Mitglied soll ebenfalls eine Zuteilung zu einer oder zwei Regionen erfolgen. Die Mitgliederversammlung kann auf Antrag eines Mitgliedes eine andere Zuteilung beschließen. Der Antrag ist zu begründen.
 
-(3) Jede Region im Sinne des EPP soll zwei Personen für die regionale Koordination (Regional Coordinator) auf den entsprechenden LPs im Herbst nominieren.
+(3) Jede Region soll zwei Personen für die regionale Koordination (Regional Coordinator) auf den entsprechenden LPs im Herbst nominieren.
 
 (4) Als Regional Coordinator sollen nur lokale Mitglieder der Mitglieder der jeweiligen Region ernannt werden. 
 
@@ -241,7 +241,7 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
     4. Die Ernennung der Regional Coordinators obliegt dem Vorstand.
     5. Sollte der Vorstand, in begründeten Fällen, keine nominierte Person in das Amt des Regional Coordinators ernennen oder falls es keine Nominierungen für das Amt gab, kann entweder eine andere Person ernannt oder der Nominierungsprozess online neu gestartet werden.
 
-(5) Mit ihrer Ernennung beginnen die Regional Coordinator ihre Amtszeit, welche bis zur Ernennung einer nachfolgenden Person andauert. Im Einzelfall kann von diesem Grundsatz abgewichen werden.
+(5) Die Regional Coordinator beginnen ihre Amtszeit zum 1.2, eines Jahres, welche bis zum 31.1. des Folgejahres andauert. Im Einzelfall kann von diesem Grundsatz abgewichen werden.
 
 (6) Diese sollen die Zusammenarbeit in ihrer Region koordinieren, als Ansprechpersonen für die Position Vice President in Bezug auf regionale Angelegenheiten dienen und den Wissenstransfer in der Region fördern.
 
