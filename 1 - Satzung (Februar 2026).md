@@ -139,10 +139,10 @@ folgende Aufgaben:
 
 (2) Kann ein Vorstandsposten bei Wahlen nicht besetzt werden oder scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Vorstands berechtigt, ein neues Vorstandsmitglied bis zur nachfolgenden Mitgliederversammlung in den Vorstand zu berufen oder die Aufgaben unter sich aufzuteilen.
 
-(3) Eine einmalige Wiederwahl in den Vorstand ist zulässig, nach Ablauf der zweiten Amtszeit ist die Wiederwahl ausgeschlossen. 
-Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Person auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §14 Abs. 4 Nr. 4 zustimmt.
+(3) Wurde ein Vorstandsposten durch Wahlen nicht besetzt, kann auch vor dem Mandatsbeginn des gewählten Vorstands eine Berufung ab Mandatsbeginn des neuen Vorstands bis zur nächsten Mitgliederversammlung stattfinden, um die Übergabe der Amtsgeschäfte zu erleichtern. Hierbei muss der aktuelle Vorstand die Berufung beschließen und protokollieren. Der gewählte Vorstand führt anschließend eine zu protokollierende Abstimmung über die Berufung durch. Die Berufung gilt als bestätigt, sofern der gewählte Vorstand ihr nicht mehrheitlich widerspricht .
 
-(4) Wurde ein Vorstandsposten durch Wahlen nicht besetzt, kann auch vor dem Mandatsbeginn des gewählten Vorstands eine Berufung ab Mandatsbeginn des neuen Vorstands bis zur nächsten Mitgliederversammlung stattfinden, um die Übergabe der Amtsgeschäfte zu erleichtern. Hierbei muss der aktuelle Vorstand die Berufung beschließen und protokollieren. Der gewählte Vorstand führt anschließend eine zu protokollierende Abstimmung über die Berufung durch. Lehnt er sie nicht ab, gilt die Berufung nach Satz 1.
+(4) Eine einmalige Wiederwahl in den Vorstand ist zulässig, nach Ablauf der zweiten Amtszeit ist die Wiederwahl ausgeschlossen. 
+Ausnahmen von diesem Grundsatz sind nur dann zugelassen, wenn die Mitgliederversammlung zunächst einem Antrag der betroffenen Person auf die Zulassung zur Wahl mit einer Dreiviertelmehrheit gemäß §14 Abs. 4 Nr. 4 zustimmt.
 
 # § 11 – Beratung und Beschlussfassung des Vorstands
 (1) Der Vorstand tritt nach Bedarf zusammen und ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist. 
@@ -249,7 +249,7 @@ Ausgeschiedene Mitglieder des Vorstands oder National Coordinator und Mitglieder
 
 (2) Kann ein Posten des Verwaltungsrats bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Verwaltungsrats vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Verwaltungsrats berechtigt, ein neues Verwaltungsratsmitglied bis zur nachfolgenden Mitgliederversammlung in den Verwaltungsrat zu berufen oder die Aufgaben unter sich aufzuteilen.
 
-(3) §10 Abs. 3 gilt entsprechend.
+(3) §10 Abs. 3 und 4 gelten entsprechend.
 
 (4) §10 Abs. 4 gilt entsprechend.
 
@@ -271,7 +271,7 @@ Der Schlichtungsausschuss besteht aus
 
 (2) Kann ein Posten des Schlichtungsausschusses bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Schlichtungsausschusses vorzeitig aus dem Amt aus, so sind bis zur Wahl eines Nachfolgers durch die Mitgliederversammlung die verbleibenden Mitglieder des Schlichtungsausschusses berechtigt, ein neues Mitglied bis zur nachfolgenden Mitgliederversammlung in den Schlichtungsausschuss zu berufen.
 
-(3) § 10 Abs. 3 gilt entsprechend.
+(3) § 10 Abs. 3 und 4 gelten entsprechend.
 
 (4) §10 Abs. 4 gilt entsprechend.
 
