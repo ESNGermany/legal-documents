@@ -251,8 +251,6 @@ Ausgeschiedene Mitglieder des Vorstands oder National Coordinator und Mitglieder
 
 (3) §10 Abs. 3 und 4 gelten entsprechend.
 
-(4) §10 Abs. 4 gilt entsprechend.
-
 # § 21 - Schlichtungsausschuss
 Der Schlichtungsausschuss besteht aus
 1. einer Person für den Vorsitz,
@@ -272,8 +270,6 @@ Der Schlichtungsausschuss besteht aus
 (2) Kann ein Posten des Schlichtungsausschusses bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Schlichtungsausschusses vorzeitig aus dem Amt aus, so sind bis zur Wahl eines Nachfolgers durch die Mitgliederversammlung die verbleibenden Mitglieder des Schlichtungsausschusses berechtigt, ein neues Mitglied bis zur nachfolgenden Mitgliederversammlung in den Schlichtungsausschuss zu berufen.
 
 (3) § 10 Abs. 3 und 4 gelten entsprechend.
-
-(4) §10 Abs. 4 gilt entsprechend.
 
 # § 24 - Redaktionelle Änderungen
 Der Vorstand kann einstimmig redaktionelle Änderungen der Satzung und der Ordnung sowie deren Anhängen beschließen. 
