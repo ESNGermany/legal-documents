@@ -1,6 +1,6 @@
 ---
 title: "Satzung"
-date: "Februar 2026"
+date: "März 2026"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -217,7 +217,7 @@ Der Versammlungsleitung gehören mindestens zwei, jedoch maximal drei Personen a
 (2) Die Versammlungsleitung arbeitet ehrenamtlich.
 
 # § 17 – Wahl der Versammlungsleitung
-(1) Die Mitglieder der Versammlungsleitung werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Die Bestellung ist jederzeit widerruflich. Nicht wählbar sind Mitglieder des Vorstands und des Verwaltungsrats. Ausgeschiedene Mitglieder des Vorstands und des Verwaltungsrats können der Versammlungsleitung, die ihrem Mandat folgt, angehören.
+(1) Die Mitglieder der Versammlungsleitung werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Die Bestellung ist jederzeit widerruflich. Nicht wählbar sind Mitglieder des Vorstands, und des Verwaltungsrats und des Schlichtungsausschusses. Ausgeschiedene Mitglieder des Vorstands und des Verwaltungsrats können der Versammlungsleitung, die ihrem Mandat folgt, angehören.
 
 (2) Kann ein Posten der Versammlungsleitung bei Wahlen nicht besetzt werden oder scheidet ein Mitglied der Versammlungsleitung vorzeitig aus dem Amt aus, so ist bis zur Wahl eines Nachfolgers durch die Mitgliederversammlung der Vorstand berechtigt, ein neues Mitglied der Versammlungsleitung für die nachfolgende Mitgliederversammlung in die Versammlungsleitung zu berufen.
 
@@ -244,7 +244,7 @@ Er besteht aus
 (1) Die Mitglieder des Verwaltungsrats werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. 
 Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen.
 Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder der Mitglieder. 
-Es dürfen maximal zwei lokale Mitglieder pro Mitglied in den Verwaltungsrat gewählt werden. Nicht wählbar sind Mitglieder des Vorstands oder National Coordinator.
+Es dürfen maximal zwei lokale Mitglieder pro Mitglied in den Verwaltungsrat gewählt werden. Nicht wählbar sind Mitglieder des Vorstands und des Schlichtungsausschusses sowie National Coordinator.
 Ausgeschiedene Mitglieder des Vorstands oder National Coordinator und Mitglieder der Versammlungsleitung der Mitgliederversammlungen können dem Verwaltungsrat, der ihrem Mandat folgt, nicht angehören.
 
 (2) Kann ein Posten des Verwaltungsrats bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Verwaltungsrats vorzeitig aus dem Amt aus, so sind bis zur Wahl einer Nachfolge durch die Mitgliederversammlung die verbleibenden Mitglieder des Verwaltungsrats berechtigt, ein neues Verwaltungsratsmitglied bis zur nachfolgenden Mitgliederversammlung in den Verwaltungsrat zu berufen oder die Aufgaben unter sich aufzuteilen.
@@ -265,11 +265,13 @@ Der Schlichtungsausschuss besteht aus
 (2) Der Schlichtungsausschuss arbeitet ehrenamtlich.
 
 # § 23 - Wahl des Schlichtungsausschusses
-(1) Die Mitglieder des Schlichtungsausschusses werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen. Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder der Mitglieder. Es darf nur ein lokales Mitglied pro Mitglied in den Schlichtungsausschuss gewählt werden. Nicht wählbar sind Mitglieder des Vorstands, Mitglieder des Verwaltungsrats oder National Coordinator.
+(1) Die Mitglieder des Schlichtungsausschusses werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln bestellt. Im Falle einer Änderung des Datums für den Mandatsbeginn kann die Dauer der Amtszeit bis zu 15 Monate betragen. Die Bestellung ist jederzeit widerruflich. Wählbar sind nur lokale Mitglieder der Mitglieder. Es darf nur ein lokales Mitglied pro Mitglied in den Schlichtungsausschuss gewählt werden. Nicht wählbar sind Mitglieder des Vorstands, Mitglieder des Verwaltungsrats, Mitglieder der Versammlungsleitung oder National Coordinator. Ausgeschiedene Mitglieder des Vorstands, des Verwaltungsrats, der Versammlungsleitung und National Coordinator können dem Schlichtungsausschusses, der ihrem Mandat folgt, angehören.
 
 (2) Kann ein Posten des Schlichtungsausschusses bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Schlichtungsausschusses vorzeitig aus dem Amt aus, so sind bis zur Wahl eines Nachfolgers durch die Mitgliederversammlung die verbleibenden Mitglieder des Schlichtungsausschusses berechtigt, ein neues Mitglied bis zur nachfolgenden Mitgliederversammlung in den Schlichtungsausschuss zu berufen.
 
 (3) § 10 Abs. 3 und 4 gelten entsprechend.
+
+(4) Kann der Schlichtungsausschuss insgesamt nicht besetzt werden oder ist er durch Austritte insgesamt nicht besetzt, so werden seine satzungs- und ordnungsgemäßen Zuständigkeiten für die Dauer der Nichtbesetzung gemeinschaftlich durch den Vorstandsvorsitzenden und Verwaltungsratsvorsitzenden wahrgenommen. Die Ersatzwahrnehmung endet automatisch mit dem Amtsantritt von mindestens einem ordnungsgemäß gewählten Mitglied des Schlichtungsausschusses.
 
 # § 24 - Redaktionelle Änderungen
 Der Vorstand kann einstimmig redaktionelle Änderungen der Satzung und der Ordnung sowie deren Anhängen beschließen. 
