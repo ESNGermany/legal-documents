@@ -1,13 +1,14 @@
 FROM pandoc/latex:latest
 
-RUN apk --no-cache add \
+RUN apt-get update && apt-get install -y --no-install-recommends \
         bash \
-        py3-pip \
+        python3-pip \
         rsync \
         openssh-client \
         fontconfig \
-        ttf-liberation \
-        librsvg
+        fonts-liberation \
+        librsvg2-bin \
+    && rm -rf /var/lib/apt/lists/*
 
 RUN tlmgr update --self && \
     tlmgr install \
