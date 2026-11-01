@@ -19,7 +19,7 @@ jobs:
         run: rm html/*; rm pdf/*
         
       - name: Build the Docker image
-        run: docker build -t esndoc . < Dockerfile 
+        run: docker build -t esndoc . -f Dockerfile 
       
       - name: Build the pdf
         run: |
