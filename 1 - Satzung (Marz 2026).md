@@ -153,11 +153,11 @@ Bei Stimmengleichheit entscheidet die Stimme der vorstandsvorsitzenden Person.
 # § 12 – Aufgaben der Mitgliederversammlung
 Die Mitgliederversammlung entscheidet insbesondere über:
 
-1. Änderungen der Satzung,
+1. Änderungen der Satzung und der Ordnung sowie ihrer Anhänge,
 2. die Aufnahme neuer Mitglieder,
 3. die Festsetzung der Mitgliedsbeiträge,
 4. den Ausschluss von Mitgliedern aus dem Verein,
-5. die Bestellung und die Abberufung der Mitglieder des Vorstands und des Verwaltungsrats,
+5. die Bestellung und die Abberufung der Mitglieder des Vorstands, des Schlichtungsausschusses und des Verwaltungsrats,
 6. die Bestellung und die Abberufung der Mitglieder der Versammlungsleitung der Mitgliederversammlungen,
 7. die Entgegennahme des Jahresberichts und die Entlastung des Vorstands,
 8. die Auflösung des Vereins.
