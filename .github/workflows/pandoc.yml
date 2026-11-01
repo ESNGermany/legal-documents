@@ -17,6 +17,9 @@ jobs:
         
       - name: Remove old versions
         run: rm -f html/* pdf/*
+
+      - name: Build the Docker image
+        run: docker build -t esndoc . -f Dockerfile
         
       - name: Build the pdf
         run: |
