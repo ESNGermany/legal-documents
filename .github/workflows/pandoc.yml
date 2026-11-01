@@ -22,7 +22,7 @@ jobs:
         run: |
           for mdfile in ${{ github.workspace }}/*.md; do
             mdfilebase=$(basename "$mdfile")
-            docker run --rm -v "${{ github.workspace }}:/pandoc" pandoc/latex:latest \
+            docker run --rm -v "${{ github.workspace }}:/pandoc" esndoc \
               "/pandoc/$mdfilebase" -o "/pandoc/pdf/${mdfilebase%.*}.pdf" \
               --pdf-engine=xelatex --template=/pandoc/esn.latex
           done
