@@ -269,7 +269,7 @@ Der Schlichtungsausschuss besteht aus
 
 (2) Kann ein Posten des Schlichtungsausschusses bei Wahlen nicht besetzt werden oder scheidet ein Mitglied des Schlichtungsausschusses vorzeitig aus dem Amt aus, so sind bis zur Wahl eines Nachfolgers durch die Mitgliederversammlung die verbleibenden Mitglieder des Schlichtungsausschusses berechtigt, ein neues Mitglied bis zur nachfolgenden Mitgliederversammlung in den Schlichtungsausschuss zu berufen.
 
-(3) § 10 Abs. 3 und 4 gelten entsprechend.
+(3) §10 Abs. 3 und 4 gelten entsprechend.
 
 (4) Kann der Schlichtungsausschuss insgesamt nicht besetzt werden oder ist er durch Austritte insgesamt nicht besetzt, so werden seine satzungs- und ordnungsgemäßen Zuständigkeiten für die Dauer der Nichtbesetzung gemeinschaftlich durch den Vorstandsvorsitzenden und Verwaltungsratsvorsitzenden wahrgenommen. Die Ersatzwahrnehmung endet automatisch mit dem Amtsantritt von mindestens einem ordnungsgemäß gewählten Mitglied des Schlichtungsausschusses.
 
