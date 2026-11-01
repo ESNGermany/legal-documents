@@ -1,6 +1,6 @@
 ---
 title: "Ordnung"
-date: "Februar 2026"
+date: "Mai 2026"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -223,10 +223,10 @@ Nach Ermessen des Vorstands können weitere National Coordinators ernannt werden
 
 (1) Die Mitglieder sind folgenden Regionen zugeteilt, wobei eine Zuteilung maximal zu zwei Regionen möglich ist:
 
-    1. Region Nord: ESN Braunschweig, ESN Göttingen, ESN LEI Greifswald, ESN Hamburg, ESN Hannover, ESN Hildesheim, ESN Kiel, ESN Lübeck, ESN LEI Rostock;
+    1. Region Nord: ESN Braunschweig, ESN Bremen, ESN Göttingen, ESN LEI Greifswald, ESN Hamburg, ESN Hannover, ESN Hildesheim, ESN Kiel, ESN Lübeck, ESN LEI Rostock;
     2. Region Ost: ESN Berlin, ESN HTW Dresden, ESN TU Dresden, ESN Frankfurt/Oder, ESN LEI Greifswald, ESN Jena, ESN Halle (Saale), ESN LEI Potsdam;
-    3. Region West: ESN Bielefeld, ESN Bochum, ESN Bonn, ESN Dortmund, ESN Düsseldorf, ESN Koblenz, ESN Köln, ESN Siegen, ESN Witten/Herdecke;
-    4. Region Süd-Ost: ESN Augsburg, ESN Bayreuth, ESN Deggendorf, ESN Ingolstadt, ESN MESA München, ESN TUMi München, ESN Regensburg;
+    3. Region West: ESN Aachen, ESN Bielefeld, ESN Bochum, ESN Bonn, ESN Dortmund, ESN Düsseldorf, ESN Koblenz, ESN Köln, ESN Siegen, ESN Witten/Herdecke;
+    4. Region Süd-Ost: ESN Augsburg, ESN Bayreuth, ESN Deggendorf, ESN Erlangen-Nürnberg, ESN Ingolstadt, ESN MESA München, ESN TUMi München, ESN Regensburg;
     5. Region Süd-West: ESN Darmstadt, ESN Frankfurt am Main, ESN Freiburg, ESN Gießen, ESN Heidelberg, ESN STEP Kaiserslautern, ESN Karlsruhe, ESN Konstanz, ESN IPAS Landau, ESN Mainz, ESN VISUM Mannheim, ESN Pforzheim, ESN Saarbrücken, ESN Stuttgart.
 
 (2) Mit der Aufnahme als neues Mitglied soll ebenfalls eine Zuteilung zu einer oder zwei Regionen erfolgen. Die Mitgliederversammlung kann auf Antrag eines Mitgliedes eine andere Zuteilung beschließen. Der Antrag ist zu begründen.
