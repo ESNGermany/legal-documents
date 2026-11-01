@@ -16,29 +16,23 @@ jobs:
         uses: actions/checkout@v4
         
       - name: Remove old versions
-        run: rm html/*; rm pdf/*
+        run: rm -f html/* pdf/*
         
-      - name: Build the Docker image
-        run: docker build -t esndoc . -f Dockerfile 
-      
       - name: Build the pdf
         run: |
-          MDFILELIST=$(ls ${{ github.workspace }}/*.md)
-          IFS=$'\n'
-          for mdfile in ${MDFILELIST}
-          do
-            mdfilebase=$(basename ${mdfile})
-            docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "${mdfilebase}" -o "pdf/${mdfilebase%.*}.pdf" --pdf-engine=xelatex --template=esn.latex  
+          for mdfile in ${{ github.workspace }}/*.md; do
+            mdfilebase=$(basename "$mdfile")
+            docker run --rm -v "${{ github.workspace }}:/pandoc" pandoc/latex:latest \
+              "/pandoc/$mdfilebase" -o "/pandoc/pdf/${mdfilebase%.*}.pdf" \
+              --pdf-engine=xelatex --template=/pandoc/esn.latex
           done
 
       - name: Build the html files
         run: |
-          MDFILELIST=$(ls ${{ github.workspace }}/*.md)
-          IFS=$'\n'
-          for mdfile in ${MDFILELIST}
-          do
-            mdfilebase=$(basename ${mdfile})
-            docker run --rm -u `id -u`:`id -g` -v `pwd`:/pandoc esndoc "${mdfilebase}" -o "html/${mdfilebase%.*}.html"  
+          for mdfile in ${{ github.workspace }}/*.md; do
+            mdfilebase=$(basename "$mdfile")
+            docker run --rm -v "${{ github.workspace }}:/pandoc" pandoc/latex:latest \
+              "/pandoc/$mdfilebase" -o "/pandoc/html/${mdfilebase%.*}.html"
           done
           
       - name: Commit changes
