@@ -2,12 +2,12 @@ FROM pandoc/latex:latest
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
         bash \
-        python3-pip \
+        py3-pip \
         rsync \
         openssh-client \
         fontconfig \
-        fonts-liberation \
-        librsvg2-bin \
+        ttf-liberation \
+        librsvg
     && rm -rf /var/lib/apt/lists/*
 
 RUN tlmgr update --self && \
