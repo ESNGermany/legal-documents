@@ -8,7 +8,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
         fontconfig \
         ttf-liberation \
         librsvg
-    && rm -rf /var/lib/apt/lists/*
 
 RUN tlmgr update --self && \
     tlmgr install \
